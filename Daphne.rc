@@ -1,0 +1,1036 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_NEUTRAL
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_PP_LOGGING DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Logging"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    GROUPBOX        "Logging options",IDC_STG_LOG,7,6,255,185
+    CONTROL         "Log started and ended process",IDC_PPL_LOGP,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,13,18,241,10
+    EDITTEXT        IDC_PPL_LOGPF,13,31,219,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_PPL_LOGPS,240,30,15,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_PP_LOGGING, DIALOG
+    BEGIN
+        VERTGUIDE, 262
+        HORZGUIDE, 191
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Neutral (Default) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEUD)
+LANGUAGE LANG_NEUTRAL, SUBLANG_DEFAULT
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,4,0
+ PRODUCTVERSION 2,0,4,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x29L
+#else
+ FILEFLAGS 0x28L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "http://www.drk.com.ar"
+            VALUE "CompanyName", "Leandro H. Fernández"
+            VALUE "FileDescription", "Daphne"
+            VALUE "FileVersion", "2.0.4.0"
+            VALUE "InternalName", "Daphne"
+            VALUE "LegalCopyright", "Copyright (C) 2014 - Leandro H. Fernández"
+            VALUE "LegalTrademarks", "Leandro H. Fernández"
+            VALUE "OriginalFilename", "Daphne.EXE"
+            VALUE "PrivateBuild", "-"
+            VALUE "ProductName", "Daphne"
+            VALUE "ProductVersion", "2.0.4.0"
+            VALUE "SpecialBuild", "x86-64"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // Neutral (Default) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_GREEN DIALOGEX 0, 0, 287, 105
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+CAPTION "Protect our planet"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,89,85,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,147,85,50,14
+    LTEXT           "Static",IDC_STT_GREEN,7,6,273,75
+END
+
+IDD_KILLAT DIALOGEX 0, 0, 226, 87
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Kill at..."
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,112,66,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,169,66,50,14
+    CONTROL         "",IDC_TIME,"SysDateTimePick32",DTS_RIGHTALIGN | DTS_UPDOWN | WS_TABSTOP | 0x8,80,33,58,15
+    CONTROL         "",IDC_DATE,"SysDateTimePick32",DTS_RIGHTALIGN | WS_TABSTOP,7,33,67,15
+    LTEXT           "Select date and time to kill the process at:",IDC_STT_SELECTKA,7,20,212,8
+    CONTROL         "Be polite",IDC_BE_POLITE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,145,36,74,10
+    LTEXT           "Process to kill:",IDC_STT_PTK,7,7,69,8
+    LTEXT           "",IDC_PNAME,84,7,135,8
+END
+
+IDD_SHUTDOWN DIALOGEX 0, 0, 232, 63
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Shutdown at..."
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,120,42,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,175,42,50,14
+    CONTROL         "",IDC_TIME,"SysDateTimePick32",DTS_RIGHTALIGN | DTS_UPDOWN | WS_TABSTOP | 0x8,80,19,58,15
+    CONTROL         "",IDC_DATE,"SysDateTimePick32",DTS_RIGHTALIGN | WS_TABSTOP,7,19,67,15
+    LTEXT           "Schedule system shutdown at:",IDC_STT_SELECTKA,7,7,218,8
+    COMBOBOX        IDC_TYPE,144,20,81,56,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 358, 334
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " About Daphne"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "Close",IDCANCEL,286,310,60,14,BS_FLAT
+    PUSHBUTTON      "www.drk.com.ar",IDC_WEB,101,310,60,14,BS_FLAT
+    PUSHBUTTON      "License",IDC_LICENSE,8,310,60,14,BS_FLAT
+    CONTROL         129,IDC_STATIC,"Static",SS_BITMAP | SS_SUNKEN,88,7,182,63
+    CTEXT           "",IDC_AB_TITLE,90,79,178,8,SS_NOPREFIX | SS_NOTIFY
+    GROUPBOX        "Contributed",IDC_STG_CONTRIB,8,95,338,208
+    PUSHBUTTON      "Contribute",IDC_CONTRIBUTE,194,310,60,14
+    EDITTEXT        IDC_CREDITS,18,110,316,185,ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY | WS_VSCROLL
+END
+
+IDD_DAPHNE_DIALOG DIALOGEX 0, 0, 498, 289
+STYLE DS_SETFONT | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_TOOLWINDOW | WS_EX_APPWINDOW
+CAPTION " ~ Daphne ~"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_LIST,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | WS_TABSTOP,7,37,484,227
+    CONTROL         "Full path and arguments",IDC_FULLPATHEX,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,7,273,112,10
+    CONTROL         "Always on top",IDC_AONTOP,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,129,273,74,10
+    COMBOBOX        IDC_TACTION,240,270,110,81,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   "Daphne >",IDC_MENUB,362,270,61,14,BS_FLAT
+    PUSHBUTTON      "Settings...",IDC_SETTINGS,430,270,61,14,BS_FLAT
+    ICON            "",IDC_C_KILL,213,267,21,20,SS_NOTIFY
+    LTEXT           "CPU usage 100%",IDC_INF_CPU,190,7,91,8,SS_NOTIFY
+    LTEXT           "Memory usage 100%",IDC_INF_MEM,289,7,94,8,SS_NOTIFY
+    LTEXT           "Uptime:",IDC_INF_CPUC,7,7,174,8,SS_NOTIFY
+    LTEXT           "Free memory 1000 MB",IDC_INF_FMEM,392,7,99,8,SS_NOTIFY
+    LTEXT           "Running processes:",IDC_INF_COUNT,392,22,91,8
+    LTEXT           "Login:",IDC_INF_LOGIN,7,22,174,8
+    LTEXT           "Installed CPUs:",IDC_INF_CPUCOUNT,190,22,91,8
+    LTEXT           "Proc",IDC_INF_PROC,289,22,94,8
+END
+
+IDD_SENDMSG DIALOGEX 0, 0, 226, 82
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Send message..."
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    COMBOBOX        IDC_M_MSG,72,7,145,70,CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_M_LPARAM,72,24,127,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_GETVAL1,205,25,12,11
+    EDITTEXT        IDC_M_WPARAM,72,41,127,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_GETVAL2,205,42,12,11
+    DEFPUSHBUTTON   "OK",IDOK,123,60,45,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,172,60,45,14,BS_FLAT
+    RTEXT           "Message:",IDC_STT_MSG,7,9,57,8
+    RTEXT           "lParam:",IDC_STT_LP,7,26,57,8
+    RTEXT           "wParam:",IDC_STT_WP,7,43,57,8
+END
+
+IDD_KILLALL DIALOGEX 0, 0, 232, 48
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Kill all by name"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_KA_NAME,86,7,139,12,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,129,27,44,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,181,27,44,14,BS_FLAT
+    RTEXT           "Process name:",IDC_STT_PROC,7,8,72,8
+    CONTROL         "case-sensitive",IDC_KA_CASE,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,7,31,107,10
+END
+
+IDD_KMI_EDIT DIALOGEX 0, 0, 196, 148
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Kill menu item"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_KMI_NAME,69,7,120,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_KMI_PLIST,15,41,151,69,ES_MULTILINE | ES_AUTOHSCROLL | ES_WANTRETURN | WS_VSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,89,127,45,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,144,127,45,14,BS_FLAT
+    RTEXT           "Menu name:",IDC_STT_MENU,7,8,57,8
+    GROUPBOX        "Process list (case sensitive)",IDC_STG_PROCL,7,28,182,89
+    PUSHBUTTON      "...",IDC_KMI_PROCS,171,41,12,11
+END
+
+IDD_GETVALUE DIALOGEX 0, 0, 186, 178
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Win32 values"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_V_FILTER,39,7,140,12,ES_AUTOHSCROLL
+    LISTBOX         IDC_V_LIST,7,24,172,125,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   "OK",IDOK,83,157,45,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,134,157,45,14,BS_FLAT
+    RTEXT           "Filter:",IDC_STT_FILTER,7,9,27,8
+END
+
+IDD_INSPECTOR DIALOGEX 0, 0, 200, 110
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Inspector"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    ICON            "",IDC_LUPACTRL,7,7,20,20,SS_NOTIFY
+    RTEXT           "Title:",IDC_STT_TITLE,7,38,49,8
+    EDITTEXT        IDC_I_TITLE,64,38,129,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    RTEXT           "Class:",IDC_STT_CLASS,7,50,49,8
+    EDITTEXT        IDC_I_CLASS,64,50,129,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    RTEXT           "Text:",IDC_STT_TEXT,7,62,49,8
+    EDITTEXT        IDC_I_TEXT,64,62,129,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Drag the magnifying glass over windows and controls to inspect its properties.",IDC_STT_DRAG,35,9,158,18
+    RTEXT           "Size:",IDC_STT_SZ,7,86,49,8
+    RTEXT           "Location:",IDC_STT_LOC,7,74,49,8
+    EDITTEXT        IDC_I_LOCATION,64,74,129,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_I_SIZE,64,86,129,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+END
+
+IDD_KMI_CPLIST DIALOGEX 0, 0, 183, 150
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Current process list"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,79,129,45,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,131,129,45,14,BS_FLAT
+    LISTBOX         IDC_KMI_PLIST,7,7,169,116,LBS_SORT | LBS_NOINTEGRALHEIGHT | LBS_EXTENDEDSEL | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_PP_LOOK DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Look and feel"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    CONTROL         "Slider1",IDC_WNDALPHA,"msctls_trackbar32",TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,170,37,68,10
+    GROUPBOX        "Main window and tray icon",IDC_STT_MAINW,7,7,255,48
+    LTEXT           "75%",IDC_PS_100,156,37,14,8
+    LTEXT           "0%",IDC_PS_25,239,37,10,8
+    GROUPBOX        "Process list colum order",IDC_STG_PROCLC,7,60,255,132
+    CONTROL         "List1",IDC_S_COLUMNS,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOCOLUMNHEADER | WS_BORDER | WS_TABSTOP,13,74,189,111
+    PUSHBUTTON      "Up",IDC_S_UP2,210,74,44,14,BS_FLAT
+    PUSHBUTTON      "Down",IDC_S_DOWN2,210,92,44,14,BS_FLAT
+    CONTROL         "Window transparence",IDC_S_TRANSP,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,14,36,129,10
+    CONTROL         "Animate tray icon with CPU usage.",IDC_S_ANIMICON,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,14,20,239,10
+END
+
+IDD_PP_KILL DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Kill menu"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    CONTROL         "List1",IDC_KILLERS,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOCOLUMNHEADER | WS_BORDER | WS_TABSTOP,13,18,186,165
+    PUSHBUTTON      "Add",IDC_S_ADD,208,18,44,14,BS_FLAT
+    PUSHBUTTON      "Edit",IDC_S_EDIT,208,36,44,14,BS_FLAT
+    PUSHBUTTON      "Remove",IDC_S_REMOVE,208,54,44,14,BS_FLAT
+    PUSHBUTTON      "Up",IDC_S_UP,208,72,44,14,BS_FLAT
+    PUSHBUTTON      "Down",IDC_S_DOWN,208,90,44,14,BS_FLAT
+    GROUPBOX        "Kill menu",IDC_STG_DMENU,7,7,255,185
+END
+
+IDD_PP_STARTUP DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Main"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    GROUPBOX        "Daphne startup",IDC_STG_STARTU,7,7,253,83
+    CONTROL         "Start Daphne automatically when starting Windows",IDC_S_START_WIN,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,16,20,232,10
+    CONTROL         "Always hide Daphne on startup",IDC_S_START_HIDE,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,16,33,232,10
+    GROUPBOX        "Behavior",IDC_STG_BEHAVE,7,95,253,96
+    CONTROL         "Alternate list item background color",IDC_S_ALT_BKGND,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,16,108,232,10
+    CONTROL         "Hide zombie processes",IDC_S_HIDEZOMBIES,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,16,121,232,10
+    CONTROL         "Check internet for Daphne updates on startup",IDC_S_CHECKUP,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,16,46,232,10
+    CONTROL         "Use HTTP proxy",IDC_S_PROXY,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,16,59,232,10
+    EDITTEXT        IDC_S_PADDR,100,72,103,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_S_PPORT,207,72,41,12,ES_AUTOHSCROLL
+    LTEXT           "Proxy server:",IDC_STS_PROXY,16,74,79,8
+    CONTROL         "Fast refresh",IDC_S_FASTR,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,16,134,232,10
+END
+
+IDD_CRASH DIALOGEX 0, 0, 379, 174
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Daphne - Crash"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "SEND",IDOK,250,153,58,14,BS_FLAT
+    PUSHBUTTON      "Quit",IDCANCEL,314,153,58,14,BS_FLAT
+    LTEXT           "An unhandled exception has crashed Daphne. Please, press SEND to report this problem by mail.",IDC_STT_EXCEP,7,7,365,8
+    GROUPBOX        "Error information",IDC_STG_ERRINFO,7,22,365,125
+    EDITTEXT        IDC_CR_ERROR,13,34,348,103,ES_MULTILINE | ES_READONLY | ES_WANTRETURN | WS_VSCROLL | WS_HSCROLL
+    LTEXT           "* You will see the mail before sending.",IDC_STT_STAR,7,153,205,8
+END
+
+IDD_RUNP DIALOGEX 0, 0, 271, 82
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Run process"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_R_PRG,74,7,170,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_EXPLORE,249,7,15,12
+    EDITTEXT        IDC_R_ARG,74,23,170,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_R_DIR,74,39,170,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_EXPLORE2,249,39,15,12
+    CONTROL         "Start process suspended",IDC_RP_SUSP,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,7,65,143,10
+    DEFPUSHBUTTON   "Run",IDOK,163,61,47,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,217,61,47,14,BS_FLAT
+    RTEXT           "Program:",IDC_STT_PRG,7,9,61,8
+    RTEXT           "Arguments:",IDC_STT_ARG,7,25,61,8
+    RTEXT           "Directory:",IDC_STT_DIR,7,41,61,8
+END
+
+IDD_AUTHUSER DIALOGEX 0, 0, 206, 62
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Authenticate user"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_A_USER,69,7,130,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_A_PASSWD,69,24,130,12,ES_PASSWORD | ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,97,41,47,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,152,41,47,14,BS_FLAT
+    RTEXT           "Username:",IDC_STT_USERN,7,8,56,8
+    RTEXT           "Password:",IDC_STT_PASSW,7,26,56,8
+END
+
+IDD_WNDLIST DIALOGEX 0, 0, 145, 90
+STYLE DS_SETFONT | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Hidden applications"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "List2",IDC_WNDS,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOCOLUMNHEADER | LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,7,7,131,76
+END
+
+IDD_PP_ADVANCED DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Advanced"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    GROUPBOX        "Advanced options",IDC_STG_SC,7,7,255,185
+    CONTROL         "Shift",IDC_SC_SHIFT,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,17,35,39,10
+    CONTROL         "Alt",IDC_SC_ALT,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,60,35,30,10
+    COMBOBOX        IDC_SC_VKEY,137,33,70,57,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Install system wide Daphne activation shortcut",IDC_SC_ON,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,17,19,237,10
+    CONTROL         "Show all hidden applications on exit",IDC_ADV_UNHIDE,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,17,52,239,10
+    CONTROL         "Ctrl",IDC_SC_CTRL,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,94,35,38,10
+    CONTROL         "Try to hide Java VM from command line",IDC_ADV_JAVAHIDE,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,17,68,239,10
+    CONTROL         "Don't check Debug programs privilege on startup",IDC_CHECKDEBUG,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,17,84,239,10
+    CONTROL         "Using Daphne.INI file",IDC_STORE_INI,"Button",BS_AUTORADIOBUTTON,26,114,217,10
+    CONTROL         "Using Windows registry",IDC_STORE_REG,"Button",BS_AUTORADIOBUTTON,26,126,216,10
+    GROUPBOX        "Store configuration",IDC_STG_STRCFG,17,100,237,42
+END
+
+IDD_MB_WEBAGREE DIALOGEX 0, 0, 254, 84
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Web updates"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "Yes",IDOK,79,63,44,14,BS_FLAT
+    PUSHBUTTON      "No",IDCANCEL,131,63,44,14,BS_FLAT
+    LTEXT           "Daphne is about to check the web for updates. This is done without sending any personally identifiable information to the web site.",IDC_STT_NOTE,7,7,240,26
+    LTEXT           "Do you want Daphne to check for updates at internet?",IDC_STT_Q,7,36,240,16
+END
+
+IDD_NEW_TRAP DIALOGEX 0, 0, 268, 98
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Trap..."
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_NAME,127,7,134,12,ES_AUTOHSCROLL
+    COMBOBOX        IDC_TRAP,127,22,134,96,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   "OK",IDOK,165,77,45,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,216,77,45,14,BS_FLAT
+    LTEXT           "Process name:",IDC_STT_PNAME,7,8,113,8
+    LTEXT           "Action:",IDC_STT_TYPE,7,24,113,8
+    LTEXT           "Window title contains:",IDC_STT_WCONT,7,40,113,8
+    EDITTEXT        IDC_TR_WCONTAINS,127,39,134,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_GEN64INT,127,56,134,12,ES_AUTOHSCROLL
+    LTEXT           "Generic 64 bits argument:",IDC_STT_GEN64INT,7,57,113,8
+END
+
+IDD_PP_TRAPS DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Traps"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    GROUPBOX        "Traps",IDC_STG_TRAPS,7,7,253,183
+    CONTROL         "List1",IDC_TR_LIST,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SORTASCENDING | LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,15,18,182,162
+    PUSHBUTTON      "Add",IDC_TR_ADD,206,18,44,14,BS_FLAT
+    PUSHBUTTON      "Edit",IDC_TR_EDIT,206,36,44,14,BS_FLAT
+    PUSHBUTTON      "Remove",IDC_TR_REMOVE,206,54,44,14,BS_FLAT
+END
+
+IDD_PP_HIGHLIGHTS DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Property Page"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    PUSHBUTTON      "...",IDC_HL_PROCS,251,20,12,11
+    EDITTEXT        IDC_HL_LIST,7,20,236,82,ES_MULTILINE | ES_AUTOHSCROLL | WS_VSCROLL
+    LTEXT           "Add process names to highlight in the main list:",IDC_STT_HLLIST,7,7,255,8
+    CONTROL         "Highlight system process with blue",IDC_HL_HLSYSTEM,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,125,255,10
+    CONTROL         "Hightlight process over 95% CPU in red",IDC_HL_HLTOP,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,139,255,10
+    CONTROL         "Highlight orange, process with more than 20% of memory used",IDC_HL_HLTOPMEM,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,110,255,10
+END
+
+IDD_LSSOFT_DIALOG DIALOGEX 0, 0, 433, 201
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW | WS_EX_APPWINDOW
+CAPTION " Installed software list"
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Close",IDCANCEL,365,180,61,14,BS_FLAT
+    CONTROL         "",IDC_LISTLS,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,7,419,168
+    PUSHBUTTON      "Export...",IDC_LSSOFT_EXPORT,7,180,61,14
+END
+
+IDD_WNDCLOSEALL DIALOGEX 0, 0, 246, 48
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Close all windows by title"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_WCA_NAME,100,7,139,12,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,144,27,44,14,BS_FLAT
+    PUSHBUTTON      "Cancel",IDCANCEL,195,27,44,14,BS_FLAT
+    RTEXT           "Window title contains:",IDC_STT_WND,7,8,87,8
+    CONTROL         "case-sensitive",IDC_WCA_CASE,"Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,7,31,107,10
+END
+
+IDD_PP_MULTIDESK DIALOGEX 0, 0, 270, 200
+STYLE DS_SETFONT | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "Integration"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    GROUPBOX        "Multidesktop options",IDC_STG_MD,7,7,255,48
+    CONTROL         "Enable Multidesktop feature (at Daphne's startup)",IDC_SCMD_ON,
+                    "Button",BS_AUTOCHECKBOX | BS_FLAT | WS_TABSTOP,17,19,235,10
+    CONTROL         "",IDC_SPIN_ED,"msctls_updown32",UDS_ARROWKEYS,16,33,10,14
+    LTEXT           "N",IDC_CTRL_EDN,31,36,13,8
+    LTEXT           "Extra desktops",IDC_STED_NUM,43,36,209,8
+    GROUPBOX        "Integration options",IDC_STG_IN,7,61,255,32
+    CONTROL         "Enable Windows Explorer integration",IDC_CONTEXTMENU_ON,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,17,75,235,10
+    GROUPBOX        "Run slots",IDC_STG_RUNSLOTS,7,98,255,94
+    EDITTEXT        IDC_RS_F4,35,173,217,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_RS_F3,35,154,217,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_RS_F2,35,135,217,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_RS_F1,35,115,217,14,ES_AUTOHSCROLL
+    LTEXT           "F1",IDC_STATIC,17,117,9,8
+    LTEXT           "F2",IDC_STATIC,17,137,9,8
+    LTEXT           "F3",IDC_STATIC,17,156,9,8
+    LTEXT           "F4",IDC_STATIC,17,175,9,8
+END
+
+IDD_SCHEDULED DIALOGEX 0, 0, 197, 202
+STYLE DS_SETFONT | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Scheduled tasks"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "List2",IDC_TASKS,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOCOLUMNHEADER | LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,7,9,179,186
+END
+
+IDD_AFFINITY DIALOGEX 0, 0, 173, 218
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "Affinity"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,61,197,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,116,197,50,14
+    CONTROL         "",IDC_CPULIST,"SysListView32",LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,7,159,145
+    PUSHBUTTON      "Select all",IDC_CPUALL,7,156,76,14
+    PUSHBUTTON      "Select none",IDC_CPUNONE,92,156,74,14
+    CONTROL         "Create or modify trap",IDC_TRAP_AFFINITY,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,178,159,10
+END
+
+IDD_WINDOWSIZE DIALOGEX 0, 0, 234, 71
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Set window size"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,123,50,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,177,50,50,14
+    EDITTEXT        IDC_SETSIZE,143,7,84,12,ES_AUTOHSCROLL
+    COMBOBOX        IDC_PRESIZE,143,26,84,30,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "New window size:",IDC_STT_WS_NEWSIZE,7,9,127,8
+    LTEXT           "Load predefined size:",IDC_STT_WS_PREDEF,7,28,127,8
+END
+
+IDD_MESSAGEAT DIALOGEX 0, 0, 226, 97
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Message at..."
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,112,76,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,169,76,50,14
+    CONTROL         "",IDC_TIME,"SysDateTimePick32",DTS_RIGHTALIGN | DTS_UPDOWN | WS_TABSTOP | 0x8,80,51,58,15
+    CONTROL         "",IDC_DATE,"SysDateTimePick32",DTS_RIGHTALIGN | WS_TABSTOP,7,51,67,15
+    LTEXT           "Select date and time to display message at:",IDC_STT_SELECTMA,7,38,212,8
+    LTEXT           "Message:",IDC_STT_MESSAGE,7,7,69,8
+    LTEXT           "",IDC_PNAME,84,7,135,8
+    EDITTEXT        IDC_MSGATMSG,7,19,212,12,ES_AUTOHSCROLL
+END
+
+IDD_PROPERTIES DIALOGEX 0, 0, 288, 379
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Properties"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_P_NAME,56,7,140,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_PATH,56,25,225,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_PARENT,56,42,74,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_PRIORITY,56,60,74,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_CREATED,56,78,225,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_KERNELT,56,95,74,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_OWNER,179,42,91,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_CLASS,179,60,92,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    EDITTEXT        IDC_P_USERT,179,95,80,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    PUSHBUTTON      "...DRK search",IDC_GOOGLE,200,7,71,14,BS_FLAT
+    CONTROL         "Tree1",IDC_T_WNDS,"SysTreeView32",TVS_HASBUTTONS | TVS_HASLINES | TVS_LINESATROOT | TVS_DISABLEDRAGDROP | TVS_SHOWSELALWAYS | WS_BORDER | WS_HSCROLL | WS_TABSTOP,13,143,258,89
+    EDITTEXT        IDC_P_THREADS,13,255,258,68,ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY | ES_WANTRETURN | NOT WS_VISIBLE | WS_VSCROLL
+    CONTROL         "Threads",IDC_P_INFOT,"Button",BS_AUTORADIOBUTTON | BS_PUSHLIKE | BS_FLAT,13,330,60,14
+    CONTROL         "Modules",IDC_P_INFOM,"Button",BS_AUTORADIOBUTTON | BS_PUSHLIKE | BS_FLAT,78,330,60,14
+    CONTROL         "Environment",IDC_P_INFOE,"Button",BS_AUTORADIOBUTTON | BS_PUSHLIKE | BS_FLAT,143,330,60,14
+    CONTROL         "I/O",IDC_P_INFOIO,"Button",BS_AUTORADIOBUTTON | BS_PUSHLIKE | BS_FLAT,208,330,60,14
+    PUSHBUTTON      "Close",IDCANCEL,237,357,44,14,BS_FLAT
+    LTEXT           "Process:",IDC_STT_1,7,7,46,8
+    LTEXT           "CmdLine:",IDC_STT_2,7,25,46,8
+    LTEXT           "Priority:",IDC_STT_3,7,60,46,8
+    LTEXT           "Class:",IDC_STT_4,138,60,38,8
+    LTEXT           "Created:",IDC_STT_5,7,78,46,8
+    LTEXT           "Kernel time:",IDC_STT_6,7,95,46,8
+    LTEXT           "User time:",IDC_STT_7,138,95,38,8
+    GROUPBOX        "More information",IDC_STG_MI,7,243,274,107
+    GROUPBOX        "Windows",IDC_STG_WNDS,7,130,274,110
+    CONTROL         "List1",IDC_P_THREADLIST,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | WS_TABSTOP,13,255,258,68
+    LTEXT           "Parent:",IDC_STT_PARENT,7,42,24,8
+    LTEXT           "Owner:",IDC_STT_OWNER,138,42,24,8
+    LTEXT           "Min/max working set size:",IDC_STT_MMWS,7,113,119,8
+    EDITTEXT        IDC_P_MINWS,138,111,62,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_P_MAXWS,213,111,68,12,ES_AUTOHSCROLL
+    LTEXT           "/",IDC_STT_SLASH,204,113,8,8
+    PUSHBUTTON      "OK",IDOK,185,357,44,14
+END
+
+IDD_CPUUSAGEH DIALOGEX 0, 0, 346, 240
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " CPU Usage"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Close",IDCANCEL,289,219,50,14
+    CONTROL         "",IDC_GRAPH,"Static",SS_BITMAP | SS_NOTIFY | SS_SUNKEN,7,7,332,104
+    LTEXT           "Static",IDC_STINFO,7,120,307,8
+    CONTROL         "",IDC_TFACTOR,"msctls_updown32",UDS_ARROWKEYS | UDS_HORZ,324,120,15,8
+    GROUPBOX        "System information",IDC_CU_STA,7,137,332,77
+    LTEXT           "Used physical memory [MB]",IDC_CU_UPHY_T,14,151,111,8
+    EDITTEXT        IDC_CU_UPHY,131,151,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Total physical memory [MB]",IDC_CU_TPHY_T,186,151,94,8
+    EDITTEXT        IDC_CU_TPHY,285,151,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "System cache [MB]",IDC_CU_SYSC_T,14,166,111,8
+    EDITTEXT        IDC_CU_SYSC,131,166,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Kernel memory [MB]",IDC_CU_MEMK_T,186,166,94,8
+    EDITTEXT        IDC_CU_MEMK,285,166,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Threads",IDC_CU_THR_T,14,182,111,8
+    EDITTEXT        IDC_CU_THR,131,182,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Process",IDC_CU_PRO_T,186,182,94,8
+    EDITTEXT        IDC_CU_PRO,285,182,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Handles",IDC_CU_HND_T,14,198,111,8
+    EDITTEXT        IDC_CU_HND,131,198,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Page size",IDC_CU_PAGE_T,186,198,94,8
+    EDITTEXT        IDC_CU_PAGE,285,196,47,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 8
+        RIGHTMARGIN, 346
+        BOTTOMMARGIN, 324
+    END
+
+    IDD_DAPHNE_DIALOG, DIALOG
+    BEGIN
+        VERTGUIDE, 7
+        VERTGUIDE, 181
+        VERTGUIDE, 190
+        VERTGUIDE, 281
+        VERTGUIDE, 289
+        VERTGUIDE, 392
+        HORZGUIDE, 30
+    END
+
+    IDD_KILLALL, DIALOG
+    BEGIN
+    END
+
+    IDD_PP_LOOK, DIALOG
+    BEGIN
+        VERTGUIDE, 262
+        HORZGUIDE, 192
+    END
+
+    IDD_PP_KILL, DIALOG
+    BEGIN
+        VERTGUIDE, 208
+        VERTGUIDE, 262
+        HORZGUIDE, 192
+    END
+
+    IDD_PP_STARTUP, DIALOG
+    BEGIN
+        VERTGUIDE, 16
+        VERTGUIDE, 248
+        VERTGUIDE, 260
+        HORZGUIDE, 191
+    END
+
+    IDD_CRASH, DIALOG
+    BEGIN
+    END
+
+    IDD_PP_ADVANCED, DIALOG
+    BEGIN
+        VERTGUIDE, 7
+        HORZGUIDE, 192
+    END
+
+    IDD_NEW_TRAP, DIALOG
+    BEGIN
+        VERTGUIDE, 7
+        VERTGUIDE, 120
+        VERTGUIDE, 261
+        HORZGUIDE, 91
+    END
+
+    IDD_PP_TRAPS, DIALOG
+    BEGIN
+        VERTGUIDE, 250
+        VERTGUIDE, 260
+        HORZGUIDE, 190
+    END
+
+    IDD_PP_HIGHLIGHTS, DIALOG
+    BEGIN
+        VERTGUIDE, 262
+    END
+
+    IDD_LSSOFT_DIALOG, DIALOG
+    BEGIN
+        VERTGUIDE, 7
+        HORZGUIDE, 180
+    END
+
+    IDD_PP_MULTIDESK, DIALOG
+    BEGIN
+        VERTGUIDE, 7
+        VERTGUIDE, 17
+        VERTGUIDE, 35
+        VERTGUIDE, 252
+        VERTGUIDE, 262
+        HORZGUIDE, 61
+        HORZGUIDE, 192
+    END
+
+    IDD_AFFINITY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 166
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 211
+        HORZGUIDE, 163
+    END
+
+    IDD_WINDOWSIZE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 227
+        VERTGUIDE, 134
+        VERTGUIDE, 143
+        VERTGUIDE, 227
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 64
+    END
+
+    IDD_MESSAGEAT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 219
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 90
+    END
+
+    IDD_PROPERTIES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 281
+        VERTGUIDE, 126
+        VERTGUIDE, 138
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 371
+    END
+
+    IDD_CPUUSAGEH, DIALOG
+    BEGIN
+        VERTGUIDE, 186
+        VERTGUIDE, 280
+        VERTGUIDE, 285
+        VERTGUIDE, 332
+        HORZGUIDE, 202
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\Daphne.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\Daphne.ico"
+IDI_NULL                ICON                    "res\\null.ico"
+IDR_MAINFRAME0          ICON                    "res\\ico00000.ico"
+IDR_MAINFRAME1          ICON                    "res\\ico00001.ico"
+IDR_MAINFRAME2          ICON                    "res\\ico00002.ico"
+IDR_MAINFRAME3          ICON                    "res\\ico00003.ico"
+IDR_MAINFRAME4          ICON                    "res\\ico00004.ico"
+IDR_MAINFRAME5          ICON                    "res\\ico00005.ico"
+IDR_MAINFRAME6          ICON                    "res\\ico00006.ico"
+IDR_MAINFRAME7          ICON                    "res\\ico00007.ico"
+IDR_MAINFRAME8          ICON                    "res\\ico00008.ico"
+IDR_MAINFRAME9          ICON                    "res\\ico00009.ico"
+IDR_MAINFRAME10         ICON                    "res\\ico00010.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_DAPHNE              BITMAP                  "res\\Daphne.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_KILLCURSOR          CURSOR                  "res\\arrowcop.cur"
+IDC_LUPA                CURSOR                  "res\\cursor1.cur"
+IDC_REDKILLCURSOR       CURSOR                  "res\\cur00001.cur"
+IDC_T_ENABLE            CURSOR                  "res\\cur00002.cur"
+IDC_T_DISABLE           CURSOR                  "res\\cur00003.cur"
+IDC_T_ONTOP             CURSOR                  "res\\cur00004.cur"
+IDC_T_ONTOPOFF          CURSOR                  "res\\cur00005.cur"
+IDC_T_HIDE              CURSOR                  "res\\cur00006.cur"
+IDC_T_SELECT            CURSOR                  "res\\cur00007.cur"
+IDC_T_SIZE              CURSOR                  "res\\t_select.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDS_TITLE_VER           "Daphne v2.04"
+    IDS_WEBURL              "http://www.drk.com.ar/daphne.php"
+    IDS_URLUPDATES          "http://www.drk.com.ar/daphne.php?version=2"
+    IDS_WEBDEBUGURL         "http://www.drk.com.ar/docs/windows/adding_user_rights.php"
+    IDS_SUPPORTURL          "http://www.drk.com.ar/"
+    IDS_LICENSE_URL         "http://www.drk.com.ar/gpl.html"
+    IDS_CONTRIBUTEURL       "http://www.drk.com.ar/daphne.php#Contribute"
+    IDS_REF_FORMAT          "%s (checkWebUpdate; Platform %u; Windows %u.%u)"
+    IDS_STAT_WEBURL_S       "www.drk.com.ar"
+    IDS_STAT_WEBURL_P       "/daphne_stat.php"
+END
+
+STRINGTABLE
+BEGIN
+    IDS_WEBURLSTATINFO      "http://www.drk.com.ar/daphne-anonymous-statistics.php"
+    IDS_WEBCREDITSURL       "http://www.drk.com.ar/daphne.credits.php"
+    IDS_WEBSEARCH           "http://www.drk.com.ar/search.php"
+    IDS_WEBURLSUPPORT       "http://sourceforge.net/p/daphne/tickets/"
+    IDS_WEBURLFAQ           "http://www.drk.com.ar/daphne-help-faq-howto.php"
+END
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Neutral (Sys. Default) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEUSD)
+LANGUAGE LANG_NEUTRAL, SUBLANG_SYS_DEFAULT
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_PTREE_DLG DIALOGEX 0, 0, 295, 235
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Process tree "
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "Close",IDCANCEL,238,214,50,14
+    CONTROL         "",IDC_TREE,"SysTreeView32",TVS_HASBUTTONS | TVS_HASLINES | TVS_SHOWSELALWAYS | WS_BORDER | WS_TABSTOP,7,7,281,201
+    LTEXT           "This tree is a snapshot and won't be updated until the dialog is closed and opened again.",IDC_STT_NOUPDATE,7,211,223,17
+END
+
+IDD_SOFTPROPERTIES DIALOGEX 0, 0, 292, 243
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "Properties"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,235,222,50,14,BS_FLAT
+    LTEXT           "Static",IDC_LSTITLE,7,7,278,8
+    LTEXT           "Version:",IDC_ST_LSVER,7,25,27,8
+    LTEXT           "Publisher:",IDC_ST_LSPUB,7,40,32,8
+    LTEXT           "Website:",IDC_ST_LSWEB,7,54,30,8
+    LTEXT           "#",IDC_LSVERSION,50,25,130,8
+    LTEXT           "#",IDC_LSPUBLISHER,50,40,235,8
+    LTEXT           "#",IDC_LSWEB,50,54,235,8
+    EDITTEXT        IDC_LSRAW,17,86,258,118,ES_MULTILINE | ES_READONLY | WS_VSCROLL | WS_HSCROLL
+    GROUPBOX        "Raw information view",IDC_ST_LSRAWT,7,73,278,141
+END
+
+IDD_SPLASH_DESKTOP DIALOGEX 0, 0, 289, 22
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION " Daphne multidesktop"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Static",IDC_SPL_TXT,7,7,275,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_PTREE_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 288
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 228
+    END
+
+    IDD_SOFTPROPERTIES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 285
+        VERTGUIDE, 50
+        VERTGUIDE, 180
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 236
+        HORZGUIDE, 29
+        HORZGUIDE, 44
+        HORZGUIDE, 58
+    END
+
+    IDD_SPLASH_DESKTOP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 282
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 15
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Neutral (Sys. Default) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\Daphne.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

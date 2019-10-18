@@ -1,0 +1,236 @@
+# DAPHNE Internationalization
+# Copyright (C) 2005 by Leandro H. Fernandez
+# This file is distributed under the same license as the Daphne package.
+# drkbugs@gmail.com 2005
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: drkbugs@gmail.com\n"
+"POT-Creation-Date: 2005-09-07 20:35-0300\n"
+"PO-Revision-Date: 2005-09-07 20:39-0300\n"
+"Last-Translator: _Leo_ <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Daphne.cpp:102
+msgid "Error"
+msgstr "Error"
+
+#: Daphne.cpp:1101
+msgid "Another instance of Daphne is already running."
+msgstr "Another instance of Daphne is already running."
+
+#: Daphne.cpp:1101 DaphneDlg.cpp:743
+msgid "Daphne"
+msgstr "Daphne"
+
+#: DaphneDlg.cpp:199 DaphneDlg.cpp:628
+msgid "PID"
+msgstr "PID"
+
+#: DaphneDlg.cpp:200 DaphneDlg.cpp:452
+msgid "Process"
+msgstr "Process"
+
+#: DaphneDlg.cpp:201 DaphneDlg.cpp:629
+msgid "Path"
+msgstr "Path"
+
+#: DaphneDlg.cpp:202
+msgid "Priority"
+msgstr "Priority"
+
+#: DaphneDlg.cpp:203
+msgid "Class"
+msgstr "Class"
+
+#: DaphneDlg.cpp:204
+msgid "Memory"
+msgstr "Memory"
+
+#: DaphneDlg.cpp:205
+msgid "PeekMemoryUsage"
+msgstr "PeekMemoryUsage"
+
+#: DaphneDlg.cpp:206
+msgid "Swap"
+msgstr "Swap"
+
+#: DaphneDlg.cpp:207
+msgid "PeekSwapUsage"
+msgstr "PeekSwapUsage"
+
+#: DaphneDlg.cpp:208
+msgid "Threads"
+msgstr "Threads"
+
+#: DaphneDlg.cpp:209
+#, c-format
+msgid "%CPU"
+msgstr "%CPU"
+
+#: DaphneDlg.cpp:450
+msgid "Service"
+msgstr "Service"
+
+#: DaphneDlg.cpp:480 DaphneDlg.cpp:575
+msgid "High"
+msgstr "High"
+
+#: DaphneDlg.cpp:483 DaphneDlg.cpp:576
+msgid "Normal"
+msgstr "Normal"
+
+#: DaphneDlg.cpp:486 DaphneDlg.cpp:577
+msgid "Low"
+msgstr "Low"
+
+#: DaphneDlg.cpp:489 DaphneDlg.cpp:574
+msgid "Real time"
+msgstr "Real time"
+
+#: DaphneDlg.cpp:492
+msgid "N/A"
+msgstr "N/A"
+
+#: DaphneDlg.cpp:566
+msgid "Kill"
+msgstr "Kill"
+
+#: DaphneDlg.cpp:567
+msgid "Kill politely"
+msgstr "Kill politely"
+
+#: DaphneDlg.cpp:569
+msgid "Set focus"
+msgstr "Set focus"
+
+#: DaphneDlg.cpp:570
+msgid "Set allways on top"
+msgstr "Set allways on top"
+
+#: DaphneDlg.cpp:571
+msgid "Unset allways on top"
+msgstr "Unset allways on top"
+
+#: DaphneDlg.cpp:593
+msgid "Set priority"
+msgstr "Set priority"
+
+#: DaphneDlg.cpp:598
+msgid "Start service"
+msgstr "Start service"
+
+#: DaphneDlg.cpp:599
+msgid "Continue service"
+msgstr "Continue service"
+
+#: DaphneDlg.cpp:600
+msgid "Pause service"
+msgstr "Pause service"
+
+#: DaphneDlg.cpp:601
+msgid "Stop service"
+msgstr "Stop service"
+
+#: DaphneDlg.cpp:626
+msgid "Copy name"
+msgstr "Copy name"
+
+#: DaphneDlg.cpp:630
+msgid "Path and arguments"
+msgstr "Path and arguments"
+
+#: DaphneDlg.cpp:631
+msgid "Copy..."
+msgstr "Copy..."
+
+#: DaphneDlg.cpp:633
+msgid "Properties"
+msgstr "Properties"
+
+#: DaphneDlg.cpp:742
+#, c-format
+msgid "%u processes were politely killed."
+msgstr "%u processes were politely killed."
+
+#: DaphneDlg.cpp:742
+#, c-format
+msgid "%u processes were killed."
+msgstr "%u processes were killed."
+
+#: DaphneDlg.cpp:963
+msgid "Hide"
+msgstr "Hide"
+
+#: DaphneDlg.cpp:965
+msgid "Show"
+msgstr "Show"
+
+#: DaphneDlg.cpp:967
+msgid "About Daphne"
+msgstr "About Daphne"
+
+#: DaphneDlg.cpp:969
+msgid "Exit"
+msgstr "Exit"
+
+#: DaphneDlg.cpp:1081
+msgid "Settings..."
+msgstr "Settings..."
+
+#: DaphneDlg.cpp:1111
+msgid "Kill all by name"
+msgstr "Kill all by name"
+
+#: DaphneDlg.cpp:1112
+msgid "Kill all by name (Polite)"
+msgstr "Kill all by name (Polite)"
+
+#: DaphneDlg.cpp:1113
+msgid "Run process..."
+msgstr "Run process..."
+
+#: DaphneDlg.cpp:1114
+msgid "Run process as ..."
+msgstr "Run process as ..."
+
+#: DaphneDlg.cpp:1116
+msgid "Control inspector..."
+msgstr "Control inspector..."
+
+#: DaphneDlg.cpp:1334
+msgid ""
+"Normal refresh occurs every two seconds. Fast refresh takes place each "
+"second."
+msgstr ""
+"Normal refresh occurs every two seconds. Fast refresh takes place each "
+"second."
+
+#: DaphneDlg.cpp:1337
+msgid ""
+"Drag this target over a window to execute the action selected in the combo "
+"box."
+msgstr ""
+"Drag this target over a window to execute the action selected in the combo "
+"box."
+
+#: DaphneDlg.cpp:1340
+msgid "Selects the action for the drag and drop target tool."
+msgstr "Selects the action for the drag and drop target tool."
+
+#: DaphneDlg.cpp:1343
+msgid "Displays full path and command line arguments if possible."
+msgstr "Displays full path and command line arguments if possible."
+
+#: DaphneDlg.cpp:1346
+msgid "Keeps Daphne main window always on top."
+msgstr "Keeps Daphne main window always on top."
+
+#: DaphneDlg.cpp:1349
+msgid "Opens the Kill menu."
+msgstr "Opens the Kill menu."

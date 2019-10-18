@@ -1,0 +1,22 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		'%APPID%' = s 'DRKShell'
+		'DRKShell.DLL'
+		{
+			val AppID = s '%APPID%'
+		}
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {8F564BAB-5D2A-45B8-8F45-4CC337A99BBE} = s 'CompReg Class'
+		{
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			'TypeLib' = s '{AE58AD11-DB9B-47C5-AA49-92FCC9CDE3C0}'
+		}
+	}
+}

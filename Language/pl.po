@@ -1,0 +1,1272 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is distributed under the same license as the Daphne package.
+# Michał Trzebiatowski <hippie_1968@hotmail.com>, 2008-2010
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Daphne 1.46\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-13 21:55-0300\n"
+"PO-Revision-Date: 2010-06-15 00:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: Michał Trzebiatowski <hippie_1968@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+
+msgid "Invalid username or password"
+msgstr "Nieprawidłowa nazwa użytkownika lub hasło"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:76
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:219 C:\DATA\VC\Daphne\lssoftDlg.cpp:234
+msgid "ERROR"
+msgstr "BŁĄD"
+
+msgid " Authenticate user"
+msgstr " Uwierzytelnij użytkownika"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid "Username:"
+msgstr "Nazwa uzytkownika:"
+
+msgid "Password:"
+msgstr "Hasło:"
+
+msgid " Close all windows by title"
+msgstr " Zamknij tytułem wszystkie okna"
+
+msgid "Window title contains:"
+msgstr "Tytuł okna zawiera:"
+
+msgid "case-sensitive"
+msgstr "wielkość liter"
+
+msgid " CPU Usage"
+msgstr " Odciążenie procesora"
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "System information"
+msgstr "Informacje o systemie"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:63
+msgid "Used physical memory [MB]"
+msgstr "Używana pamięć fizyczna [MB]"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:64
+msgid "Total physical memory [MB]"
+msgstr "Całkowita pamięć fizyczna [MB]"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:65
+msgid "System cache [MB]"
+msgstr "Pamięć podręczna systemu [MB]"
+
+msgid "Kernel memory [MB]"
+msgstr "Pamięć jądra [MB]"
+
+msgid "Threads"
+msgstr "Wątki"
+
+msgid "Process"
+msgstr "Proces"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:69
+msgid "Handles"
+msgstr "Uchwyty"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:95
+#, c-format
+msgid "Showing last %d:%02d minutes"
+msgstr "Wyświetlono ostatnich %d:%02d minut"
+
+msgid " Daphne - Crash"
+msgstr " Daphne - Zawieszenie"
+
+msgid "SEND"
+msgstr "WYŚLIJ"
+
+msgid "Quit"
+msgstr "Wyjdź"
+
+msgid "An unhandled exception has crashed Daphne. Please, press SEND to report this problem by mail."
+msgstr "Nieobsługiwany wyjątek zawiesił Daphne. Proszę naciśnij WYŚLIJ aby zaraportować błąd mailem."
+
+msgid "Error information"
+msgstr "Błędne informacje"
+
+msgid "* You will see the mail before sending."
+msgstr "* Przed wysłaniem zobaczysz podgląd maila."
+
+msgid "Unable to initialize Sockets API."
+msgstr "Nie można zainicjować Gniazd API."
+
+msgid "Another instance of Daphne is already running."
+msgstr "Inna instancja programu Daphne jest już otwarta."
+
+msgid "Daphne"
+msgstr "Daphne"
+
+msgid "Unable to register global shortcut. Multidesktop may not work."
+msgstr "Nie można zarejestrować skrótów globalnych. Multipulpit może nie działać."
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid "Full path and arguments"
+msgstr "Pełna ścieżka i argumenty"
+
+msgid "Always on top"
+msgstr "Zawsze na wierzch."
+
+msgid "Daphne >"
+msgstr "Daphne >"
+
+msgid "Settings..."
+msgstr "Ustawienia..."
+
+msgid "Find"
+msgstr "Znajdź"
+
+msgid "Kill"
+msgstr "Zabij"
+
+msgid "Hide application"
+msgstr "Ukryj aplikację"
+
+msgid "Set on top"
+msgstr "Ustaw na wierzchu"
+
+msgid "Unset on top"
+msgstr "Nie ustawiaj na wierzchu"
+
+msgid "Set alpha 100%"
+msgstr "Ustaw alfę na 100%"
+
+msgid "Set alpha 75%"
+msgstr "Ustaw alfę na 75%"
+
+msgid "Set alpha 50%"
+msgstr "Ustaw alfę na 50%"
+
+msgid "Unset alpha"
+msgstr "Nieustawiona alfa"
+
+msgid "Enable"
+msgstr "Włącz"
+
+msgid "Disable"
+msgstr "Wyłącz"
+
+msgid "&About Daphne..."
+msgstr "&O Daphne..."
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Path"
+msgstr "Ściezka"
+
+msgid "Priority"
+msgstr "Priorytet"
+
+msgid "Class"
+msgstr "Klasa"
+
+msgid "Memory"
+msgstr "Pamięć"
+
+msgid "PeakMemoryUsage"
+msgstr "Szczyt zużycia pamięci"
+
+msgid "Swap"
+msgstr "Outsourcing"
+
+msgid "PeakSwapUsage"
+msgstr "Szczyt zużycia outsourcingu"
+
+#, c-format
+msgid "%CPU"
+msgstr "%CPU"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:393
+msgid "Owner"
+msgstr "Właściciel"
+
+msgid "I/O reads"
+msgstr "I/O czyta"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:395
+msgid "I/O writes"
+msgstr "I/O pisze"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:520
+#, c-format
+msgid "* %s ============= Daphne starting... =============\n"
+msgstr "* %s ============= Uruchamianie Daphne... =============\n"
+
+msgid "Daphne needs 'Debug programs' privilges in order to show full process list. Do you want to check DRK web site for a check list of the procedure? (If you click Cancel you won't see this warning again)"
+msgstr "Daphne potrzebuje uprawnień 'debugowania programów' w celu pokazania pełnej listy procesu. Czy chcesz sprawdzić na stronie internetowej DRK za check-listą postępowania? (Jeśli klikniesz przycisk Anuluj, nie będziesz widzieć ponownie tego ostrzeżenia)"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:485
+msgid "Your account lacks debug privileges"
+msgstr "Twoje konto nie ma uprawnień debugowania"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:624
+#, c-format
+msgid "* %s ============= Daphne ready =============\n"
+msgstr "* %s ============= Daphne gotowy =============\n"
+
+msgid "Service"
+msgstr "Serwis"
+
+msgid "High"
+msgstr "Wysoki"
+
+msgid "Normal"
+msgstr "Normalny"
+
+msgid "Low"
+msgstr "Niski"
+
+msgid "Real time"
+msgstr "Czas rzeczywisty"
+
+msgid "N/A"
+msgstr "Brak"
+
+msgid "Kill politely"
+msgstr "Zabij delikatnie"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:819
+msgid "Kill at..."
+msgstr "Zabij przy..."
+
+msgid "Kill politely at..."
+msgstr "Zabij delikatnie przy..."
+
+msgid "Set focus"
+msgstr "Ustw fokus"
+
+msgid "Set always on top"
+msgstr "Ustaw zawsze na wierzchu"
+
+msgid "Unset always on top"
+msgstr "Wyłącz zawsze na wierzchu"
+
+msgid "Create trap"
+msgstr "Utwórz pułapkę"
+
+msgid "Set priority"
+msgstr "Ustaw priorytet"
+
+msgid "Start service"
+msgstr "Stratuj serwis"
+
+msgid "Continue service"
+msgstr "Kontynuuj serwis"
+
+msgid "Pause service"
+msgstr "Pauzuj serwis"
+
+msgid "Stop service"
+msgstr "Stopuj serwis"
+
+msgid "Copy name"
+msgstr "Kopiuj nazwę"
+
+msgid "Path and arguments"
+msgstr "Ścieżka i argumenty"
+
+msgid "Copy..."
+msgstr "Kopiuj..."
+
+msgid "Look up into DRK DB..."
+msgstr "Zobacz w DRK DB..."
+
+msgid "Submit to DRK DB..."
+msgstr "Prześlij do DRK DB..."
+
+msgid "Properties"
+msgstr "Właściwości"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:986
+msgid "Daphne was unable to get enough privileges for a system shutdown."
+msgstr "Daphne nie mogło uzyskać wystarczających uprawnień do zamknięcia systemu."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:986
+msgid "Can't schedule shutdown"
+msgstr "Nie można zaplanować zamknięcia"
+
+#, c-format
+msgid "%u processes were politely killed."
+msgstr "%u procesów zostało delikatnie zabitych."
+
+#, c-format
+msgid "%u processes were killed."
+msgstr "%u procesów zostało zabitych."
+
+#, c-format
+msgid "%u windows were closed."
+msgstr "%u okien zostało zamkniętych."
+
+#, c-format
+msgid "Process %s [%u] destroyed."
+msgstr "Proces %s [%u] zniszczony."
+
+#, c-format
+msgid "New process %s created."
+msgstr "Utworzono nowy proces %s."
+
+msgid "Hide"
+msgstr "Ukryj"
+
+msgid "Show"
+msgstr "Pokaż"
+
+msgid "About Daphne"
+msgstr "O Daphne"
+
+msgid "Search the web..."
+msgstr "Szukaj w internecie..."
+
+msgid "Exit"
+msgstr "Wyjście"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1581
+#, c-format
+msgid "Uptime: %u days, %2u hours, %2u minutes, %2u seconds"
+msgstr "Uptime: %u dni, %2u godzin, %2u minut, %2u sekund"
+
+#, c-format
+msgid "CPU usage %3u%%"
+msgstr "Obciążenie procesora %3u%%"
+
+#, c-format
+msgid "Memory usage %3u%%"
+msgstr "Użycie pamięci %3u%%"
+
+#, c-format
+msgid "Free memory %u MB"
+msgstr "%u MB wolnej pamięci"
+
+#, c-format
+msgid "%s - %u%% CPU - %u hidden application"
+msgstr "%s - %u%% CPU - %u ukryta aplikacja"
+
+#, c-format
+msgid "%s - %u%% CPU - %u hidden applications"
+msgstr "%s - %u%% CPU - %u ukryte aplikacje"
+
+msgid "Main"
+msgstr "Główne"
+
+msgid "Look and feel"
+msgstr "Wygląd i styl"
+
+msgid "Kill menu"
+msgstr "Zabij menu"
+
+msgid "Traps"
+msgstr "Pułapki"
+
+msgid "Highlights"
+msgstr "Podkreślenia"
+
+msgid "Integration"
+msgstr "Integracja"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2024
+# C:\DATA\VC\Daphne\PPLogging.cpp:48
+msgid "Logging"
+msgstr "Protokołowanie"
+
+msgid "Advanced"
+msgstr "Zawansowane"
+
+msgid "Kill all by name"
+msgstr "Zabij wszystko wg nazwy"
+
+msgid "Kill all by name (Polite)"
+msgstr "Zabij wszystko wg nazwy (delikatnie)"
+
+msgid "Run process..."
+msgstr "Uruchom proces..."
+
+msgid "Run process as ..."
+msgstr "Uruchom proces jako..."
+
+msgid "Close windows by name"
+msgstr "Zamknij okna wg nazwy"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1962
+msgid "Schedule system shutdown"
+msgstr "Zaplanowane zamknięcie systemu"
+
+msgid "Show CPU usage ..."
+msgstr "Wyświetl odciążenie procesora ..."
+
+msgid "Show process tree..."
+msgstr "Pokaż drzewo procesu..."
+
+msgid "Show installed software..."
+msgstr "Pokaż zainstalowane programy..."
+
+msgid "Control inspector..."
+msgstr "Inspektor kontroli..."
+
+msgid "Hidden applications..."
+msgstr "Ukryte aplikacje..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1970
+msgid "Scheduled tasks..."
+msgstr "Zaplanowane zadania..."
+
+msgid "Show application"
+msgstr "Pokaż aplikację"
+
+msgid "Connecting primary desktop..."
+msgstr "Łączę główny pulpit..."
+
+#, c-format
+msgid "Looking up desktop %u..."
+msgstr "Szukam pulpitu %u..."
+
+#, c-format
+msgid "Creating desktop %u..."
+msgstr "Tworzę pulpit %u..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2061
+msgid "Amount of physical memory left before swapping occurs."
+msgstr "Ilość pozostałej pamięci fizycznej przed występującymi wymianami."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2064
+msgid "Memory used so far in percent."
+msgstr "Zużyta do tej pory pamięć w procentach."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2067
+msgid "CPU time requested in percent."
+msgstr "Żądany czas procesora w procentach."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2328
+msgid "Time the system has been up and running."
+msgstr "Czas, od kiedy system został uruchomiony i działa."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2073
+msgid "Drag this target over a window to execute the action selected in the combo box."
+msgstr "Przeciągnij ten cel nad oknem do wywołania wybranej akcji w polu kombinacji."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2076
+msgid "Selects the action for the drag and drop target tool."
+msgstr "Wybiera akcję dla narzędzia przeciągnij i upuść."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2079
+msgid "Displays full path and command line arguments if possible."
+msgstr "Wyświetla pełną ścieżkę i argumenty wiersza poleceń, jeśli jest to możliwe."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2082
+msgid "Keeps Daphne main window always on top."
+msgstr "Trzyma główne okno Daphne zawsze na wierzchu."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2085
+msgid "Opens Daphne main menu."
+msgstr "Otwiera główne menu Daphne."
+
+msgid "Running process list."
+msgstr "Lista działających procesów."
+
+msgid "Open configuration screen."
+msgstr "Otwórz ekran konfiguracji."
+
+msgid " About Daphne"
+msgstr " O Daphne"
+
+msgid "License"
+msgstr "Licencja"
+
+msgid "Contributed"
+msgstr "Współpraca"
+
+msgid "Thanks to Adrián, Santi, Nico, Juan and Gonza."
+msgstr "Podziękowania dla Adrián, Santi, Nico, Juan i Gonza."
+
+msgid "Giacomo Margarito - Italian translation"
+msgstr "Giacomo Margarito - włoskie tłumaczenie"
+
+msgid "He Zhenwei - Chinese translation"
+msgstr "He Zhenwei - chińskie tłumaczenie"
+
+msgid "Marc Cueni - French translation"
+msgstr "Marc Cueni - francuskie tłumaczenie"
+
+msgid "Bunny Forth - Chinese translation contributor"
+msgstr "Bunny Forth - współpracownik chińskiego tłum."
+
+msgid "Arno Krumpholz - German translation"
+msgstr "Arno Krumpholz - niemieckie tłumaczenie"
+
+msgid "Vicent Adam - Valencian translation"
+msgstr "Vicent Adam - walenckie tłumaczenie"
+
+msgid "Michal Trzebiatowski - Polish translation"
+msgstr "Michał Trzebiatowski - polskie tłumaczenie"
+
+msgid "Jangir Ganeev - Russian translation"
+msgstr "Jangir Ganeev -  rosyjskie tłumaczenie"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2503
+msgid "Renato da Silva - Portuguese translation"
+msgstr "Renato da Silva - portugalskie tłumaczenie"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2504
+msgid "Asabukuro Dongorosu - Japanese translation"
+msgstr "Asabukuro Dongorosu - japońskie tłumaczenie"
+
+msgid "Abdurrahman Aborazmeh - Arabic translation"
+msgstr "Abdurrahman Aborazmeh - arabskie tłumaczenie"
+
+msgid "Technical support at forum.drk.com.ar"
+msgstr "Techniczne wsparcie na forum.drk.com.ar"
+
+msgid "Contribute"
+msgstr "Przyczynić się"
+
+msgid "Window hidden"
+msgstr "Ukryte okno"
+
+#, c-format
+msgid ""
+"%s was released and is ready to be downloaded.\n"
+"\n"
+"What's new:\n"
+"%s\n"
+"Would you like to visit download web page?"
+msgstr ""
+"Dostępna jest nowa wersja %s i gotowa do pobrania.\n"
+"\n"
+"Co nowego:\n"
+"%s\n"
+"Czy chcesz odwiedzić stronę pobierania w internecie?"
+
+msgid "Daphne web updates"
+msgstr "Aktualizacje internetowe Daphne"
+
+msgid ""
+"Daphne isn't able to switch Desktop\n"
+"It can be a configuration problem.\n"
+"Please reconfigure or restart Daphne and it will appear on next startup."
+msgstr ""
+"Daphne nie może przestawić Pulpitu\n"
+"Może to być problem z konfiguracją.\n"
+"Proszę skonfiguruj lub zrestartuj Daphne i pojawi on się przy następnym starcie."
+
+msgid "Are you sure you want to kill this process?"
+msgstr "Czy jesteś pewny aby zabić ten proces?"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3061
+msgid "System is going down!"
+msgstr "Zamykanie systemu!"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3087
+#, c-format
+msgid "%s system shutdown."
+msgstr "%s zamykanie systemu."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3090
+#, c-format
+msgid "%s system restart."
+msgstr "%s ponowny start systemu."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3093
+#, c-format
+msgid "%s system log off."
+msgstr "%s wylogowanie z systemu."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3106 C:\DATA\VC\Daphne\DaphneDlg.cpp:3118
+#, c-format
+msgid "Unable to kill scheduled process %s, PID %u."
+msgstr "Nie można zabić planowanego procesu %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3111
+#, c-format
+msgid "Politely killed scheduled process %s, PID %u."
+msgstr "Delikatnie zabity zaplanowany proces %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3123
+#, c-format
+msgid "Killed scheduled process %s, PID %u."
+msgstr "Zabity zaplanowany proces %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3130
+#, c-format
+msgid "Can't find scheduled process %s, PID %u."
+msgstr "Nie można znaleźć zaplanowanego procesu %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3136
+#, c-format
+msgid "%s kill %s [%u]"
+msgstr "%s zabił %s [%u]"
+
+msgid " Preview"
+msgstr " Podgląd"
+
+# C:\DATA\VC\Daphne\GreenDlg.cpp:40
+msgid "Protect our planet"
+msgstr "Chroń naszą planetę"
+
+# C:\DATA\VC\Daphne\GreenDlg.cpp:43
+msgid ""
+"The system has been up for a long time. If you don't need to keep the computer\n"
+" running overnight really, please consider turning it off.\n"
+"Help fighting the climate change!\n"
+"\n"
+"Click OK for more information about energy saving.\n"
+"\n"
+"(You won't see this windows again)"
+msgstr ""
+"System działa już od dłuższego czasu. Jeśli naprawdę nie potrzebujesz komputera\n"
+" przez całą noc, rzeczywiście możesz go wyłączyć.\n"
+"Pomóż walce przeciw zmianie klimatu!\n"
+"\n"
+"Kliknij OK aby uzyskać więcej informacji na temat oszczędzania energii.\n"
+"\n"
+"(Nie zobaczysz ponownie tego okna)"
+
+msgid " Inspector"
+msgstr " Inspektor"
+
+msgid "Drag the magnifying glass over windows and controls to inspect its properties."
+msgstr "Przeciągnij lupę nad oknami i kontrolami w celu zbadania ich właściwości."
+
+msgid "Title:"
+msgstr "Tytuł:"
+
+msgid "Class:"
+msgstr "Klasa:"
+
+msgid "Text:"
+msgstr "Tekst:"
+
+msgid "Location:"
+msgstr "Miejsce:"
+
+msgid "Size:"
+msgstr "Rozmiar:"
+
+msgid " Kill all by name"
+msgstr " Zabij wszystko wg nazwy"
+
+msgid "Process name:"
+msgstr "Nazwa procesu:"
+
+msgid " (Polite)"
+msgstr " (delikatnie)"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:50
+msgid " Kill at..."
+msgstr " Zabij przy..."
+
+msgid "Process to kill:"
+msgstr "Proces do zabicia:"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:54
+msgid "Select date and time to kill the process at:"
+msgstr "Wybierz datę i czas zabicia procesu:"
+
+msgid "Be polite"
+msgstr "Bądź delikatny"
+
+msgid " Kill menu item"
+msgstr " Zabij pozycję menu"
+
+msgid "Menu name:"
+msgstr "Nazwa menu:"
+
+msgid "Process list (case sensitive)"
+msgstr "Lista procesów (wielkość liter)"
+
+msgid " Installed software list"
+msgstr " Lista zainstalowanych programów"
+
+msgid "Software"
+msgstr "Program"
+
+msgid "Version"
+msgstr "Wersja"
+
+msgid "Publisher"
+msgstr "Wydawca"
+
+msgid "Publisher WEB"
+msgstr "WWW wydawcy"
+
+msgid "Uninstall"
+msgstr "Odinstaluj"
+
+msgid "Uninstall information is not available"
+msgstr "Nie ma dostępnej informacji odinstalowania"
+
+#, c-format
+msgid "Are you sure you want to remove %s from this computer?"
+msgstr "Czy jesteś pewny aby usunąć %s z tego komputera?"
+
+msgid "Warning: this can not be undone"
+msgstr "Uwaga: tego nie można cofnąć"
+
+msgid "Unable to run uninstaller"
+msgstr "Nie można otworzyć odinstalowania"
+
+msgid " Web updates"
+msgstr " Aktualizacje internetowe"
+
+msgid "Daphne is about to check the web for updates. This is done without sending any personally identifiable information to the web site."
+msgstr "Daphne sprawdzi dostępność aktualizacji w internecie. Odbywa to się bez wysyłania jakiejkolwiek danych osobistych do strony internetowej."
+
+msgid "Do you want to check for updates at internet?"
+msgstr "Czy chcesz sprawdzić dostępność aktualizacji w internecie?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "No"
+
+msgid " Trap..."
+msgstr " Pułapka..."
+
+msgid "Action:"
+msgstr "Akcja:"
+
+msgid "Install system wide Daphne activation shortcut"
+msgstr "Zainstaluj na całym systemie skrót aktywacji Daphne"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Advanced options"
+msgstr "Opcje zaawansowane"
+
+msgid "Show all hidden applications on exit"
+msgstr "Pokaż wszystkie ukryte aplikacje przy wyjściu"
+
+msgid "Try to hide Java VM from command line"
+msgstr "Spróbuj ukryć Java VM z wiersza poleceń"
+
+msgid "Don't check Debug programs privilege on startup"
+msgstr "Nie sprawdzaj przywilej debugowania programów przy starcie"
+
+msgid "Store configuration"
+msgstr "Zapisz konfigurację"
+
+msgid "Using Daphne.INI file"
+msgstr "do pliku Daphne.INI"
+
+msgid "Using Windows registry"
+msgstr "do rejestru Windowsa"
+
+msgid "Add process names to highlight in the main list:"
+msgstr "Dodaj nazwy procesu w celu podkreślenia w głównej liście:"
+
+msgid "Highlight system process with blue"
+msgstr "Podkreśl na niebiesko proces systemu"
+
+#, c-format
+msgid "Hightlight process over 95% CPU in red"
+msgstr "Podkreśl na czerwono proces ponad 95% obciążenia procesora"
+
+#, c-format
+msgid "Highlight orange, process with more than 20% of memory used"
+msgstr "Podkreśl na pomarańczowo proces z więcej niż 20% używanej pamięci"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Remove"
+msgstr "Usuń"
+
+msgid "Up"
+msgstr "W górę"
+
+msgid "Down"
+msgstr "W dół"
+
+#, c-format
+msgid "Removing %s"
+msgstr "Usuwanie %s"
+
+msgid ""
+"You are about to remove a kill menu item. This action can't be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+"Zamierzasz usunąć pozycję zabicia menu. Tej operacji nie można cofnąć.\n"
+"\n"
+"Czy jesteś pewny?"
+
+# C:\DATA\VC\Daphne\PPLogging.cpp:49
+msgid "Log started and ended process"
+msgstr "Proces rozpoczęcia i zakończenia protokołowania"
+
+msgid "Log process activity to..."
+msgstr "Protokołuj aktywność procesu do..."
+
+msgid "Main window and tray icon"
+msgstr "Główne okno i ikona w pasku zadań"
+
+msgid "Process list colum order"
+msgstr "Porządek kolumny listy procesu"
+
+msgid "Window transparence"
+msgstr "Przezroczystość okna"
+
+# C:\DATA\VC\Daphne\PPLook.cpp:144
+msgid "Animate tray icon with CPU usage."
+msgstr "Ikona odciążenia procesora z animacją w pasku zadań."
+
+msgid "Multidesktop options"
+msgstr "Opcje multipulpitu"
+
+msgid "Enable Multidesktop feature (at Daphne's startup)"
+msgstr "Włącz funkcję Multipulpitu (przy starcie Daphne)"
+
+msgid "Extra desktops"
+msgstr "Dodatkowe pulpity"
+
+msgid "Integration options"
+msgstr "Opcje integracji"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:54
+msgid "Enable Windows Explorer integration"
+msgstr "Włącz integrację z Eksploratorem Windowsa"
+
+msgid ""
+"This feature is experimental. It won't damage your computer but,\n"
+"if you notice strange behavior after enabling it. Turn it off\n"
+"and report the situation."
+msgstr ""
+"Ta opcja jest eksperymentalna. Nie uszkodzi to twojego komputera, ale\n"
+"jeśli zauważysz dziwne zachowanie po jej włączeniu, wyłącz ją\n"
+"i raportuj sytuację."
+
+msgid "Daphne multidesktop feature"
+msgstr "Funkcja multipulpitu Daphne"
+
+msgid "Daphne startup"
+msgstr "Start Daphne"
+
+msgid "Behavior"
+msgstr "Zachowanie"
+
+msgid "Proxy server:"
+msgstr "Serwer proxy:"
+
+msgid "Use HTTP proxy"
+msgstr "Użyj HTTP proxy"
+
+msgid "Start Daphne automatically when starting Windows"
+msgstr "Startuj Daphne razem z Windowsem"
+
+msgid "Always hide Daphne on startup"
+msgstr "Zawsze chowaj Daphne przy starcie"
+
+msgid "Check internet for Daphne updates on startup"
+msgstr "Sprawdzaj przy starcie aktualizacje Daphne"
+
+msgid "Alternate list item background color"
+msgstr "Alternatywny kolor tła elementu listy"
+
+msgid "Hide zombie processes"
+msgstr "Ukryj procesy zombie"
+
+msgid "Fast refresh"
+msgstr "Szybkie odświeżanie"
+
+msgid "Process name"
+msgstr "Nazwa procesu"
+
+msgid "Action"
+msgstr "Akcja"
+
+msgid "Window title contains"
+msgstr "Tytuł okna zawiera"
+
+#, c-format
+msgid "Are you sure you want to remove the selected trap on %s?"
+msgstr "Czy na pewno chcesz usunąć wybrane pułapki na %s?"
+
+#, c-format
+msgid "Removing \"%s\""
+msgstr "Usuwanie \"%s\""
+
+msgid " Process tree"
+msgstr " Drzewo procesu"
+
+msgid "This tree is a snapshot and won't be updated until the dialog is closed and opened again."
+msgstr "To drzewo jest migawką i nie będą aktualizowane do momentu zamknięcia i ponownego otwarcia dialogu."
+
+msgid "Quick search by process name enabled."
+msgstr "Szybkie szukanie przez nazwę procesu włączone."
+
+msgid "Quick search by process name disabled."
+msgstr "Szybkie szukanie przez nazwę procesu wyłączone."
+
+#, c-format
+msgid "Highlighting %s..."
+msgstr "Podkreślenie %s..."
+
+msgid " Properties"
+msgstr "Właściwości"
+
+msgid "...DRK search"
+msgstr "...szukanie na DRK"
+
+msgid "Environment"
+msgstr "Środowisko"
+
+msgid "Modules"
+msgstr "Moduły"
+
+msgid "More information"
+msgstr "Więcej informacji"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "Process:"
+msgstr "Proces:"
+
+msgid "CmdLine:"
+msgstr "WierszPol:"
+
+msgid "Priority:"
+msgstr "Priorytet:"
+
+msgid "Created:"
+msgstr "Utworzone:"
+
+msgid "Kernel time:"
+msgstr "Czas jądra:"
+
+msgid "User time:"
+msgstr "Czas użytkownika:"
+
+msgid "Parent:"
+msgstr "Nadrzędny:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:120
+msgid "Owner:"
+msgstr "Właściciel:"
+
+msgid "ThreadID"
+msgstr "Identyfikator wątku"
+
+msgid "References"
+msgstr "Referencie"
+
+msgid "CPU Time"
+msgstr "Czas procesora"
+
+msgid "Not available"
+msgstr "Nie dostępny"
+
+msgid "Service ["
+msgstr "Serwis ["
+
+msgid "paused]"
+msgstr "wstrzymano]"
+
+msgid "running]"
+msgstr "działają]"
+
+msgid "stoped]"
+msgstr "zatrzymano]"
+
+msgid "continue pending]"
+msgstr "kontynuuj czekające]"
+
+msgid "start pending]"
+msgstr "rozpocznij czekające]"
+
+msgid "stop pending]"
+msgstr "zatrzymaj czekające]"
+
+msgid "pause pending]"
+msgstr "wstrzymaj czekające]"
+
+msgid "Make resizable"
+msgstr "Można zmienić rozmiar"
+
+msgid "Quit caption"
+msgstr "Zamknij podpis"
+
+msgid "Add caption"
+msgstr "Dodaj podpis"
+
+msgid "Minimize"
+msgstr "Minimalizuj"
+
+msgid "Restore"
+msgstr "Przywróć"
+
+msgid "Maximize"
+msgstr "Maksymalizuj"
+
+msgid "Send message"
+msgstr "Wyślij wiadomość"
+
+msgid ""
+"Daphne was unable to get environment information.\n"
+"This feature is known to fail\n"
+"on new Windows versions."
+msgstr ""
+"Daphne nie był w stanie uzyskać informacji o środowisku.\n"
+"Funkcja ta jest błędna\n"
+" na nowszych wersjach systemu Windows."
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:568
+msgid ""
+"Read operation count %I64u\n"
+"Write operation count %I64u\n"
+"Other operation count %I64u\n"
+"Read transfer %I64u KBytes\n"
+"Write operation %I64u KBytes\n"
+"Other operation %I64u KBytes\n"
+msgstr ""
+"Operacja czytania liczy %I64u\n"
+"Operacja pisania liczy %I64u\n"
+"Inna operacja liczby %I64u\n"
+"Transfer czytania %I64u KB\n"
+"Transfer pisania %I64u KB\n"
+"Inna operacja %I64u KB\n"
+
+msgid "Suspend"
+msgstr "Zawiesić"
+
+msgid "Resume"
+msgstr "Wznów"
+
+msgid "Terminate"
+msgstr "Kończ"
+
+msgid "Time critical"
+msgstr "Krytyczny czasu"
+
+msgid "Highest"
+msgstr "Najwyższy"
+
+msgid "Above normal"
+msgstr "Powyżej normalnej"
+
+msgid "Below normal"
+msgstr "Poniżej normalnej"
+
+msgid "Lowest"
+msgstr "Najniższy"
+
+msgid "IDLE"
+msgstr "BEZCZYNNY"
+
+msgid " Run process"
+msgstr " Uruchom proces"
+
+msgid "Start process suspended"
+msgstr "Start procesu zawieszony"
+
+msgid "Run"
+msgstr "Start"
+
+msgid "Program:"
+msgstr "Program:"
+
+msgid "Arguments:"
+msgstr "Argumenty:"
+
+msgid "Directory:"
+msgstr "Katalog:"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:41
+msgid " Scheduled tasks"
+msgstr " Zaplanowane zadania"
+
+msgid "Remove task"
+msgstr "Usuń zadanie"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:120
+msgid "Task removed."
+msgstr "Zadanie usunięte."
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:65
+msgid " Shutdown at..."
+msgstr " Zamykanie przy..."
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:68
+msgid "Schedule system shutdown at:"
+msgstr "Zaplanowane zamknięcie systemu:"
+
+msgid "Shutdown"
+msgstr "Zamykanie"
+
+msgid "Restart"
+msgstr "Restart"
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:72
+msgid "Log off"
+msgstr "Wyloguj"
+
+msgid " Send message..."
+msgstr " Wyślij wiadomość..."
+
+msgid "Message:"
+msgstr "Komunikat:"
+
+msgid "lParam:"
+msgstr "lParam:"
+
+msgid "wParam:"
+msgstr "wParam:"
+
+msgid "[Binary data]"
+msgstr "[Dane binarne]"
+
+msgid "Version:"
+msgstr "Wersja:"
+
+msgid "Website:"
+msgstr "Strona internetowa:"
+
+msgid "Publisher:"
+msgstr "Wydawca:"
+
+msgid "Raw information view"
+msgstr "Surowy widok informacji"
+
+msgid " Daphne multidesktop"
+msgstr " Daphne multipulpit"
+
+msgid "Initializing..."
+msgstr "Inicializuję..."
+
+#, c-format
+msgid "%08Xh - References %u - Priority %u/%u"
+msgstr "%08Xh - Referencie %u - Priorytet %u/%u"
+
+msgid "Notify process created"
+msgstr "Zawiadom utworzenie procesu"
+
+msgid "Set priority to real-time"
+msgstr "Ustaw na priorytet czasu rzeczywistego"
+
+msgid "Set priority to high"
+msgstr "Ustaw na wysoki priorytet"
+
+msgid "Set priority to normal"
+msgstr "Ustaw na normalny priorytet"
+
+msgid "Set priority to low"
+msgstr "Ustaw na niski priorytet"
+
+msgid "Notify process destroyed"
+msgstr "Proces zawiadamia zniszczony"
+
+msgid " Win32 values"
+msgstr " Wartości Win32"
+
+msgid "Filter:"
+msgstr "Filtr:"
+
+msgid " Hidden applications"
+msgstr " Ukryte aplikacje"
+
+msgid ""
+"Usage: dc [command]\n"
+"\n"
+msgstr ""
+"Sposób użycia: dc [polecenie]\n"
+"\n"
+
+msgid "pstree: show process list as hierarchy tree (default)\n"
+msgstr "pstree: pokaż listę procesu jako hierarchię drzewa (domyślnie)\n"
+
+msgid "ps: show process list\n"
+msgstr "ps: pokaż listę procesu\n"
+
+msgid "kill <pid>: kill process by PID\n"
+msgstr "kill <pid>: zabij proces przez PID\n"
+
+msgid "killall <name>: kill all process by name\n"
+msgstr "killall <nazwa>: zabij wszystkie procesy według nazwy\n"
+
+msgid "killmenu <item>: execute a previously configured Daphne's kill menu\n"
+msgstr "killmenu <pozycja>: wykonaj wcześniej skonfigurowane menu zabijania Daphne\n"
+
+msgid "showchildren <pid>: list processes started by PID, including PID\n"
+msgstr "showchildren <pid>: wyświetla procesy uruchomione przez PID, włącznie z PID\n"
+
+msgid "killchildren <pid>: kill processes started by PID, including PID\n"
+msgstr "killchildren <pid>: wyświetla procesy uruchomione przez PID, włącznie z PID\n"
+
+msgid "help: show command line help\n"
+msgstr "help: pokaż pomoc wiersza poleceń\n"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:78
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:78
+msgid "Full path to clipboard"
+msgstr "Pełna ścieżka do schowka"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:79
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:79
+msgid "Name to clipboard"
+msgstr "Nazwa do schowka"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:81
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:81
+msgid "File listing to clipboard"
+msgstr "Lista plików do schowka"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:82
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:82
+msgid "Full path file listing to clipboard"
+msgstr "Pełna ścieżka pliku prowadząca do schowka"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:86
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:86
+msgid "Open CMD here..."
+msgstr "Otwórz tutaj CMD..."
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:94
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:94
+msgid "Google this folder..."
+msgstr "Googluj za tym folderem..."
+
+msgid "Run with arguments..."
+msgstr "Uruchom z argumentami..."
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:103
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:103
+msgid "Google this file..."
+msgstr "Googluj za tym plikiem..."
+
+#~ msgid "Number of CPUs: %u"
+#~ msgstr "Liczba procesorów: %u"
+
+#~ msgid "Multidesktop"
+#~ msgstr "Multipulpit"
+
+#~ msgid "Number of CPUs in the system."
+#~ msgstr "Liczba procesorów w systemie."

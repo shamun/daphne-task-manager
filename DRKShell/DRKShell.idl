@@ -1,0 +1,63 @@
+// DRKShell.idl : IDL source for DRKShell
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (DRKShell.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(a817e7a2-43fa-11d0-9e44-00aa00b6770a),
+	dual,
+	helpstring("IComponentRegistrar Interface"),
+	pointer_default(unique)
+]
+interface IComponentRegistrar : IDispatch
+{
+	[id(1)]	HRESULT Attach([in] BSTR bstrPath);
+	[id(2)]	HRESULT RegisterAll();
+	[id(3)]	HRESULT UnregisterAll();
+	[id(4)]	HRESULT GetComponents([out] SAFEARRAY(BSTR)* pbstrCLSIDs, [out] SAFEARRAY(BSTR)* pbstrDescriptions);
+	[id(5)]	HRESULT RegisterComponent([in] BSTR bstrCLSID);
+	[id(6)] HRESULT UnregisterComponent([in] BSTR bstrCLSID);
+};
+
+[
+	object,
+	uuid(8DEF031A-4091-40D7-9E09-C34FEB0FB87C),
+	dual,
+	nonextensible,
+	helpstring("IDRKShellMenu Interface"),
+	pointer_default(unique)
+]
+interface IDRKShellMenu : IDispatch{
+};
+[
+	uuid(AE58AD11-DB9B-47C5-AA49-92FCC9CDE3C0),
+	version(1.0),
+	helpstring("DRKShell 1.0 Type Library"),
+	custom(a817e7a1-43fa-11d0-9e44-00aa00b6770a,"{8F564BAB-5D2A-45B8-8F45-4CC337A99BBE}")
+]
+library DRKShellLib
+{
+	importlib("stdole2.tlb");
+
+	[
+		uuid(8F564BAB-5D2A-45B8-8F45-4CC337A99BBE),
+		helpstring("ComponentRegistrar Class")
+	]
+	coclass CompReg
+	{
+		[default] interface IComponentRegistrar;
+	};
+	[
+		uuid(E18C8C1B-FD35-455E-BB21-4BA26B1E751D),
+		helpstring("DRKShellMenu Class")
+	]
+	coclass DRKShellMenu
+	{
+		[default] interface IDRKShellMenu;
+	};
+};

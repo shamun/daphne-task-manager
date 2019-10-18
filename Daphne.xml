@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>DRK Open Source Software</Company_Name>
+		<Address_1>www.drk.com.ar</Address_1>
+		<Address_2>blog.drk.com.ar</Address_2>
+		<City_Town>Ciudad de Buenos Aires</City_Town>
+		<State_Province>Buenos Aires</State_Province>
+		<Zip_Postal_Code />
+		<Country>Argentina</Country>
+		<Company_WebSite_URL>http://www.drk.com.ar</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Leandro H.</Author_First_Name>
+			<Author_Last_Name>Fernández</Author_Last_Name>
+			<Author_Email>drkbugs@gmail.com</Author_Email>
+			<Contact_First_Name>Leandro H.</Contact_First_Name>
+			<Contact_Last_Name>Fernández</Contact_Last_Name>
+			<Contact_Email>drkbugs@gmail.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>drkbugs@gmail.com</Sales_Email>
+			<Support_Email>drkbugs@gmail.com</Support_Email>
+			<General_Email>drkbugs@gmail.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Daphne</Program_Name>
+		<Program_Version>2.03</Program_Version>
+		<Program_Release_Month>07</Program_Release_Month>
+		<Program_Release_Day>05</Program_Release_Day>
+		<Program_Release_Year>2014</Program_Release_Year>
+		<Program_Cost_Dollars>0</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Major Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win7 x32,Win7 x64,WinServer,WinVista,WinVista x64,WinXP</Program_OS_Support>
+		<Program_Language>English,Arabic,Chinese,French,German,Italian,Japanese,Polish,Portuguese,Russian,Spanish,Swedish</Program_Language>
+		<Program_Change_Info>Process owner column, Process I/O read/write columns, Logging facility for process events, Per process detailed I/O information, Major bug fixed: Get process environment information, Major bug fixed: CPU usage not showing if Daphne main window was hidden, Improved web update checking</Program_Change_Info>
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>System Utilities::Automation Tools</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>7073280</File_Size_Bytes>
+			<File_Size_K>6907</File_Size_K>
+			<File_Size_MB>6.75</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>task manager, process list, close several window, replace, remember window position, hack GUI, validate MD5, validate SHA1, kill process by name, </Keywords>
+			<Char_Desc_45>Task manager replacement for Windows (GPL)</Char_Desc_45>
+			<Char_Desc_80>Task manager replacement for Windows with high detail data and automation (GPL)</Char_Desc_80>
+			<Char_Desc_250>Task manager replacement for Windows. Detailed information about process and system state. Automation for killing/closing programs. Command line tool and Windows explorer integration. GUI hacking tools. Drag and drop tool. (GNU GPL)</Char_Desc_250>
+			<Char_Desc_450>Task manager replacement for Windows. Detailed information about process and system state. Automation for killing/closing programs. Command line tool and Windows explorer integration. Drag and drop tool for location process by window, or modifying windows properties. Lock process affinity mask or window size and position. Process hierarchy (GNU GPL)</Char_Desc_450>
+			<Char_Desc_2000>Task manager replacement for Windows. Detailed information about process and system state. Automation for killing/closing programs. Command line tool and Windows explorer integration. Drag and drop tool for location process by window, or modifying windows properties. Lock process affinity mask or window size and position. Process hierarchy (GNU GPL):
+Resources information
+Comprehensive process list
+Find/kill the process which owns a given window
+Find the window in the process windows tree
+Hide window and remove application from task bar
+Set or remove always on top property
+Change window size using numbers (i.e. 640x480)
+Save window position and size and restore when the process is started
+Item highlighting with colors for custom, system and high CPU-consumption processes.
+Quick search-as-you-type find by process name when sorted by Process column
+Schedule process kill for later
+Create a trap
+Change processor affinity mask and optionally trap this configuration
+Copy process name, PID, path, MD5 or SHA1 to clipboard
+Open containing folder
+Full command line
+Parent process and user
+Startup timestamp
+Kernel and user time
+Show and handle minimum and maximum working set size
+Send a window message (i.e. WM_ACTIVATE) with lParam and wParam values
+Thread list with priority and CPU time
+Loaded modules
+Environment variables
+I/O information
+Kill all process by matching name
+Close windows by matching title
+Schedule popup message
+Schedule system shutdown
+Control inspector window for revealing hidden passwords and other control information
+Copy process list to clipboard
+Windows 7 God Mode and Problem steps recorder
+Traps apply to any process, when its startup is detected.
+Notify creation, Kill, Hide the application, Keep window position and size
+User-defined menu items for killing a process list when activated
+Four user-defined command lines to be executed by global shortcut
+Windows explorer contextual menu integration</Char_Desc_2000>
+		</English>
+		<Spanish>
+			<Keywords>administrador de tareas, lista de procesos, cerrar varias ventanas, reemplazo, recordar posición y tamaño de ventana, depurar procesos, validar MD5, validar SHA1, terminar procesos por nombre</Keywords>
+			<Char_Desc_45>Reemplaza administrador de tareas de Windows</Char_Desc_45>
+			<Char_Desc_80>Reemplaza administrador de tareas de Windows con interfaz mejorada (GPL)</Char_Desc_80>
+			<Char_Desc_250>Reemplaza administrador de tareas de Windows con interfaz mejorada, integración con Windows explorer, línea de comandos, automatización, herramienta drag-and-drop, funciones de hacking, accesos directos configurables (GNU GPL)</Char_Desc_250>
+			<Char_Desc_450>Reemplaza administrador de tareas de Windows con interfaz mejorada, integración con Windows explorer, línea de comandos, automatización, herramienta drag-and-drop, funciones de hacking, accesos directos configurables. Ícono arrastable para ubicar un procesos o cerrarlo. Trampas para mantener posición y tamaño de una ventana, y otras propiedades. Árbol de procesos. Agendado de mensajes emergentes o apagado del equipo. (GNU GPL)</Char_Desc_450>
+			<Char_Desc_2000>Reemplaza administrador de tareas de Windows con interfaz mejorada, integración con Windows explorer, línea de comandos, automatización, herramienta drag-and-drop, funciones de hacking, accesos directos configurables (GNU GPL) 
+
+Información de recursos
+Lista de procesos detallada
+Ubicar/terminar el procesos dueño de una ventana
+Ubicar una ventana en el árbol de ventanas del proceso
+Activar/desactivar la propiedad "Primer plano" de una ventana
+Establecer el tamaño de una ventana ingresando un número (ej. 640x480)
+Ocultar por completo una aplicación mientras sigue corriendo
+Recordar la posición y tamaño de cualquier ventana
+Resaltado ajustable de procesos
+Agendado de mensajes emergentes, finalización de procesos, o apagado del equipo
+Trampas que ejecutan acciones sobre los procesos durante su inicio
+Copiar al portapapeles el nombre, ruta completa, PID, hash Md5 o SHA1 de un proceso
+Ubicar la carpeta que contiene el ejecutable
+Árbol de procesos
+Propiedades de una proceso muestra: nombre y PID del padre, tipo de ejecutable, usuario propietario, módulos, variables de entorno, árbol de ventanas e información de E/S.
+Soporte para la base de datos de procesos de DRK para la búsqueda y el aporte de información.
+Maneja prioridad y máscara de afinidad de CPUs del proceso.
+Trampas: se puede enstablecer trampas para aplicar ciertos cambios a procesos en el momento en que comienzan a ejecutarse.
+Matar todos por nombre: Elimina todos los procesos con un nombre determinado.
+Menú matar: Menú configurable, cada ítem tiene una lista de procesos que será eliminada cuando se active dicho ítem.
+Inspector de controles para revelar contraseñas ocultas.
+Mira arrastrable para matar, poner transparencia, habilitar controles y poner ventanas en primer plano.
+Agregar o quitar programas es una lista de las aplicaciones instaladas similar a la que viene con el sistema operativo, pero más rápida.</Char_Desc_2000>
+		</Spanish>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.drk.com.ar/daphne.php</Application_Info_URL>
+			<Application_Order_URL>http://www.drk.com.ar/daphne.php</Application_Order_URL>
+			<Application_Screenshot_URL>http://drk.com.ar/daphne/ScreenShot_1_201.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.drk.com.ar/daphne/Daphne.png</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.drk.com.ar/daphne/Daphne.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.drk.com.ar/daphne/Daphne_setup_x86.msi</Primary_Download_URL>
+			<Secondary_Download_URL>http://www.drk.com.ar/daphne/Daphne_setup_x64.msi</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>Daphne -- Windows task manager replacement
+Copyright (C) 2005,2014  Leandro H. Fernández
+
+http://www.drk.com.ar/daphne.php
+
+Buenos Aires, Argentina
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+NOTE: You will find the full license terms in COPYING.txt file.
+
+Daphne anonymous statistical-data collection module collects Daphne usage-data 
+and sends it to the open statistical database on-line: 
+http://www.drk.com.ar/daphne-open-statistics-report.php
+
+Daphne will under no circumstances collect personal data or information about
+other software installed on the computer. You can read more about this: 
+http://www.drk.com.ar/daphne-anonymous-statistics.php
+
+By installing and/or using Daphne you agree to this anonymous usage-data
+collection.</Distribution_Permissions>
+		<EULA>Daphne -- Windows task manager replacement
+Copyright (C) 2005,2014  Leandro H. Fernández
+
+http://www.drk.com.ar/daphne.php
+
+Buenos Aires, Argentina
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+NOTE: You will find the full license terms in COPYING.txt file.
+
+Daphne anonymous statistical-data collection module collects Daphne usage-data 
+and sends it to the open statistical database on-line: 
+http://www.drk.com.ar/daphne-open-statistics-report.php
+
+Daphne will under no circumstances collect personal data or information about
+other software installed on the computer. You can read more about this: 
+http://www.drk.com.ar/daphne-anonymous-statistics.php
+
+By installing and/or using Daphne you agree to this anonymous usage-data
+collection.</EULA>
+	</Permissions>
+</XML_DIZ_INFO>

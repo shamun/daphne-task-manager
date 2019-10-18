@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{d86732e1-4169-4fcd-a67f-eee66f90b2be}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{192e4d84-bcf2-4d2b-9bd0-07f57e0c1985}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{554a52f4-9313-4f13-b804-404ae10f82fd}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AuthUserDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CloseAllWndByTitle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPUUsageDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CrashDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Daphne.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DaphneDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inspector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KillAllDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KillAtDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Killer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KMIEditDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KMIEditPListDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineGraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lssoftDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBWebAgreeDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewTrapDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPAdv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPHighlight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPKill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPLogging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPLook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPMultidesktop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPStartup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PPTraps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessTreeDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertiesDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RunProcDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScheduledTasksDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScheduleShutdownDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SCManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SendMsgDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoftList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Software.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoftwarePropertiesDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SplashMDInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Trap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UnicodeFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W32Values.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WndsPopUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessDRK.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AffinityDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowSize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageAtDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DRKLTR\DRKLTR.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="DRKRTL\DRKRTL.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="Daphne.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AuthUserDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CloseAllWndByTitle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPUUsageDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CrashDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Daphne.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DaphneBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DaphneDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Inspector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KillAllDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KillAtDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Killer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KMIEditDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KMIEditPListDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LineGraph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lssoftDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBWebAgreeDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="memdc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewTrapDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPAdv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPHighlight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPKill.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPLogging.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPLook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPMultidesktop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPStartup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PPTraps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Process.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessTreeDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertiesDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RunProcDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScheduledTasksDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScheduleShutdownDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SCManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SendMsgDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoftList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Software.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoftwarePropertiesDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashMDInit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Thread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UnicodeFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W32Values.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WndsPopUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AffinityDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowSize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageAtDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="arrowcop.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\arrowcop.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\arrowcop.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cur00001.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cur00001.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cur00001.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cur00002.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cur00002.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cur00002.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cur00003.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cur00003.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cur00003.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cur00004.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cur00004.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cur00004.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cur00005.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cur00005.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cur00005.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cur00006.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cur00006.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cur00006.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cur00007.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cur00007.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cur00007.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Daphne.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\Daphne.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\Daphne.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Daphne.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00000.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00000.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00000.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00002.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00002.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00002.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00003.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00003.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00003.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00004.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00004.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00004.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00005.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00005.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00005.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00006.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00006.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00006.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00007.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00007.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00007.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00008.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00008.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00008.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00009.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00009.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00009.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ico00010.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\ico00010.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\ico00010.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\idr_main.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\null.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RTL\res\null.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LTR\res\null.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+    <None Include="DRKRTL\res\cur00001.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\cur00002.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\cur00003.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\cur00004.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\cur00005.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\cur00006.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\cur00007.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\Daphne.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\Daphne.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00000.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00002.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00003.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00004.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00005.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00006.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00007.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00008.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00009.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\ico00010.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\null.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cur00001.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cur00002.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cur00003.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cur00004.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cur00005.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cur00006.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cur00007.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\Daphne.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\Daphne.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00000.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00002.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00003.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00004.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00005.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00006.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00007.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00008.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00009.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\ico00010.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\null.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\arrowcop.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\arrowcop.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\arrowcop.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LANG\ar\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\de\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\el\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\zh\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\es\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\fr\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\he\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\it\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\ja\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\pl\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\pt\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\ru\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="LANG\va\LC_MESSAGES\DAPHNE.mo" />
+    <None Include="res\t_select.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKRTL\res\t_select.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DRKLTR\res\t_select.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuildStep Include="Daphne.exe.manifest">
+      <Filter>Resource Files</Filter>
+    </CustomBuildStep>
+  </ItemGroup>
+</Project>

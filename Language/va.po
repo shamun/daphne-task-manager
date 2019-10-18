@@ -1,0 +1,1242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Daphne\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-18 16:07-0300\n"
+"PO-Revision-Date: 2008-05-24 08:47+0100\n"
+"Last-Translator: vjatv <vjatv@yahoo.es>\n"
+"Language-Team: Softwarevalencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Valencian\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: AuthUserDlg.cpp:75
+msgid "Invalid username or password"
+msgstr "Usuari o contrasenya invalits"
+
+#: AuthUserDlg.cpp:75
+#: lssoftDlg.cpp:218
+#: lssoftDlg.cpp:233
+msgid "ERROR"
+msgstr "ERRO"
+
+#: AuthUserDlg.cpp:83
+msgid " Authenticate user"
+msgstr " Validar usuari"
+
+#: AuthUserDlg.cpp:84
+#: CloseAllWndByTitle.cpp:52
+#: KillAllDlg.cpp:81
+#: KMIEditDlg.cpp:86
+#: NewTrapDlg.cpp:61
+#: SendMsgDlg.cpp:78
+#: W32Values.cpp:88
+msgid "OK"
+msgstr "Acceptar"
+
+#: AuthUserDlg.cpp:85
+#: CloseAllWndByTitle.cpp:53
+#: KillAllDlg.cpp:82
+#: KMIEditDlg.cpp:87
+#: NewTrapDlg.cpp:62
+#: RunProcDlg.cpp:195
+#: SendMsgDlg.cpp:79
+#: W32Values.cpp:89
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: AuthUserDlg.cpp:86
+msgid "Username:"
+msgstr "Usuari:"
+
+#: AuthUserDlg.cpp:87
+msgid "Password:"
+msgstr "Contrasenya:"
+
+#: CloseAllWndByTitle.cpp:51
+msgid " Close all windows by title"
+msgstr " Tancar totes les finestres per títul"
+
+#: CloseAllWndByTitle.cpp:54
+#: NewTrapDlg.cpp:65
+msgid "Window title contains:"
+msgstr " El títul de la finestra conte:"
+
+#: CloseAllWndByTitle.cpp:55
+#: KillAllDlg.cpp:84
+msgid "case-sensitive"
+msgstr "MAYÚSCULES i minúscules"
+
+#: CrashDlg.cpp:79
+msgid " Daphne - Crash"
+msgstr "Daphne - Erro inesperat"
+
+#: CrashDlg.cpp:80
+msgid "SEND"
+msgstr "ENVIAR"
+
+#: CrashDlg.cpp:81
+msgid "Quit"
+msgstr "Eixir"
+
+#: CrashDlg.cpp:82
+msgid "An unhandled exception has crashed Daphne. Please, press SEND to report this problem by mail."
+msgstr "Daphne ha trobat un erro inesperat. Per favor, pulse ENVIAR l'informe d'este problema per correu."
+
+#: CrashDlg.cpp:83
+msgid "Error information"
+msgstr "Informació de l'erro"
+
+#: CrashDlg.cpp:84
+msgid "* You will see the mail before sending."
+msgstr "* Vols vore el correu abans d'enviar-lo."
+
+#: Daphne.cpp:204
+#: DaphneDlg.cpp:232
+#: DaphneDlg.cpp:2672
+msgid "Error"
+msgstr "Erro"
+
+#: Daphne.cpp:1269
+msgid "Another instance of Daphne is already running."
+msgstr "Un atra instancia de Daphne ya esta actualment en us."
+
+#: Daphne.cpp:1269
+#: DaphneDlg.cpp:956
+#: DaphneDlg.cpp:965
+#: DaphneDlg.cpp:2291
+msgid "Daphne"
+msgstr "Daphne"
+
+#: Daphne.cpp:1284
+msgid "Unable to initialize Sockets API."
+msgstr "Impossible inicialisar l'API Sockets."
+
+#: DaphneDlg.cpp:232
+msgid "Unable to register global shortcut. Multidesktop may not work."
+msgstr "Impossible registrar accesos directes globals. Pot ser que no fucione el multiescritori."
+
+#: DaphneDlg.cpp:236
+msgid "Full path and arguments"
+msgstr "Ruta i arguments"
+
+#: DaphneDlg.cpp:237
+msgid "Always on top"
+msgstr "Primer pla"
+
+#: DaphneDlg.cpp:238
+msgid "Daphne >"
+msgstr "Daphne >"
+
+#: DaphneDlg.cpp:239
+#: DaphneDlg.cpp:1568
+msgid "Settings..."
+msgstr "Configuració..."
+
+#: DaphneDlg.cpp:241
+#, c-format
+msgid "Number of CPUs: %u"
+msgstr "Número de CPUs: %u"
+
+#: DaphneDlg.cpp:243
+msgid "Find"
+msgstr "Buscar"
+
+#: DaphneDlg.cpp:244
+#: DaphneDlg.cpp:746
+#: Trap.cpp:89
+msgid "Kill"
+msgstr "Matar"
+
+#: DaphneDlg.cpp:245
+#: PropertiesDlg.cpp:336
+#: Trap.cpp:92
+msgid "Hide application"
+msgstr "Ocultar aplicació"
+
+#: DaphneDlg.cpp:246
+#: Trap.cpp:95
+msgid "Set on top"
+msgstr "Posar en primer pla"
+
+#: DaphneDlg.cpp:247
+#: Trap.cpp:98
+msgid "Unset on top"
+msgstr "Llevar del primer pla"
+
+#: DaphneDlg.cpp:248
+msgid "Set alpha 100%"
+msgstr "Alpha 100%"
+
+#: DaphneDlg.cpp:249
+#: Trap.cpp:101
+msgid "Set alpha 75%"
+msgstr "Alpha 75%"
+
+#: DaphneDlg.cpp:250
+#: Trap.cpp:104
+msgid "Set alpha 50%"
+msgstr "Alpha 50%"
+
+#: DaphneDlg.cpp:251
+msgid "Unset alpha"
+msgstr "Llevar alpha"
+
+#: DaphneDlg.cpp:252
+msgid "Enable"
+msgstr "Habilitar"
+
+#: DaphneDlg.cpp:253
+msgid "Disable"
+msgstr "Deshabilitar"
+
+#: DaphneDlg.cpp:294
+msgid "&About Daphne..."
+msgstr "&Sobre Daphne..."
+
+#: DaphneDlg.cpp:318
+#: DaphneDlg.cpp:809
+msgid "PID"
+msgstr "PID"
+
+#: DaphneDlg.cpp:319
+#: DaphneDlg.cpp:626
+#: PropertiesDlg.cpp:180
+msgid "Process"
+msgstr "Proces"
+
+#: DaphneDlg.cpp:320
+#: DaphneDlg.cpp:810
+msgid "Path"
+msgstr "Ruta"
+
+#: DaphneDlg.cpp:321
+#: PropertiesDlg.cpp:134
+msgid "Priority"
+msgstr "Prioritat"
+
+#: DaphneDlg.cpp:322
+msgid "Class"
+msgstr "Classe"
+
+#: DaphneDlg.cpp:323
+msgid "Memory"
+msgstr "Memòria"
+
+#: DaphneDlg.cpp:324
+msgid "PeakMemoryUsage"
+msgstr "Màxim de memòria utilisada"
+
+#: DaphneDlg.cpp:325
+msgid "Swap"
+msgstr "Cache"
+
+#: DaphneDlg.cpp:326
+msgid "PeakSwapUsage"
+msgstr "Màxim de cache utilisada"
+
+#: DaphneDlg.cpp:327
+#: PropertiesDlg.cpp:106
+msgid "Threads"
+msgstr "Fils"
+
+#: DaphneDlg.cpp:328
+#, c-format
+msgid "%CPU"
+msgstr "%CPU"
+
+#: DaphneDlg.cpp:472
+msgid "Daphne needs \"Debug programs\" privilges in order to show full process list on Windows XP. Do you want to check DRK web site for a check list of the procedure? (If you click Cancel you won't see this warning again)"
+msgstr "Daphne requerix privilegi de \"Depuració de programes\" per a mostrar la llista completa de processos en Windows XP. ¿Vols revisar el lloc web DRK per a vore el procediment de l'ajust? (Si pulsa Cancelar ya no tornara a vore esta advertencia)"
+
+#: DaphneDlg.cpp:472
+msgid "Your account lacks debug privilege"
+msgstr "El seu conte no te privilegis de depuració"
+
+#: DaphneDlg.cpp:624
+msgid "Service"
+msgstr "Servici"
+
+#: DaphneDlg.cpp:654
+#: DaphneDlg.cpp:756
+#: PropertiesDlg.cpp:162
+msgid "High"
+msgstr "Alta"
+
+#: DaphneDlg.cpp:657
+#: DaphneDlg.cpp:757
+#: PropertiesDlg.cpp:165
+#: PropertiesDlg.cpp:607
+#: Thread.cpp:167
+msgid "Normal"
+msgstr "Normal"
+
+#: DaphneDlg.cpp:660
+#: DaphneDlg.cpp:758
+#: PropertiesDlg.cpp:168
+msgid "Low"
+msgstr "Baixa"
+
+#: DaphneDlg.cpp:663
+#: DaphneDlg.cpp:755
+#: PropertiesDlg.cpp:171
+msgid "Real time"
+msgstr "Temps real"
+
+#: DaphneDlg.cpp:666
+#: Thread.cpp:172
+msgid "N/A"
+msgstr "N/D"
+
+#: DaphneDlg.cpp:747
+msgid "Kill politely"
+msgstr "Matar políticament"
+
+#: DaphneDlg.cpp:749
+#: PropertiesDlg.cpp:333
+msgid "Set focus"
+msgstr "Posar foc"
+
+#: DaphneDlg.cpp:750
+#: PropertiesDlg.cpp:338
+msgid "Set allways on top"
+msgstr "Posar sempre en primer pla"
+
+#: DaphneDlg.cpp:751
+#: PropertiesDlg.cpp:339
+msgid "Unset allways on top"
+msgstr "Llevar sempre en primer pla"
+
+#: DaphneDlg.cpp:752
+msgid "Create trap"
+msgstr "Crear trampa"
+
+#: DaphneDlg.cpp:774
+#: PropertiesDlg.cpp:635
+msgid "Set priority"
+msgstr "Posar prioritat"
+
+#: DaphneDlg.cpp:779
+msgid "Start service"
+msgstr "Iniciar servici"
+
+#: DaphneDlg.cpp:780
+msgid "Continue service"
+msgstr "Continuar servici"
+
+#: DaphneDlg.cpp:781
+msgid "Pause service"
+msgstr "Pausar servici"
+
+#: DaphneDlg.cpp:782
+msgid "Stop service"
+msgstr "Detindre servici"
+
+#: DaphneDlg.cpp:807
+msgid "Copy name"
+msgstr "Copiar nom"
+
+#: DaphneDlg.cpp:811
+msgid "Path and arguments"
+msgstr "Ruta i arguments"
+
+#: DaphneDlg.cpp:812
+msgid "Copy..."
+msgstr "Copiar..."
+
+#: DaphneDlg.cpp:814
+msgid "Look up into DRK DB..."
+msgstr "Buscar en DRK DB..."
+
+#: DaphneDlg.cpp:815
+msgid "Submit to DRK DB..."
+msgstr "Enviar a DRK DB..."
+
+#: DaphneDlg.cpp:817
+#: lssoftDlg.cpp:166
+msgid "Properties"
+msgstr "Propietats"
+
+#: DaphneDlg.cpp:955
+#, c-format
+msgid "%u processes were politely killed."
+msgstr "S'han matat %u processos gentilment."
+
+#: DaphneDlg.cpp:955
+#, c-format
+msgid "%u processes were killed."
+msgstr "S'han matat %u processos."
+
+#: DaphneDlg.cpp:964
+#, c-format
+msgid "%u windows were closed."
+msgstr "S'han tancat %u finestres."
+
+#: DaphneDlg.cpp:1226
+#, c-format
+msgid "New process %s created."
+msgstr "Proces %s creat."
+
+#: DaphneDlg.cpp:1320
+#: PropertiesDlg.cpp:334
+msgid "Hide"
+msgstr "Ocultar"
+
+#: DaphneDlg.cpp:1322
+#: PropertiesDlg.cpp:335
+msgid "Show"
+msgstr "Mostrar"
+
+#: DaphneDlg.cpp:1324
+msgid "About Daphne"
+msgstr "Sobre Daphne"
+
+#: DaphneDlg.cpp:1325
+msgid "Search the web..."
+msgstr "Buscar en la web..."
+
+#: DaphneDlg.cpp:1327
+msgid "Exit"
+msgstr "Eixir"
+
+#: DaphneDlg.cpp:1375
+#, c-format
+msgid "CPU usage %3u%%"
+msgstr "Us de CPU %3u%%"
+
+#: DaphneDlg.cpp:1379
+#, c-format
+msgid "Memory usage %3u%%"
+msgstr "Us de memòria %3u%%"
+
+#: DaphneDlg.cpp:1381
+#, c-format
+msgid "Free memory %u MB"
+msgstr "Memòria lliure %u MB"
+
+#: DaphneDlg.cpp:1396
+#, c-format
+msgid "%s - %u%% CPU - %u hidden application"
+msgstr "%s - %u%% CPU - %u aplicació oculta"
+
+#: DaphneDlg.cpp:1398
+#, c-format
+msgid "%s - %u%% CPU - %u hidden applications"
+msgstr "%s - %u%% CPU - %u aplicacions ocultes"
+
+#: DaphneDlg.cpp:1571
+#: PPStartup.cpp:129
+msgid "Main"
+msgstr "Principal"
+
+#: DaphneDlg.cpp:1576
+#: PPLook.cpp:135
+msgid "Look and feel"
+msgstr "Visualisació"
+
+#: DaphneDlg.cpp:1581
+#: PPKill.cpp:82
+#: PPKill.cpp:88
+msgid "Kill menu"
+msgstr "Menú Kill"
+
+#: DaphneDlg.cpp:1586
+#: PPTraps.cpp:58
+#: PPTraps.cpp:62
+msgid "Traps"
+msgstr "Trampes"
+
+#: DaphneDlg.cpp:1591
+#: PPHighlight.cpp:62
+msgid "Highlights"
+msgstr "Resaltat"
+
+#: DaphneDlg.cpp:1595
+#: PPMultidesktop.cpp:46
+msgid "Multidesktop"
+msgstr "Multiescritori"
+
+#: DaphneDlg.cpp:1599
+#: PPAdv.cpp:73
+msgid "Advanced"
+msgstr "Alvançat"
+
+#: DaphneDlg.cpp:1664
+msgid "Kill all by name"
+msgstr "Matar tots per el nom"
+
+#: DaphneDlg.cpp:1665
+msgid "Kill all by name (Polite)"
+msgstr "Matar tots per el nom (Gentilment)"
+
+#: DaphneDlg.cpp:1666
+msgid "Run process..."
+msgstr "Eixecutar..."
+
+#: DaphneDlg.cpp:1667
+msgid "Run process as ..."
+msgstr "Eixecutar com..."
+
+#: DaphneDlg.cpp:1668
+msgid "Close windows by name"
+msgstr "Tancar finestres per nom"
+
+#: DaphneDlg.cpp:1670
+msgid "Show process tree..."
+msgstr "Mostrar arbre de processos..."
+
+#: DaphneDlg.cpp:1671
+msgid "Show installed software..."
+msgstr "Mostrar programes instalats..."
+
+#: DaphneDlg.cpp:1673
+msgid "Control inspector..."
+msgstr "Inspector de controls..."
+
+#: DaphneDlg.cpp:1674
+msgid "Hidden applications..."
+msgstr "Aplicacions ocultes..."
+
+#: DaphneDlg.cpp:1691
+#: PropertiesDlg.cpp:337
+msgid "Show application"
+msgstr "Mostrar aplicació"
+
+#: DaphneDlg.cpp:1764
+msgid "Connecting primary desktop..."
+msgstr "Conectant a l'escritori primari..."
+
+#: DaphneDlg.cpp:1771
+#, c-format
+msgid "Creating desktop %u..."
+msgstr "Creant escritori %u..."
+
+#: DaphneDlg.cpp:2045
+msgid "Normal refresh occurs every two seconds. Fast refresh takes place each second."
+msgstr "L'actualisació normal es fa una vegada cada dos segons. La rapida te lloc cada segon."
+
+#: DaphneDlg.cpp:2048
+msgid "Drag this target over a window to execute the action selected in the combo box."
+msgstr "Arrastre este objectiu sobre una finestra per a eixecutar l'acció seleccionada en la llista."
+
+#: DaphneDlg.cpp:2051
+msgid "Selects the action for the drag and drop target tool."
+msgstr "Selecciona l'acció per arrastrar i amollar en la ferramenta objectiu."
+
+#: DaphneDlg.cpp:2054
+msgid "Displays full path and command line arguments if possible."
+msgstr "Mostra la ruta d'acces completa i els arguments, si es possible."
+
+#: DaphneDlg.cpp:2057
+msgid "Keeps Daphne main window always on top."
+msgstr "Mante la finestra de Daphne sempre en primer pla."
+
+#: DaphneDlg.cpp:2060
+msgid "Opens the Daphne menu."
+msgstr "Obri el menú Daphne."
+
+#: DaphneDlg.cpp:2183
+msgid " About Daphne"
+msgstr " Sobre Daphne"
+
+#: DaphneDlg.cpp:2184
+#: lssoftDlg.cpp:48
+#: ProcessTreeDlg.cpp:43
+#: PropertiesDlg.cpp:102
+#: PropertiesDlg.cpp:347
+#: SoftwarePropertiesDlg.cpp:55
+msgid "Close"
+msgstr "Tancar"
+
+#: DaphneDlg.cpp:2185
+msgid "License"
+msgstr "Llicència"
+
+#: DaphneDlg.cpp:2186
+msgid "Contributed"
+msgstr "Contribucions"
+
+#: DaphneDlg.cpp:2187
+msgid "Thanks to Adrián, Santiago, Nico and Juan."
+msgstr "Gracies a Adrián, Santiago, Nico i Juan."
+
+#: DaphneDlg.cpp:2188
+msgid "Giacomo Margarito - Italian translation"
+msgstr "Giacomo Margarito - Traducció al Italià"
+
+#: DaphneDlg.cpp:2189
+msgid "He Zhenwei - Chinese translation"
+msgstr "He Zhenwei - Traducció al Chinenc"
+
+#: DaphneDlg.cpp:2190
+msgid "Bunny Forth - Chinese translation contributor"
+msgstr "Bunny Forth - Ajuda en la traducció al Chinenc"
+
+#: DaphneDlg.cpp:2191
+msgid "Uwe Berger - German translation"
+msgstr "Uwe Berger - Traducció a l'Alemà"
+
+#: DaphneDlg.cpp:2192
+msgid "Technical support at forum.drk.com.ar"
+msgstr "Soport tècnic forum.drk.com.ar"
+
+#: DaphneDlg.cpp:2369
+msgid "There is a new version of Daphne ready to download. Would you like to visit download web page?"
+msgstr "Hi ha una nova versió de Daphne llista per a descarregar des d'internet. ¿Desija visitar el lloc web ara?"
+
+#: DaphneDlg.cpp:2369
+msgid "Daphne web updates"
+msgstr "Actualisació web Daphne"
+
+#: DaphneDlg.cpp:2672
+msgid ""
+"Daphne isn't able to switch Desktop\n"
+"It can be a configuration problem.\n"
+"Please reconfigure or restart Daphne and it will appear on next startup."
+msgstr ""
+"Daphne no pot canviar d'escritori\n"
+"Pot ser un problema de configuració.\n"
+"Per favor reconfigure o reinicie Daphne i apareixerà en el pròxim inici."
+
+#: DskPreviewDlg.cpp:40
+msgid " Preview"
+msgstr " Previsualisació"
+
+#: Inspector.cpp:188
+msgid " Inspector"
+msgstr " Inspector"
+
+#: Inspector.cpp:189
+msgid "Drag the magnifying glass over windows and controls to inspect its properties."
+msgstr "Arrastre la lupa sobre les finestres i controls per a vore les seues propietats."
+
+#: Inspector.cpp:190
+msgid "Title:"
+msgstr "Títul:"
+
+#: Inspector.cpp:191
+#: PropertiesDlg.cpp:112
+msgid "Class:"
+msgstr "Classe:"
+
+#: Inspector.cpp:192
+msgid "Text:"
+msgstr "Text:"
+
+#: Inspector.cpp:193
+msgid "Location:"
+msgstr "Ubicació:"
+
+#: Inspector.cpp:194
+msgid "Size:"
+msgstr "Tamany:"
+
+#: KillAllDlg.cpp:80
+msgid " Kill all by name"
+msgstr " Matar tots per el nom"
+
+#: KillAllDlg.cpp:83
+#: NewTrapDlg.cpp:63
+msgid "Process name:"
+msgstr "Nom del proces:"
+
+#: KillAllDlg.cpp:94
+msgid " (Polite)"
+msgstr " (Gentilment)"
+
+#: KMIEditDlg.cpp:85
+msgid " Kill menu item"
+msgstr "Element del menú Kill"
+
+#: KMIEditDlg.cpp:88
+msgid "Menu name:"
+msgstr "Nom del menú:"
+
+#: KMIEditDlg.cpp:89
+msgid "Process list (case sensitive)"
+msgstr "Llista de processos (respetar MAYÚSCULES i minúscules)"
+
+#: lssoftDlg.cpp:47
+msgid " Installed software list"
+msgstr " Llista de programes instalats"
+
+#: lssoftDlg.cpp:56
+msgid "Software"
+msgstr "Software"
+
+#: lssoftDlg.cpp:57
+msgid "Version"
+msgstr "Versió"
+
+#: lssoftDlg.cpp:58
+msgid "Publisher"
+msgstr "Autor"
+
+#: lssoftDlg.cpp:59
+msgid "Publisher WEB"
+msgstr "WEB de l'autor"
+
+#: lssoftDlg.cpp:164
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: lssoftDlg.cpp:218
+msgid "Uninstall information is not available"
+msgstr "El desinstalador no està disponible"
+
+#: lssoftDlg.cpp:223
+#, c-format
+msgid "Are you sure you want to remove %s from this computer?"
+msgstr "¿Està segur que desija llevar %s d'este equip?"
+
+#: lssoftDlg.cpp:224
+msgid "Warning: this can not be undone"
+msgstr "Avis: esta acció no pot desfer-se"
+
+#: lssoftDlg.cpp:233
+msgid "Unable to run uninstaller"
+msgstr "Impossible eixecutar el desinstalador"
+
+#: MBWebAgreeDlg.cpp:49
+msgid " Web updates"
+msgstr " Actualisacions web"
+
+#: MBWebAgreeDlg.cpp:50
+msgid "Daphne is about to check the web for updates. This is done without sending any personally identifiable information to the web site."
+msgstr "Daphne està per buscar actualisacions en la web. Açó se fa sense enviar informació personal al lloc web."
+
+#: MBWebAgreeDlg.cpp:51
+msgid "Do you want to check for updates at internet?"
+msgstr "¿Vols que Daphne busque actualisacions en internet?"
+
+#: MBWebAgreeDlg.cpp:52
+msgid "Yes"
+msgstr "Si"
+
+#: MBWebAgreeDlg.cpp:53
+msgid "No"
+msgstr "No"
+
+#: NewTrapDlg.cpp:60
+msgid " Trap..."
+msgstr " Trampa..."
+
+#: NewTrapDlg.cpp:64
+msgid "Action:"
+msgstr "Acció:"
+
+#: PPAdv.cpp:74
+msgid "Install system wide Daphne activation shortcut"
+msgstr "Instalar acces directe global per a l'activació de Daphne"
+
+#: PPAdv.cpp:75
+msgid "Shift"
+msgstr "Shift"
+
+#: PPAdv.cpp:76
+msgid "Alt"
+msgstr "Alt"
+
+#: PPAdv.cpp:77
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: PPAdv.cpp:78
+msgid "Advanced options"
+msgstr "Opcions alvançades"
+
+#: PPAdv.cpp:79
+msgid "Show all hidden applications on exit"
+msgstr "Mostrar totes les aplicacions ocultes a l'eixir"
+
+#: PPAdv.cpp:80
+msgid "Try to hide Java VM from command line"
+msgstr "Tratar d'ocultar la VM de Java en la llínea de comandaments"
+
+#: PPAdv.cpp:81
+msgid "Don't check Debug programs privilege on startup"
+msgstr "No verificar privilegi de Depuració de programes a l'inici"
+
+#: PPAdv.cpp:82
+msgid "Store configuration"
+msgstr "Guardar configuració"
+
+#: PPAdv.cpp:83
+msgid "Using Daphne.INI file"
+msgstr "Usant archiu Daphne.INI"
+
+#: PPAdv.cpp:84
+msgid "Using Windows registry"
+msgstr "Usant el registre de Windows"
+
+#: PPHighlight.cpp:63
+msgid "Add process names to highlight in the main list:"
+msgstr "Afegir noms de processos a resaltar en la llista principal:"
+
+#: PPHighlight.cpp:64
+msgid "Highlight system process with blue"
+msgstr "Resaltar processos del sistema en blau"
+
+#: PPHighlight.cpp:65
+#, c-format
+msgid "Hightlight process over 95% CPU in red"
+msgstr "Resaltar processos en més del 95% de la CPU en roig"
+
+#: PPHighlight.cpp:66
+#, c-format
+msgid "Highlight orange, process with more than 20% of memory used"
+msgstr "Resaltar en taronja, el proces en més del 20% de memòria usada"
+
+#: PPKill.cpp:83
+#: PPTraps.cpp:59
+msgid "Add"
+msgstr "Afegir"
+
+#: PPKill.cpp:84
+#: PPTraps.cpp:60
+msgid "Edit"
+msgstr "Modificar"
+
+#: PPKill.cpp:85
+#: PPTraps.cpp:61
+msgid "Remove"
+msgstr "Llevar"
+
+#: PPKill.cpp:86
+#: PPLook.cpp:138
+msgid "Up"
+msgstr "Amunt"
+
+#: PPKill.cpp:87
+#: PPLook.cpp:139
+msgid "Down"
+msgstr "Avall"
+
+#: PPKill.cpp:221
+#, c-format
+msgid "Removing %s"
+msgstr "Llevant %s"
+
+#: PPKill.cpp:222
+msgid ""
+"You are about to remove a kill menu item. This action can't be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+"Està a punt d'eliminar tots els elements del menú. Esta acció no pot desfer-se.\n"
+"¿Està segur?"
+
+#: PPLook.cpp:136
+msgid "Main window"
+msgstr "Finestra principal"
+
+#: PPLook.cpp:137
+msgid "Process list colum order"
+msgstr "Orde de columnes de la llista de processos"
+
+#: PPLook.cpp:140
+msgid "transparence"
+msgstr "transparència"
+
+#: PPMultidesktop.cpp:47
+msgid "Multidesktop options"
+msgstr "Opcions multiescritori"
+
+#: PPMultidesktop.cpp:48
+msgid "Enable Multidesktop feature (at Daphne's startup)"
+msgstr "Habilitar funcionalitat multiescritori (a l'iniciar Daphne)"
+
+#: PPMultidesktop.cpp:49
+msgid "Extra desktops"
+msgstr "Escritoris extra"
+
+#: PPMultidesktop.cpp:90
+msgid ""
+"This feature is experimental. It won't damage your computer but,\n"
+"if you notice strange behavior after enabling it. Turn it off\n"
+"and report the situation."
+msgstr ""
+"Esta funcionalitat es experimental. No danyarà el seu ordenador pero,\n"
+"si nota un comportament extrany després d'activar-la. Desactive-la\n"
+"i després informe de la situació."
+
+#: PPMultidesktop.cpp:90
+msgid "Daphne multidesktop feature"
+msgstr "Funcionalitat multiescritori"
+
+#: PPStartup.cpp:130
+msgid "Daphne startup"
+msgstr "Inici de Daphne"
+
+#: PPStartup.cpp:131
+msgid "Behavior"
+msgstr "Comportament"
+
+#: PPStartup.cpp:132
+msgid "Proxy server:"
+msgstr "Servidor proxy:"
+
+#: PPStartup.cpp:133
+msgid "Use HTTP proxy"
+msgstr "Utilisar proxy HTTP"
+
+#: PPStartup.cpp:134
+msgid "Start Daphne automatically when starting Windows"
+msgstr "Iniciar Daphne automàticament quant inici Windows"
+
+#: PPStartup.cpp:135
+msgid "Always hide Daphne on startup"
+msgstr "Ocultar sempre Daphne a l'inici"
+
+#: PPStartup.cpp:136
+msgid "Check internet for Daphne updates on startup"
+msgstr "Buscar en internet actualisacions de Daphne"
+
+#: PPStartup.cpp:137
+msgid "Select process in list while dragging"
+msgstr "Seleccionar proces en la llista mentres arrastra"
+
+#: PPStartup.cpp:138
+msgid "Highlight control while dragging Control inspector"
+msgstr "Resaltar control mentres arrastra l'Inspector de control"
+
+#: PPStartup.cpp:139
+msgid "Fast refresh"
+msgstr "Llista ràpida"
+
+#: PPTraps.cpp:65
+msgid "Process name"
+msgstr "Nom del proces"
+
+#: PPTraps.cpp:66
+msgid "Action"
+msgstr "Acció"
+
+#: PPTraps.cpp:67
+msgid "Window title contains"
+msgstr " El títul de la finestra conte"
+
+#: PPTraps.cpp:132
+#, c-format
+msgid "Are you sure you want to remove the selected trap on %s?"
+msgstr "¿Està segur que desija llevar la trampa per a %s?"
+
+#: PPTraps.cpp:133
+#, c-format
+msgid "Removing \"%s\""
+msgstr "Llevant \"%s\""
+
+#: ProcessTreeDlg.cpp:42
+msgid " Process tree"
+msgstr " Arbre de processos"
+
+#: ProcessTreeDlg.cpp:44
+msgid "This tree is a snapshot and won't be updated until the dialog is closed and opened again."
+msgstr "L'arbre es una image estàtica i no s'actualisarà fins que la finestra se tanque i s'òbriga novament."
+
+#: ProcList.cpp:118
+msgid "Quick search by process name enabled."
+msgstr "Busca ràpida per nom de proces activat."
+
+#: ProcList.cpp:120
+msgid "Quick search by process name disabled."
+msgstr "Busca ràpida per nom de proces desactivat."
+
+#: ProcList.cpp:148
+#, c-format
+msgid "Highlighting %s..."
+msgstr "Resaltant %s..."
+
+#: PropertiesDlg.cpp:101
+#: SoftwarePropertiesDlg.cpp:54
+msgid " Properties"
+msgstr " Propietats"
+
+#: PropertiesDlg.cpp:103
+msgid "...DRK search"
+msgstr "...Buscant DRK"
+
+#: PropertiesDlg.cpp:104
+msgid "Environment"
+msgstr "Entorn"
+
+#: PropertiesDlg.cpp:105
+msgid "Modules"
+msgstr "Mòduls"
+
+#: PropertiesDlg.cpp:107
+msgid "More information"
+msgstr "Més informació"
+
+#: PropertiesDlg.cpp:108
+msgid "Windows"
+msgstr "Finestres"
+
+#: PropertiesDlg.cpp:109
+msgid "Process:"
+msgstr "Proces:"
+
+#: PropertiesDlg.cpp:110
+msgid "CmdLine:"
+msgstr "Llínea Comandaments:"
+
+#: PropertiesDlg.cpp:111
+msgid "Priority:"
+msgstr "Prioritat:"
+
+#: PropertiesDlg.cpp:113
+msgid "Created:"
+msgstr "Creat el:"
+
+#: PropertiesDlg.cpp:114
+msgid "Kernel time:"
+msgstr "Modo kernel:"
+
+#: PropertiesDlg.cpp:115
+msgid "User time:"
+msgstr "M. usuari:"
+
+#: PropertiesDlg.cpp:116
+msgid "Parent:"
+msgstr "Pare:"
+
+#: PropertiesDlg.cpp:132
+msgid "ThreadID"
+msgstr "ID del fil"
+
+#: PropertiesDlg.cpp:133
+msgid "References"
+msgstr "Referències"
+
+#: PropertiesDlg.cpp:135
+msgid "CPU Time"
+msgstr "Temps de CPU"
+
+#: PropertiesDlg.cpp:174
+msgid "Not available"
+msgstr "No disponible"
+
+#: PropertiesDlg.cpp:178
+msgid "Service ["
+msgstr "Servici ["
+
+#: PropertiesDlg.cpp:184
+msgid "paused]"
+msgstr "pausat]"
+
+#: PropertiesDlg.cpp:187
+msgid "running]"
+msgstr "eixecutant-se]"
+
+#: PropertiesDlg.cpp:190
+msgid "stoped]"
+msgstr "detingut]"
+
+#: PropertiesDlg.cpp:193
+msgid "continue pending]"
+msgstr "pendent de continuar]"
+
+#: PropertiesDlg.cpp:196
+msgid "start pending]"
+msgstr "pendent d'iniciar]"
+
+#: PropertiesDlg.cpp:199
+msgid "stop pending]"
+msgstr "pendent de parada]"
+
+#: PropertiesDlg.cpp:202
+msgid "pause pending]"
+msgstr "pendent de pausa]"
+
+#: PropertiesDlg.cpp:340
+msgid "Make resizable"
+msgstr "Permetre canviar el tamany"
+
+#: PropertiesDlg.cpp:341
+msgid "Quit caption"
+msgstr "Llevar títul"
+
+#: PropertiesDlg.cpp:342
+msgid "Add caption"
+msgstr "Afegir títul"
+
+#: PropertiesDlg.cpp:344
+msgid "Minimize"
+msgstr "Minimisar"
+
+#: PropertiesDlg.cpp:345
+msgid "Restore"
+msgstr "Restaurar"
+
+#: PropertiesDlg.cpp:346
+msgid "Maximize"
+msgstr "Maximisar"
+
+#: PropertiesDlg.cpp:349
+msgid "Send message"
+msgstr "Enviar mensage"
+
+#: PropertiesDlg.cpp:558
+msgid ""
+"Daphne was unable to get environment information.\n"
+"This feature is known to fail\n"
+"on new Windows versions."
+msgstr ""
+"Daphne no va poder obtindre informació de l'entorn.\n"
+"Se sap que esta característica\n"
+"falla en noves versions de Windows."
+
+#: PropertiesDlg.cpp:599
+msgid "Suspend"
+msgstr "Suspendre"
+
+#: PropertiesDlg.cpp:600
+msgid "Resume"
+msgstr "Continuar"
+
+#: PropertiesDlg.cpp:601
+msgid "Terminate"
+msgstr "Finalisar"
+
+#: PropertiesDlg.cpp:604
+#: Thread.cpp:169
+msgid "Time critical"
+msgstr "Temps crític"
+
+#: PropertiesDlg.cpp:605
+#: Thread.cpp:161
+msgid "Highest"
+msgstr "Més alta"
+
+#: PropertiesDlg.cpp:606
+#: Thread.cpp:157
+msgid "Above normal"
+msgstr "Més que normal"
+
+#: PropertiesDlg.cpp:608
+#: Thread.cpp:159
+msgid "Below normal"
+msgstr "Menys que normal"
+
+#: PropertiesDlg.cpp:609
+#: Thread.cpp:165
+msgid "Lowest"
+msgstr "Més baixa"
+
+#: PropertiesDlg.cpp:610
+#: Thread.cpp:163
+msgid "IDLE"
+msgstr "OCIOS"
+
+#: RunProcDlg.cpp:192
+msgid " Run process"
+msgstr " Eixecutar proces"
+
+#: RunProcDlg.cpp:193
+msgid "Start process suspended"
+msgstr "Iniciar proces suspés"
+
+#: RunProcDlg.cpp:194
+msgid "Run"
+msgstr "Eixecutar"
+
+#: RunProcDlg.cpp:196
+msgid "Program:"
+msgstr "Programa:"
+
+#: RunProcDlg.cpp:197
+msgid "Arguments:"
+msgstr "Arguments:"
+
+#: RunProcDlg.cpp:198
+msgid "Directory:"
+msgstr "Directori:"
+
+#: SendMsgDlg.cpp:77
+msgid " Send message..."
+msgstr " Enviar mensage..."
+
+#: SendMsgDlg.cpp:80
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: SendMsgDlg.cpp:81
+msgid "lParam:"
+msgstr "lParam:"
+
+#: SendMsgDlg.cpp:82
+msgid "wParam:"
+msgstr "wParam:"
+
+#: Software.cpp:51
+msgid "[Binary data]"
+msgstr "[Senyes binaries]"
+
+#: SoftwarePropertiesDlg.cpp:56
+msgid "Version:"
+msgstr "Versió:"
+
+#: SoftwarePropertiesDlg.cpp:57
+msgid "Website:"
+msgstr "Lloc web:"
+
+#: SoftwarePropertiesDlg.cpp:58
+msgid "Publisher:"
+msgstr "Autor:"
+
+#: SoftwarePropertiesDlg.cpp:59
+msgid "Raw information view"
+msgstr "Vista d'informació en brut"
+
+#: SplashMDInit.cpp:42
+msgid " Daphne multidesktop"
+msgstr " Daphne multiescritori"
+
+#: SplashMDInit.cpp:43
+msgid "Initializing..."
+msgstr "Inicialisant..."
+
+#: Thread.cpp:63
+#, c-format
+msgid "%08Xh - References %u - Priority %u/%u"
+msgstr "%08Xh - Referències %u - Prioritat %u/%u"
+
+#: Trap.cpp:86
+msgid "Notify process created"
+msgstr "Notificar proces creat"
+
+#: Trap.cpp:107
+msgid "Set priority to real-time"
+msgstr "Prioritat en temps-real"
+
+#: Trap.cpp:110
+msgid "Set priority to high"
+msgstr "Prioritat alta"
+
+#: Trap.cpp:113
+msgid "Set priority to normal"
+msgstr "Prioritat normal"
+
+#: Trap.cpp:116
+msgid "Set priority to low"
+msgstr "Prioritat baixa"
+
+#: W32Values.cpp:87
+msgid " Win32 values"
+msgstr "Valors Win32"
+
+#: W32Values.cpp:90
+msgid "Filter:"
+msgstr "Filtre:"
+
+#: WndsPopUp.cpp:72
+msgid " Hidden applications"
+msgstr " Aplicacions ocultes"
+

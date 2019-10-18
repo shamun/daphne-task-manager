@@ -1,0 +1,1660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daphne 1.47\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-29 17:00-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Asabukuro <fistechen@gmail.com>\n"
+"Language-Team: Asabukuro <fistechen@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:78
+msgid "Invalid username or password"
+msgstr "無効なユーザー名/パスワード"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:78
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:266
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:299
+msgid "ERROR"
+msgstr "エラー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:86
+msgid " Authenticate user"
+msgstr " ログオン可能なユーザー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:52
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:41
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:81
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:51
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:61
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:66
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:78
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:88
+msgid "OK"
+msgstr "OK"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:53
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:42
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:82
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:52
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:62
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:198
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:67
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:79
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:89
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:89
+msgid "Username:"
+msgstr "ユーザー名:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:90
+msgid "Password:"
+msgstr "パスワード:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:51
+msgid " Close all windows by title"
+msgstr " タイトルを指定してその全ウィンドウを閉じる"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:65
+msgid "Window title contains:"
+msgstr "タイトルに含まれる文字:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:84
+msgid "case-sensitive"
+msgstr "大文字と小文字を区別"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:59
+msgid " CPU Usage"
+msgstr "CPU 使用率"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:60
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2636
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:50
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:45
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:105
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:352
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:55
+msgid "Close"
+msgstr "閉じる"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:62
+msgid "System information"
+msgstr "システム 情報"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:63
+msgid "Used physical memory [MB]"
+msgstr "使用物理メモリー [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:64
+msgid "Total physical memory [MB]"
+msgstr "総物理メモリー [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:65
+msgid "System cache [MB]"
+msgstr "システム キャッシュ [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:66
+msgid "Kernel memory [MB]"
+msgstr "カーネル メモリー [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:67
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:391
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:109
+msgid "Threads"
+msgstr "スレッド"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:68
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:383
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:764
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:188
+msgid "Process"
+msgstr "プロセス"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:69
+msgid "Handles"
+msgstr "ハンドル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:135
+#, c-format
+msgid "Showing last %d:%02d minutes"
+msgstr "直近の %d 分 %02d 秒を表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:79
+msgid " Daphne - Crash"
+msgstr " Daphne - クラッシュ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:80
+msgid "SEND"
+msgstr "送信"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:81
+msgid "Quit"
+msgstr "終了"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:82
+msgid "An unhandled exception has crashed Daphne. Please, press SEND to report this problem by mail."
+msgstr "ハンドルされていない例外の発生により Daphne がクラッシュしました。「送信」をクリックしてこの問題に関するレポートをメールしてください。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:83
+msgid "Error information"
+msgstr "エラー情報"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:84
+msgid "* You will see the mail before sending."
+msgstr "* 送信前にメールを確認できます。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1052
+msgid "Unable to initialize Sockets API."
+msgstr "ソケット API が初期化できません。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1123
+msgid "Another instance of Daphne is already running."
+msgstr "Daphne の別インスタンスが既に実行されています。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1123
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1169
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1178
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2757
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3183
+msgid "Daphne"
+msgstr "Daphne"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:299
+msgid "Unable to register global shortcut. Multidesktop may not work."
+msgstr "グローバル ショートカットが登録できません。マルチ デスクトップは動作しないかも知れません。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:299
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3162
+#: E:\Users\leandro\DATA\VC\Daphne\Utility.cpp:161
+msgid "Error"
+msgstr "エラー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:304
+msgid "Full path and arguments"
+msgstr "フル パスと引数"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:305
+msgid "Always on top"
+msgstr "つねに最前面に表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:306
+msgid "Daphne >"
+msgstr "Daphne >"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:307
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1990
+msgid "Settings..."
+msgstr "設定..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:309
+msgid "Find"
+msgstr "検索"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:310
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:899
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:92
+msgid "Kill"
+msgstr "キル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:311
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:341
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:95
+msgid "Hide application"
+msgstr "アプリケーションを隠蔽する"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:312
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:98
+msgid "Set on top"
+msgstr "最前面に表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:313
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:101
+msgid "Unset on top"
+msgstr "最前面表示の解除"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:314
+msgid "Set alpha 100%"
+msgstr "アルファ値 100% に設定 "
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:315
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:104
+msgid "Set alpha 75%"
+msgstr "アルファ値 75% に設定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:316
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:107
+msgid "Set alpha 50%"
+msgstr "アルファ値 50% に設定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:317
+msgid "Unset alpha"
+msgstr "アルファ値を解除"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:318
+msgid "Enable"
+msgstr "有効化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:319
+msgid "Disable"
+msgstr "無効化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:358
+msgid "&About Daphne..."
+msgstr "Daphne について(&A)..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:382
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:965
+msgid "PID"
+msgstr "PID"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:384
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:966
+msgid "Path"
+msgstr "パス"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:385
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:141
+msgid "Priority"
+msgstr "優先度"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:386
+msgid "Class"
+msgstr "クラス"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:387
+msgid "Memory"
+msgstr "メモリー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:388
+msgid "PeakMemoryUsage"
+msgstr "メモリー最大使用率"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:389
+msgid "Swap"
+msgstr "スワップ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:390
+msgid "PeakSwapUsage"
+msgstr "最大スワップ使用率"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:392
+#, c-format
+msgid "%CPU"
+msgstr "%CPU"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:393
+msgid "Owner"
+msgstr "ユーザー名"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:394
+msgid "I/O reads"
+msgstr "I/O 読み込み"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:395
+msgid "I/O writes"
+msgstr "I/O 書き込み"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:520
+#, c-format
+msgid "* %s ============= Daphne starting... =============\n"
+msgstr "* %s ============= Daphne 起動中... =============\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:589
+msgid "Daphne needs 'Debug programs' privilges in order to show full process list. Do you want to check DRK web site for a check list of the procedure? (If you click Cancel you won't see this warning again)"
+msgstr "Daphne は完全なプロセス一覧を表示するために「プログラムのデバッグ特権」を必要とします。DRK ウェブ サイトで方法、手順などを確認しますか？（キャンセルをクリックすれば、以降は表示されません）"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:589
+msgid "Your account lacks debug privileges"
+msgstr "アカウントにデバッグ特権がありません"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:624
+#, c-format
+msgid "* %s ============= Daphne ready =============\n"
+msgstr "* %s ============= Daphne 待機中 =============\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:762
+msgid "Service"
+msgstr "サービス"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:792
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:912
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:170
+msgid "High"
+msgstr "高"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:795
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:913
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:173
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:637
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:167
+msgid "Normal"
+msgstr "通常"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:798
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:914
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:176
+msgid "Low"
+msgstr "低"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:801
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:911
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:179
+msgid "Real time"
+msgstr "リアル タイム"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:804
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:172
+msgid "N/A"
+msgstr "N/A"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:900
+msgid "Kill politely"
+msgstr "穏当にキル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:901
+msgid "Kill at..."
+msgstr "時間を指定してキル..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:902
+msgid "Kill politely at..."
+msgstr "時間を指定して穏当にキル..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:905
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:338
+msgid "Set focus"
+msgstr "フォーカスをセット"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:906
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:343
+msgid "Set always on top"
+msgstr "常に最前面に表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:907
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:344
+msgid "Unset always on top"
+msgstr "常に最前面表示を解除"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:908
+msgid "Create trap"
+msgstr "トラップの作成"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:930
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:665
+msgid "Set priority"
+msgstr "優先度のセット"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:935
+msgid "Start service"
+msgstr "サービス 開始"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:936
+msgid "Continue service"
+msgstr "サービス 再開"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:937
+msgid "Pause service"
+msgstr "サービス 一時停止"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:938
+msgid "Stop service"
+msgstr "サービス 終了"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:963
+msgid "Copy name"
+msgstr "名称をコピー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:967
+msgid "Path and arguments"
+msgstr "パスと引数"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:968
+msgid "Copy..."
+msgstr "コピー..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:970
+msgid "Look up into DRK DB..."
+msgstr "DRK データベースで確認..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:971
+msgid "Submit to DRK DB..."
+msgstr "DRK データベースへ送信..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:973
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:213
+msgid "Properties"
+msgstr "プロパティ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1068
+msgid "Daphne was unable to get enough privileges for a system shutdown."
+msgstr "Daphne がシステムのシャットダウンに必要な権限を獲得できませんでした。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1068
+msgid "Can't schedule shutdown"
+msgstr "シャットダウンのスケジュール化不能"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1168
+#, c-format
+msgid "%u processes were politely killed."
+msgstr "%u プロセスを穏当にキルしました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1168
+#, c-format
+msgid "%u processes were killed."
+msgstr "%u プロセスをキルしました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1177
+#, c-format
+msgid "%u windows were closed."
+msgstr "%u ウィンドウを閉じました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1492
+#, c-format
+msgid "Process %s [%u] destroyed."
+msgstr "プロセス %s [%u] が強制終了されました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1536
+#, c-format
+msgid "New process %s created."
+msgstr "プロセス %s が開始されました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1630
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:339
+msgid "Hide"
+msgstr "ウィンドウを隠す"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1632
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:340
+msgid "Show"
+msgstr "ウィンドウを表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1634
+msgid "About Daphne"
+msgstr "Daphne について"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1635
+msgid "Search the web..."
+msgstr "ウェブ上で検索..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1637
+msgid "Exit"
+msgstr "終了"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1722
+#, c-format
+msgid "Uptime: %u days, %2u hours, %2u minutes, %2u seconds"
+msgstr "稼動時間: %u 日, %2u 時間, %2u 分, %2u 秒"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1723
+#, c-format
+msgid "CPU usage %3u%%"
+msgstr "CPU 使用率 %3u%%"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1726
+#, c-format
+msgid "Memory usage %3u%%"
+msgstr "メモリー使用率 %3u%%"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1727
+#, c-format
+msgid "Free memory %u MB"
+msgstr "空きメモリー %u MB"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1751
+#, c-format
+msgid "%s - %u%% CPU - %u hidden application"
+msgstr "%s - %u%% CPU - %u 隠蔽アプリケーション"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1753
+#, c-format
+msgid "%s - %u%% CPU - %u hidden applications"
+msgstr "%s - %u%% CPU - %u 隠蔽アプリケーション"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1993
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:129
+msgid "Main"
+msgstr "メイン"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1998
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:138
+msgid "Look and feel"
+msgstr "外観と表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2003
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:82
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:88
+msgid "Kill menu"
+msgstr "キル メニュー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2008
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:58
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:62
+msgid "Traps"
+msgstr "トラップ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2013
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:62
+msgid "Highlights"
+msgstr "ハイライト"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2017
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:49
+msgid "Integration"
+msgstr "統合"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2021
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:48
+msgid "Logging"
+msgstr "ログ採得"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2025
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:73
+msgid "Advanced"
+msgstr "拡張"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2102
+msgid "Kill all by name"
+msgstr "名称を指定してすべてキル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2103
+msgid "Kill all by name (Polite)"
+msgstr "名称を指定してすべてキル（穏当）"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2104
+msgid "Run process..."
+msgstr "プロセスの実行..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2105
+msgid "Run process as ..."
+msgstr "別のユーザーとしてプロセスを実行..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2106
+msgid "Close windows by name"
+msgstr "タイトルを指定してウィンドウを閉じる"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2107
+msgid "Schedule system shutdown"
+msgstr "システム の終了をスケジュール"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2109
+msgid "Show CPU usage ..."
+msgstr "CPU 使用率の表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2110
+msgid "Show process tree..."
+msgstr "プロセス ツリーの表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2111
+msgid "Show installed software..."
+msgstr "インストール済みソフトウェアの表示..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2113
+msgid "Control inspector..."
+msgstr "コントロールの確認..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2114
+msgid "Hidden applications..."
+msgstr "隠蔽中のアプリケーション..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2115
+msgid "Scheduled tasks..."
+msgstr "スケジュールされたタスク"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2133
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:342
+msgid "Show application"
+msgstr "アプリケーションを表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2206
+msgid "Connecting primary desktop..."
+msgstr "元のデスクトップへ接続..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2215
+#, c-format
+msgid "Looking up desktop %u..."
+msgstr "デスクトップ %u を探す..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2221
+#, c-format
+msgid "Creating desktop %u..."
+msgstr "デスクトップ %u の作成..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2464
+msgid "Amount of physical memory left before swapping occurs."
+msgstr "スワップが発生するまでの物理メモリーの残り容量。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2467
+msgid "Memory used so far in percent."
+msgstr "現在のメモリー使用率。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2470
+msgid "CPU time requested in percent."
+msgstr "リクエストされた CPU 時間の割合。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2473
+msgid "Time the system has been up and running."
+msgstr "システム起動から現在までの経過時間。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2476
+msgid "Drag this target over a window to execute the action selected in the combo box."
+msgstr "アイコンを任意のウィンドウにドラッグしてコンボ ボックスで選択した操作を実行します。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2479
+msgid "Selects the action for the drag and drop target tool."
+msgstr "Ｄ＆Ｄツールの動作を選択します。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2482
+msgid "Displays full path and command line arguments if possible."
+msgstr "フル パスとコマンド ラインの引数を可能な限り表示。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2485
+msgid "Keeps Daphne main window always on top."
+msgstr "Daphne のメイン ウィンドウを常に最前面表示。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2488
+msgid "Opens Daphne main menu."
+msgstr "Daphne のメイン メニューを表示。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2491
+msgid "Running process list."
+msgstr "実行中されているプロセスのリスト。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2494
+msgid "Open configuration screen."
+msgstr "設定ダイアログを表示。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2635
+msgid " About Daphne"
+msgstr " Daphne について"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2637
+msgid "License"
+msgstr "ライセンス"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2638
+msgid "Contributed"
+msgstr "貢献"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2639
+msgid "Thanks to Adrián, Santi, Nico, Juan and Gonza."
+msgstr "Thanks to Adrin, Santi, Nico, Juan and Gonza."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2640
+msgid "Giacomo Margarito - Italian translation"
+msgstr "Giacomo Margarito - イタリア語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2641
+msgid "He Zhenwei - Chinese translation"
+msgstr "He Zhenwei - 中国語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2642
+msgid "Marc Cueni - French translation"
+msgstr "Marc Cueni - フランス語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2643
+msgid "Bunny Forth - Chinese translation contributor"
+msgstr "Bunny Forth - 中国語翻訳に寄与"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2644
+msgid "Arno Krumpholz - German translation"
+msgstr "Arno Krumpholz - ドイツ語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2645
+msgid "Vicent Adam - Valencian translation"
+msgstr "Vicent Adam - バレンシア語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2646
+msgid "Michal Trzebiatowski - Polish translation"
+msgstr "Michal Trzebiatowski - ポーランド語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2647
+msgid "Jangir Ganeev - Russian translation"
+msgstr "Jangir Ganeev - ロシア語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2648
+msgid "Renato da Silva - Portuguese translation"
+msgstr "Renato da Silva - ポルトガル語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2649
+msgid "Asabukuro Dongorosu - Japanese translation"
+msgstr "Asabukuro Dongorosu  - 日本語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2650
+msgid "Abdurrahman Aborazmeh - Arabic translation"
+msgstr "Abdurrahman Aborazmeh - アラビア語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2651
+msgid "Jim Lineos - Greek translation"
+msgstr "Jim Lineos - ギリシャ語翻訳"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2652
+msgid "Technical support at forum.drk.com.ar"
+msgstr "テクニカル サポート: forum.drk.com.ar"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2653
+msgid "Contribute"
+msgstr "寄付"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2705
+msgid "Window hidden"
+msgstr "ウィンドウを隠しました"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2851
+#, c-format
+msgid ""
+"%s was released and is ready to be downloaded.\n"
+"\n"
+"What's new:\n"
+"%s\n"
+"Would you like to visit download web page?"
+msgstr ""
+"%s がリリースされ、ダウンロードできます。\n"
+"\n"
+"新機能:\n"
+"%s\n"
+"Would you like to visit download web page?Daphne の新バージョンがダウンロードできます。ウェブサイトのダウンロードページを開きますか？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2855
+msgid "Daphne web updates"
+msgstr "Daphne ウェブ アップデート"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3162
+msgid ""
+"Daphne isn't able to switch Desktop\n"
+"It can be a configuration problem.\n"
+"Please reconfigure or restart Daphne and it will appear on next startup."
+msgstr ""
+"Daphne がデスクトップの切り替えを実行できません。\n"
+"設定に問題があるのかも知れません。\n"
+"再度、設定を行うか Daphne を再起動してください。次回の起動時には修復されるでしょう。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3183
+msgid "Are you sure you want to kill this process?"
+msgstr "このプロセスをキルしようとしています。実行しますか？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3223
+msgid "System is going down!"
+msgstr "システムを終了します！"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3249
+#, c-format
+msgid "%s system shutdown."
+msgstr "%s システムをシャットダウン。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3252
+#, c-format
+msgid "%s system restart."
+msgstr "%s システムを再起動。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3255
+#, c-format
+msgid "%s system log off."
+msgstr "%s システムをログオフ。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3268
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3280
+#, c-format
+msgid "Unable to kill scheduled process %s, PID %u."
+msgstr "スケジュールされたプロセスをキルできません。プロセス %s, PID %u."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3273
+#, c-format
+msgid "Politely killed scheduled process %s, PID %u."
+msgstr "スケジュールされたプロセスを穏当にキルしました。プロセス %s, PID %u ."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3285
+#, c-format
+msgid "Killed scheduled process %s, PID %u."
+msgstr "スケジュールされたプロセスをキルしました。プロセス %s, PID %u."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3292
+#, c-format
+msgid "Can't find scheduled process %s, PID %u."
+msgstr "スケジュールされたプロセスが見つかりません。プロセス %s, PID %u."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3298
+#, c-format
+msgid "%s kill %s [%u]"
+msgstr "%s キル %s [%u]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DskPreviewDlg.cpp:40
+msgid " Preview"
+msgstr " プレビュー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:40
+msgid "Protect our planet"
+msgstr "我々の星を守ろう"
+
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:43
+msgid ""
+"The system has been up for a long time. If you don't need to keep the computer\n"
+" running overnight really, please consider turning it off.\n"
+"Help fighting the climate change!\n"
+"\n"
+"Click OK for more information about energy saving.\n"
+"\n"
+"(You won't see this windows again)"
+msgstr ""
+"このシステムは長時間、起動されています。コンピュータを一日中、実行しておく\n"
+"必要がなければ、どうか電源を切ってください。\n"
+"気候変動対策に協力を！\n"
+"\n"
+"OK をクリックすれば省エネルギーに関する情報が得られます。\n"
+"\n"
+"（以降、このウィンドウを表示されません）"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:188
+msgid " Inspector"
+msgstr " プロパティの確認"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:189
+msgid "Drag the magnifying glass over windows and controls to inspect its properties."
+msgstr "レンズをウィンドウや各コントロールにドラッグしてそのプロパティをチェックします。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:190
+msgid "Title:"
+msgstr "タイトル:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:191
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:115
+msgid "Class:"
+msgstr "クラス:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:192
+msgid "Text:"
+msgstr "テキスト:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:193
+msgid "Location:"
+msgstr "ロケーション:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:194
+msgid "Size:"
+msgstr "サイズ:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:80
+msgid " Kill all by name"
+msgstr " 名称を指定して全てキル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:83
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:63
+msgid "Process name:"
+msgstr "プロセス名:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:94
+msgid " (Polite)"
+msgstr " （穏当）"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:50
+msgid " Kill at..."
+msgstr " 時間を指定してキル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:53
+msgid "Process to kill:"
+msgstr "キルするプロセス:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:54
+msgid "Select date and time to kill the process at:"
+msgstr "プロセスをキルする日時を指定してください："
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:55
+msgid "Be polite"
+msgstr "穏当にキル"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:85
+msgid " Kill menu item"
+msgstr " キル メニュー アイテム"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:88
+msgid "Menu name:"
+msgstr "メニュー上の表示名:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:89
+msgid "Process list (case sensitive)"
+msgstr "プロセス リスト（文字の大小を区別）"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:49
+msgid " Installed software list"
+msgstr " インストール済みソフトウェア リスト"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:58
+msgid "Software"
+msgstr "ソフトウェア"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:59
+msgid "Version"
+msgstr "バージョン"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:60
+msgid "Publisher"
+msgstr "会社名"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:61
+msgid "Publisher WEB"
+msgstr "会社のウェブサイト"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:211
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:266
+msgid "Uninstall information is not available"
+msgstr "アンインストール情報はありません"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:271
+#, c-format
+msgid "Are you sure you want to remove %s from this computer?"
+msgstr "%s をコンピュータから削除します。実行しますか？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:272
+msgid "Warning: this can not be undone"
+msgstr "警告：実行すると元に戻せません"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:299
+msgid "Unable to run uninstaller"
+msgstr "アンインストーラが実行できません"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:49
+msgid " Web updates"
+msgstr " ウェブ アップデート"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:50
+msgid "Daphne is about to check the web for updates. This is done without sending any personally identifiable information to the web site."
+msgstr "Daphne はアップデートのウェブ チェックを行おうとしています。チェックは個人が特定できるような情報をいささかもウェブサイトに送信することなく行われます。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:51
+msgid "Do you want to check for updates at internet?"
+msgstr "インターネットを使用してアップデート チェックを行いますか？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:52
+msgid "Yes"
+msgstr "はい"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:53
+msgid "No"
+msgstr "いいえ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:60
+msgid " Trap..."
+msgstr " トラップ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:64
+msgid "Action:"
+msgstr "操作:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:74
+msgid "Install system wide Daphne activation shortcut"
+msgstr "Daphne のメイン ウィンドウ表示用グローバル ホットキーをインストール"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:75
+msgid "Shift"
+msgstr "Shift"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:76
+msgid "Alt"
+msgstr "Alt"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:77
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:78
+msgid "Advanced options"
+msgstr "拡張オプション"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:79
+msgid "Show all hidden applications on exit"
+msgstr "Daphne 終了時に隠蔽中の全アプリケーションを表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:80
+msgid "Try to hide Java VM from command line"
+msgstr "コマンド ラインから Java VM の非表示化を試行する"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:81
+msgid "Don't check Debug programs privilege on startup"
+msgstr "起動時にプログラムのデバッグ特権を確認しない"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:82
+msgid "Store configuration"
+msgstr "設定の保存方法"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:83
+msgid "Using Daphne.INI file"
+msgstr "Daphne の INI ファイルを使用する"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:84
+msgid "Using Windows registry"
+msgstr "Windows のレジストリを使用する"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:63
+msgid "Add process names to highlight in the main list:"
+msgstr "メイン リスト上でハイライト表示するプロセス:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:64
+msgid "Highlight system process with blue"
+msgstr "システム プロセスを青色で表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:65
+#, c-format
+msgid "Hightlight process over 95% CPU in red"
+msgstr "CPU 使用率が 95% を超えたプロセスを赤色で表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:66
+#, c-format
+msgid "Highlight orange, process with more than 20% of memory used"
+msgstr "メモリー使用率が 20% を超えたプロセスをオレンジで表示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:83
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:59
+msgid "Add"
+msgstr "追加"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:60
+msgid "Edit"
+msgstr "編集"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:85
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:61
+msgid "Remove"
+msgstr "削除"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:141
+msgid "Up"
+msgstr "上へ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:142
+msgid "Down"
+msgstr "下へ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:221
+#, c-format
+msgid "Removing %s"
+msgstr "%s の削除中"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:222
+msgid ""
+"You are about to remove a kill menu item. This action can't be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+"キル メニューのアイテムを削除しようとしています。この操作を実行すると元に戻せません。 \n"
+"\n"
+"実行しますか？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:49
+msgid "Log started and ended process"
+msgstr "プロセスの開始と終了をログに記録"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:73
+msgid "Log process activity to..."
+msgstr "プロセス活動のログ保存先..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:139
+msgid "Main window and tray icon"
+msgstr "メイン ウィンドウ と トレイ アイコン"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:140
+msgid "Process list colum order"
+msgstr "プロセス リストのカラム表示順序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:143
+msgid "Window transparence"
+msgstr "ウィンドウの透過"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:144
+msgid "Animate tray icon with CPU usage."
+msgstr "トレイ アイコンに CPU 使用率をアニメ表示。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:50
+msgid "Multidesktop options"
+msgstr "マルチ デスクトップ オプション"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:51
+msgid "Enable Multidesktop feature (at Daphne's startup)"
+msgstr "Daphne 起動時にマルチ デスクトップを有効化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:52
+msgid "Extra desktops"
+msgstr "エクストラ デスクトップの数"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:53
+msgid "Integration options"
+msgstr "統合オプション"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:54
+msgid "Enable Windows Explorer integration"
+msgstr "Windows エクスプローラ に Daphne の拡張メニューを追加"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:124
+msgid ""
+"This feature is experimental. It won't damage your computer but,\n"
+"if you notice strange behavior after enabling it. Turn it off\n"
+"and report the situation."
+msgstr ""
+"これは試験的な機能ですが、コンピュータに悪影響を与えることはありません。　\n"
+"しかし、使用中に不審な挙動が発生した場合は無効化してください。\n"
+"そして発生した状況をレポートしてください。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:124
+msgid "Daphne multidesktop feature"
+msgstr "Daphne マルチ デスクトップ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:130
+msgid "Daphne startup"
+msgstr "Daphne 起動時の設定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:131
+msgid "Behavior"
+msgstr "その他の動作"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:132
+msgid "Proxy server:"
+msgstr "プロキシ サーバー:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:133
+msgid "Use HTTP proxy"
+msgstr "HTTP プロキシを使用"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:134
+msgid "Start Daphne automatically when starting Windows"
+msgstr "Daphne を Windows のスタートアップに登録"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:135
+msgid "Always hide Daphne on startup"
+msgstr "Daphne を常に最小化した状態で起動"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:136
+msgid "Check internet for Daphne updates on startup"
+msgstr "Daphne 起動時に アップデートを自動チェック（ネット接続）"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:137
+msgid "Alternate list item background color"
+msgstr "リストの行ごとの背景を縞目に"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:138
+msgid "Hide zombie processes"
+msgstr "ゾンビ プロセスを隠す"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:139
+msgid "Fast refresh"
+msgstr "高速再読み込み"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:65
+msgid "Process name"
+msgstr "プロセス名"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:66
+msgid "Action"
+msgstr "操作"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:67
+msgid "Window title contains"
+msgstr "タイトルに含まれる文字"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:132
+#, c-format
+msgid "Are you sure you want to remove the selected trap on %s?"
+msgstr "%s のトラップを削除します。実行しますか？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:133
+#, c-format
+msgid "Removing \"%s\""
+msgstr "削除中 \"%s\""
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:44
+msgid " Process tree"
+msgstr " プロセス　ツリー"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:46
+msgid "This tree is a snapshot and won't be updated until the dialog is closed and opened again."
+msgstr "このツリーはスナップショットです。ダイアログを閉じて、開き直すまで更新は行われません。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:121
+msgid "Quick search by process name enabled."
+msgstr "プロセス名のクィック サーチが有効化されました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:123
+msgid "Quick search by process name disabled."
+msgstr "プロセス名のクィック サーチが無効化されました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:151
+#, c-format
+msgid "Highlighting %s..."
+msgstr "ハイライト表示 %s..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:104
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:54
+msgid " Properties"
+msgstr " プロパティ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:106
+msgid "...DRK search"
+msgstr "...DRK で検索"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:107
+msgid "Environment"
+msgstr "環境"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:108
+msgid "Modules"
+msgstr "モジュール"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:110
+msgid "More information"
+msgstr "他の情報"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:111
+msgid "Windows"
+msgstr "ウィンドウ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:112
+msgid "Process:"
+msgstr "プロセス:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:113
+msgid "CmdLine:"
+msgstr "コマンドライン:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:114
+msgid "Priority:"
+msgstr "優先度:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:116
+msgid "Created:"
+msgstr "作成:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:117
+msgid "Kernel time:"
+msgstr "カーネル時間:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:118
+msgid "User time:"
+msgstr "ユーザー時間:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:119
+msgid "Parent:"
+msgstr "依存:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:120
+msgid "Owner:"
+msgstr "ユーザー名:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:139
+msgid "ThreadID"
+msgstr "スレッド ID"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:140
+msgid "References"
+msgstr "リファレンス"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:142
+msgid "CPU Time"
+msgstr "CPU 時間"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:182
+msgid "Not available"
+msgstr "使用不能"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:186
+msgid "Service ["
+msgstr "サービス ["
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:192
+msgid "paused]"
+msgstr "一時停止]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:195
+msgid "running]"
+msgstr "実行中]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:198
+msgid "stoped]"
+msgstr "停止]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:201
+msgid "continue pending]"
+msgstr "再開操作中]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:204
+msgid "start pending]"
+msgstr "開始操作中]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:207
+msgid "stop pending]"
+msgstr "停止操作中]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:210
+msgid "pause pending]"
+msgstr "一時停止操作中]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:345
+msgid "Make resizable"
+msgstr "リサイズ可能に"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:346
+msgid "Quit caption"
+msgstr "タイトルを隠す"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:347
+msgid "Add caption"
+msgstr "タイトルを戻す"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:349
+msgid "Minimize"
+msgstr "最小化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:350
+msgid "Restore"
+msgstr "復元"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:351
+msgid "Maximize"
+msgstr "最大化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:354
+msgid "Send message"
+msgstr "メッセージ送信"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:556
+msgid ""
+"Daphne was unable to get environment information.\n"
+"This feature is known to fail\n"
+"on new Windows versions."
+msgstr ""
+"Daphne はシステム環境の情報を取得できませんでした。\n"
+"新しいバージョンの Windows では、この機能は\n"
+"動作できないことが知られています。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:562
+msgid ""
+"Daphne is unable to read environment information\n"
+"running as 32 bit application under 64 bits OS."
+msgstr ""
+"Daphne はシステム環境の情報を取得できませんでした。\n"
+"64 bits OS 環境でも 32 bit アプリケーションとして実行します。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:576
+msgid ""
+"Read operation count %I64u\n"
+"Write operation count %I64u\n"
+"Other operation count %I64u\n"
+"Read transfer %I64u KBytes\n"
+"Write operation %I64u KBytes\n"
+"Other operation %I64u KBytes\n"
+msgstr ""
+"読み込み操作数 %I64u\n"
+"書き込み操作数 %I64u\n"
+"その他操作数 %I64u\n"
+"Read transfer %I64u KBytes\n"
+"Write operation %I64u KBytes\n"
+"Other operation %I64u KBytes\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:629
+msgid "Suspend"
+msgstr "サスペンド"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:630
+msgid "Resume"
+msgstr "保留"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:631
+msgid "Terminate"
+msgstr "終了"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:634
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:169
+msgid "Time critical"
+msgstr "リアルタイム"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:635
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:161
+msgid "Highest"
+msgstr "最高"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:636
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:157
+msgid "Above normal"
+msgstr "通常以上"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:638
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:159
+msgid "Below normal"
+msgstr "通常以下"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:639
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:165
+msgid "Lowest"
+msgstr "最低"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:640
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:163
+msgid "IDLE"
+msgstr "IDLE"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:195
+msgid " Run process"
+msgstr " プロセスの実行"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:196
+msgid "Start process suspended"
+msgstr "サスペンド中のプロセスを開始"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:197
+msgid "Run"
+msgstr "実行"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:199
+msgid "Program:"
+msgstr "プログラム:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:200
+msgid "Arguments:"
+msgstr "引数:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:201
+msgid "Directory:"
+msgstr "ディレクトリ:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:41
+msgid " Scheduled tasks"
+msgstr " スケジュールされたタスク"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:93
+msgid "Remove task"
+msgstr "タスクの削除"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:120
+msgid "Task removed."
+msgstr "タスクを削除しました。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:65
+msgid " Shutdown at..."
+msgstr " 時間を指定してシャットダウン..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:68
+msgid "Schedule system shutdown at:"
+msgstr "時刻を指定してシステムを終了:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:70
+msgid "Shutdown"
+msgstr "シャットダウン"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:71
+msgid "Restart"
+msgstr "再起動"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:72
+msgid "Log off"
+msgstr "ログ オフ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:77
+msgid " Send message..."
+msgstr " メッセージの送信..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:80
+msgid "Message:"
+msgstr "メッセージ:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:81
+msgid "lParam:"
+msgstr "lParam:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:82
+msgid "wParam:"
+msgstr "wParam:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Software.cpp:51
+msgid "[Binary data]"
+msgstr "[バイナリ データ]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:56
+msgid "Version:"
+msgstr "バージョン:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:57
+msgid "Website:"
+msgstr "サイト:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:58
+msgid "Publisher:"
+msgstr "会社名:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:59
+msgid "Raw information view"
+msgstr "RAW データ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SplashMDInit.cpp:42
+msgid " Daphne multidesktop"
+msgstr " Daphne マルチ デスクトップ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SplashMDInit.cpp:43
+msgid "Initializing..."
+msgstr "初期化中..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:63
+#, c-format
+msgid "%08Xh - References %u - Priority %u/%u"
+msgstr "%08Xh - リファレンス %u - 優先度 %u/%u"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:89
+msgid "Notify process created"
+msgstr "プロセスの開始を通知"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:110
+msgid "Set priority to real-time"
+msgstr "優先度をリアルタイムに設定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:113
+msgid "Set priority to high"
+msgstr "優先度を高に設定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:116
+msgid "Set priority to normal"
+msgstr "優先度を通常に設定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:119
+msgid "Set priority to low"
+msgstr "優先度を低に設定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:122
+msgid "Notify process destroyed"
+msgstr "プロセスの強制終了を通知"
+
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:87
+msgid " Win32 values"
+msgstr " Win32 のデータ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:90
+msgid "Filter:"
+msgstr "フィルタ:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\WndsPopUp.cpp:72
+msgid " Hidden applications"
+msgstr " 隠蔽中のアプリケーション"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:19
+msgid ""
+"Usage: dc [command]\n"
+"\n"
+msgstr ""
+"使用方法: dc [command]\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:20
+msgid "pstree: show process list as hierarchy tree (default)\n"
+msgstr "pstree: プロセス　リストを階層化ツリーで表示（デフォルト）\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:21
+msgid "ps: show process list\n"
+msgstr "ps: プロセス　リストを表示\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:22
+msgid "kill <pid>: kill process by PID\n"
+msgstr "kill <pid>: PID を指定してプロセスをキル\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:23
+msgid "killall <name>: kill all process by name\n"
+msgstr "killall <name>: 名称を指定してその全プロセスをキル\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:24
+msgid "killmenu <item>: execute a previously configured Daphne's kill menu\n"
+msgstr "killmenu <item>: Daphne のキル メニューに登録されているプロセスをキル\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:25
+msgid "showchildren <pid>: list processes started by PID, including PID\n"
+msgstr "showchildren <pid>: 指定 PID で開始されたプロセス、指定 PID 配下のプロセスをリスト アップ\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:26
+msgid "killchildren <pid>: kill processes started by PID, including PID\n"
+msgstr "killchildren <pid>: 指定 PID で開始されたプロセス、指定 PID 配下のプロセスをキル \n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:27
+msgid "help: show command line help\n"
+msgstr "help: コマンド ラインのヘルプを表示\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:78
+msgid "Full path to clipboard"
+msgstr "フルパスをクリップボードへ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:79
+msgid "Name to clipboard"
+msgstr "名称をクリップボードへ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:81
+msgid "File listing to clipboard"
+msgstr "ファイル リストをクリップボードへ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:82
+msgid "Full path file listing to clipboard"
+msgstr "リストのファイルのフル パスをクリップボードへ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:86
+msgid "Open CMD here..."
+msgstr "ここから CMD を開く..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:94
+msgid "Google this folder..."
+msgstr "フォルダ名を Google でチェック..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:101
+msgid "Run with arguments..."
+msgstr "引数を指定して実行"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:103
+msgid "Google this file..."
+msgstr "ファイル名を Google でチェック..."
+

@@ -1,0 +1,1652 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-13 21:55-0300\n"
+"PO-Revision-Date: 2010-08-23 17:10+0200\n"
+"Last-Translator: Dimitris Mytilinaios <webdev@hotmail.gr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:78
+msgid "Invalid username or password"
+msgstr "Λάθος όνομα χρήστη ή κωδικός"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:78
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:266 C:\DATA\VC\Daphne\lssoftDlg.cpp:299
+msgid "ERROR"
+msgstr "ΛΑΘΟΣ"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:86
+msgid " Authenticate user"
+msgstr "Ταυτοποίηση χρήστη"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:87
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:52
+# C:\DATA\VC\Daphne\GreenDlg.cpp:41
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:81
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:51
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:86
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:61
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:66
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:78
+# C:\DATA\VC\Daphne\W32Values.cpp:88
+msgid "OK"
+msgstr "Εντάξη"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:88
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:53
+# C:\DATA\VC\Daphne\GreenDlg.cpp:42
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:82
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:52
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:87
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:62
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:198
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:67
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:79
+# C:\DATA\VC\Daphne\W32Values.cpp:89
+msgid "Cancel"
+msgstr "Άκυρο"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:89
+msgid "Username:"
+msgstr "Όνομα Χρήστη:"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:90
+msgid "Password:"
+msgstr "Κωδικός:"
+
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:51
+msgid " Close all windows by title"
+msgstr "Κλείστε όλα τα παράθυρα κατά τίτλο"
+
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:54
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:65
+msgid "Window title contains:"
+msgstr "Τίτλος παραθύρου περιλαμβάνει:"
+
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:55
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:84
+msgid "case-sensitive"
+msgstr "case-sensitive"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:59
+msgid " CPU Usage"
+msgstr "Χρήση CPU"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:60
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2639
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:50
+# C:\DATA\VC\Daphne\ProcessTreeDlg.cpp:45
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:105
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:352
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:55
+msgid "Close"
+msgstr "Κλείσιμο"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:62
+msgid "System information"
+msgstr "Πληροφορίες συστήματος"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:63
+msgid "Used physical memory [MB]"
+msgstr "Χρησιμοποιημένη φυσική μνήμη [ΜΒ]"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:64
+msgid "Total physical memory [MB]"
+msgstr "Συνολική φυσική μνήμη [ΜΒ]"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:65
+msgid "System cache [MB]"
+msgstr "Μνήμη cache συστήματος [ΜΒ]"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:66
+msgid "Kernel memory [MB]"
+msgstr "Μνήμη πυρήνα [ΜΒ]"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:67
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:391
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:109
+msgid "Threads"
+msgstr "Νήματα"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:68
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:383 C:\DATA\VC\Daphne\DaphneDlg.cpp:764
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:188
+msgid "Process"
+msgstr "Διεργασία"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:69
+msgid "Handles"
+msgstr "Λαβές"
+
+# C:\DATA\VC\Daphne\CPUUsageDlg.cpp:135
+#, c-format
+msgid "Showing last %d:%02d minutes"
+msgstr "Εμφανίζει τα τελευταία %d:%02d λεπτά"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:79
+msgid " Daphne - Crash"
+msgstr "Daphne - Κρασάρισμα"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:80
+msgid "SEND"
+msgstr "ΑΠΟΣΤΟΛΗ"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:81
+msgid "Quit"
+msgstr "Κλείσιμο"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:82
+msgid "An unhandled exception has crashed Daphne. Please, press SEND to report this problem by mail."
+msgstr "Μια μη αντιμετωπίσιμη εξαίρεση κράσαρε το Daphne. Παρακαλούμε, πατήστε ΑΠΟΣΤΟΛΗ για να αναφέρετε αυτό το πρόβλημα με mail."
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:83
+msgid "Error information"
+msgstr "Λάθος πληροφορία"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:84
+msgid "* You will see the mail before sending."
+msgstr "* Θα δείτε το mail πρίν την αποστολή"
+
+# C:\DATA\VC\Daphne\Daphne.cpp:1052
+msgid "Unable to initialize Sockets API."
+msgstr "Αδυναμία αχικοποίησης Sockets API."
+
+# C:\DATA\VC\Daphne\Daphne.cpp:1123
+msgid "Another instance of Daphne is already running."
+msgstr "Μια άλλη υπόσταση του Daphne τρέχει ήδη."
+
+# C:\DATA\VC\Daphne\Daphne.cpp:1123
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1169 C:\DATA\VC\Daphne\DaphneDlg.cpp:1178
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2755 C:\DATA\VC\Daphne\DaphneDlg.cpp:3181
+msgid "Daphne"
+msgstr "Daphne"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:299
+msgid "Unable to register global shortcut. Multidesktop may not work."
+msgstr "Αδυναμία εγγραφής του global shortcut. To Multidesktop ίσως δεν δουλέψει."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:299 C:\DATA\VC\Daphne\DaphneDlg.cpp:3160
+# C:\DATA\VC\Daphne\Utility.cpp:161
+msgid "Error"
+msgstr "Λάθος"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:304
+msgid "Full path and arguments"
+msgstr "Πλήρες μονομάτι και παράμετροι"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:305
+msgid "Always on top"
+msgstr "Πάντα στην κορυφή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:306
+msgid "Daphne >"
+msgstr "Daphne >"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:307 C:\DATA\VC\Daphne\DaphneDlg.cpp:1993
+msgid "Settings..."
+msgstr "Ρυθμίσεις"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:309
+msgid "Find"
+msgstr "Βρές"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:310 C:\DATA\VC\Daphne\DaphneDlg.cpp:899
+# C:\DATA\VC\Daphne\Trap.cpp:92
+msgid "Kill"
+msgstr "Σκότωσε"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:311
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:341
+# C:\DATA\VC\Daphne\Trap.cpp:95
+msgid "Hide application"
+msgstr "Κρύψε την εφαρμογή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:312
+# C:\DATA\VC\Daphne\Trap.cpp:98
+msgid "Set on top"
+msgstr "Τοποθέτηση στην κορυφή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:313
+# C:\DATA\VC\Daphne\Trap.cpp:101
+msgid "Unset on top"
+msgstr "Αποτοποθέτηση στη κορυφή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:314
+msgid "Set alpha 100%"
+msgstr "Θέσε alpha 75%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:315
+# C:\DATA\VC\Daphne\Trap.cpp:104
+msgid "Set alpha 75%"
+msgstr "Θέσε alpha 75%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:316
+# C:\DATA\VC\Daphne\Trap.cpp:107
+msgid "Set alpha 50%"
+msgstr "Θέσε alpha 50%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:317
+msgid "Unset alpha"
+msgstr "Βγάλε το alpha"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:318
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:319
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:358
+msgid "&About Daphne..."
+msgstr "&Σχετικά με το Daphne"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:382 C:\DATA\VC\Daphne\DaphneDlg.cpp:965
+msgid "PID"
+msgstr "PID"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:384 C:\DATA\VC\Daphne\DaphneDlg.cpp:966
+msgid "Path"
+msgstr "Μονοπάτι"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:385
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:141
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:386
+msgid "Class"
+msgstr "Κλάση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:387
+msgid "Memory"
+msgstr "Μνήμη"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:388
+msgid "PeakMemoryUsage"
+msgstr "ΑιχμήΧρήσηςΜνήμης"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:389
+msgid "Swap"
+msgstr "Ανταλλαγή (swap)"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:390
+msgid "PeakSwapUsage"
+msgstr "ΑιχμήΧρήσηςSwap"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:392
+#, c-format
+msgid "%CPU"
+msgstr "%CPU"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:393
+msgid "Owner"
+msgstr "Ιδιοκτήτης"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:394
+msgid "I/O reads"
+msgstr "Ι/Ο reads"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:395
+msgid "I/O writes"
+msgstr "I/O writes"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:520
+#, c-format
+msgid "* %s ============= Daphne starting... =============\n"
+msgstr "* %s ============= Daphne αρχίζει... =============\n"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:589
+msgid "Daphne needs 'Debug programs' privilges in order to show full process list. Do you want to check DRK web site for a check list of the procedure? (If you click Cancel you won't see this warning again)"
+msgstr "Το Daphne χρειάζεται 'Debug programs' δικαιώματα για να δείξει την πλήρη λίστα διεργασιών. Θέλετε να ελέγξετε στην ιστοσελίδα του DRK για μια check list αυτής της διαδικασίας; (Αν πατήσετε Άκυρο δεν θα δείτε ξανά αυτή τη προειδοποίηση)"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:589
+msgid "Your account lacks debug privileges"
+msgstr "Ο λογαρισμός σας δεν έχει debug προνόμια"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:624
+#, c-format
+msgid "* %s ============= Daphne ready =============\n"
+msgstr "* %s ============= Daphne έτοιμο =============\n"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:762
+msgid "Service"
+msgstr "Υπηρεσία"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:792 C:\DATA\VC\Daphne\DaphneDlg.cpp:912
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:170
+msgid "High"
+msgstr "Υψηλό"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:795 C:\DATA\VC\Daphne\DaphneDlg.cpp:913
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:173
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:628
+# C:\DATA\VC\Daphne\Thread.cpp:167
+msgid "Normal"
+msgstr "Κανονικό"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:798 C:\DATA\VC\Daphne\DaphneDlg.cpp:914
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:176
+msgid "Low"
+msgstr "Χαμηλό"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:801 C:\DATA\VC\Daphne\DaphneDlg.cpp:911
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:179
+msgid "Real time"
+msgstr "Πραγματική ώρα"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:804
+# C:\DATA\VC\Daphne\Thread.cpp:172
+msgid "N/A"
+msgstr "Ν/Α"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:900
+msgid "Kill politely"
+msgstr "Σκότωσε ευγενικά"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:901
+msgid "Kill at..."
+msgstr "Σκότωσε σε.."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:902
+msgid "Kill politely at..."
+msgstr "Σκότωσε ευγενικά σε.."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:905
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:338
+msgid "Set focus"
+msgstr "Καθορισμός εστίασης"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:906
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:343
+msgid "Set always on top"
+msgstr "Καθορισμός πάντα στη κορυφή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:907
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:344
+msgid "Unset always on top"
+msgstr "Αποκαθορισμός πάντα στη κορυφή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:908
+msgid "Create trap"
+msgstr "Δημιουργία παγίδας"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:930
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:656
+msgid "Set priority"
+msgstr "Δώσε προτεραιότητα"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:935
+msgid "Start service"
+msgstr "Έναρξη υπηρεσίας"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:936
+msgid "Continue service"
+msgstr "Συνέχεια υπηρεσίας"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:937
+msgid "Pause service"
+msgstr "Παύση υπηρεσίας"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:938
+msgid "Stop service"
+msgstr "Διακοπή υπηρεσίας"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:963
+msgid "Copy name"
+msgstr "Αντιγραφή ονόματος"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:967
+msgid "Path and arguments"
+msgstr "Μονοπάτι και παράμετροι"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:968
+msgid "Copy..."
+msgstr "Αντιγραφή..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:970
+msgid "Look up into DRK DB..."
+msgstr "Ψάξε μέσα στην DRK DB"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:971
+msgid "Submit to DRK DB..."
+msgstr "Προσθήκη στην DRK DB"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:973
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:213
+msgid "Properties"
+msgstr "Ιδιότητες"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1068
+msgid "Daphne was unable to get enough privileges for a system shutdown."
+msgstr "To Daphne δεν ήταν δυνατό να αποκτήσει αρκετά δικαιώματα ώστε να μπορέσει να καταφέρει κλείσιμο του συστήματος"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1068
+msgid "Can't schedule shutdown"
+msgstr "Αδυναμία προγραμματισμού κλεισίματος του συστήματος"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1168
+#, c-format
+msgid "%u processes were politely killed."
+msgstr "%u διέργασίες σκοτώθηκαν ευγενικά."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1168
+#, c-format
+msgid "%u processes were killed."
+msgstr "%u διεργασίες σκοτώθηκαν."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1177
+#, c-format
+msgid "%u windows were closed."
+msgstr "%u παράθυρα έκλεισαν."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1492
+#, c-format
+msgid "Process %s [%u] destroyed."
+msgstr "Διεργασίες %s [%u] καταστράφηκαν."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1536
+#, c-format
+msgid "New process %s created."
+msgstr "Νέες διεργασίες %s δημιουργήθηκαν."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1630
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:339
+msgid "Hide"
+msgstr "Κρύψε"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1632
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:340
+msgid "Show"
+msgstr "Εμφάνισε"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1634
+msgid "About Daphne"
+msgstr "Σχετικά με το Daphne"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1635
+msgid "Search the web..."
+msgstr "Ψάξτε στον ιστό.."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1637
+msgid "Exit"
+msgstr "Έξοδος"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1722
+#, c-format
+msgid "Uptime: %u days, %2u hours, %2u minutes, %2u seconds"
+msgstr "Uptime: %u ημέρες, %2u ώρες, %2u λεπτά, %2u δευτερόλεπτα"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1723
+#, c-format
+msgid "CPU usage %3u%%"
+msgstr "Χρήση CPU %3u%%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1727
+#, c-format
+msgid "Memory usage %3u%%"
+msgstr "Χρήση μνήμης %3u%%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1729
+#, c-format
+msgid "Free memory %u MB"
+msgstr "Ελεύθερη μνήμη %u MB"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1754
+#, c-format
+msgid "%s - %u%% CPU - %u hidden application"
+msgstr "%s - %u%% CPU - %u κρυμμένη εφαρμογή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1756
+#, c-format
+msgid "%s - %u%% CPU - %u hidden applications"
+msgstr "%s - %u%% CPU - %u κρυμμένες εφαρμογές"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1996
+# C:\DATA\VC\Daphne\PPStartup.cpp:129
+msgid "Main"
+msgstr "Κεντρικό"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2001
+# C:\DATA\VC\Daphne\PPLook.cpp:138
+msgid "Look and feel"
+msgstr "Δές και νιώσε"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2006
+# C:\DATA\VC\Daphne\PPKill.cpp:82 C:\DATA\VC\Daphne\PPKill.cpp:88
+msgid "Kill menu"
+msgstr "Σκότωμα μενού"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2011
+# C:\DATA\VC\Daphne\PPTraps.cpp:58 C:\DATA\VC\Daphne\PPTraps.cpp:62
+msgid "Traps"
+msgstr "Παγίδες"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2016
+# C:\DATA\VC\Daphne\PPHighlight.cpp:62
+msgid "Highlights"
+msgstr "Κυριώτερα σημεία"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2020
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:49
+msgid "Integration"
+msgstr "Ενσωμάτωση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2024
+# C:\DATA\VC\Daphne\PPLogging.cpp:48
+msgid "Logging"
+msgstr "Καταγραφή"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2028
+# C:\DATA\VC\Daphne\PPAdv.cpp:73
+msgid "Advanced"
+msgstr "Προχωρημένο"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2105
+msgid "Kill all by name"
+msgstr "Σκότωμα όλων κατά όνομα"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2106
+msgid "Kill all by name (Polite)"
+msgstr "Σκότωμα όλων κατά όνομα (Ευγενικά)"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2107
+msgid "Run process..."
+msgstr "Τρέξιμο διεργασίας..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2108
+msgid "Run process as ..."
+msgstr "Τρέξε τη διεργασία σαν..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2109
+msgid "Close windows by name"
+msgstr "Κλείσιμο παραθύρων κατά όνομα"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2110
+msgid "Schedule system shutdown"
+msgstr "Προγραμμάτισε κλείσιμο συστήματος"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2112
+msgid "Show CPU usage ..."
+msgstr "Εμφάνισε τη χρήστη της CPU ..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2113
+msgid "Show process tree..."
+msgstr "Εμφάνισε το δέντρο των διεργασιών..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2114
+msgid "Show installed software..."
+msgstr "Εμφάνισε το εγκατεστημένο λογισμικό..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2116
+msgid "Control inspector..."
+msgstr "Επιθεωρητής ελέγχου..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2117
+msgid "Hidden applications..."
+msgstr "Κρυμένες εφαρμογές..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2118
+msgid "Scheduled tasks..."
+msgstr "Προγραμματισμένες εργασίες..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2136
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:342
+msgid "Show application"
+msgstr "Εμφάνιση εφαρμογής"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2209
+msgid "Connecting primary desktop..."
+msgstr "Συνδέει την πρωταρχικό επιφάνεια εργασίας..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2218
+#, c-format
+msgid "Looking up desktop %u..."
+msgstr "Κοιτώντας την επιφάνια εργασίας %u..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2224
+#, c-format
+msgid "Creating desktop %u..."
+msgstr "Δημιουργία επιφάνειας εργασίας %u..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2467
+msgid "Amount of physical memory left before swapping occurs."
+msgstr "Σύνολο φυσικής μνήμης πρίν το swapping."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2470
+msgid "Memory used so far in percent."
+msgstr "Μνήμη σε χρήση επί της εκατό."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2473
+msgid "CPU time requested in percent."
+msgstr "Χρόνο που ζήτησε η CPU επί της εκατό."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2476
+msgid "Time the system has been up and running."
+msgstr "Χρόνος που το σύστημα είναι ενεργό και τρέχει."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2479
+msgid "Drag this target over a window to execute the action selected in the combo box."
+msgstr "Σύρτε τον στόχο πάνω από ένα παράθυρο για να εκτελέσετε μια επιλογή της λίστας."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2482
+msgid "Selects the action for the drag and drop target tool."
+msgstr "Επιλέγει την δράση για το σύρσιμο του στόχου εργαλείου"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2485
+msgid "Displays full path and command line arguments if possible."
+msgstr "Εμφανίζει το πλήρες μονοπάτι και παρανλετρους της γραμμής εντολών αν είναι δυνατό."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2488
+msgid "Keeps Daphne main window always on top."
+msgstr "Κρατάει το κεντρικό παράθρο της Daphne πάντα στη κορυφή."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2491
+msgid "Opens Daphne main menu."
+msgstr "Ανοίγει το κεντρικό μενού της Daphme."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2494
+msgid "Running process list."
+msgstr "Λίστα διεργασιών που τρέχουν."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2497
+msgid "Open configuration screen."
+msgstr "Άνοιγμα οθόνης διαμόρφωσης."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2638
+msgid " About Daphne"
+msgstr "Σχετικά με το Daphne"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2640
+msgid "License"
+msgstr "Άδεια χρήσης"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2641
+msgid "Contributed"
+msgstr "Συνέλαβαν"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2642
+msgid "Thanks to Adrián, Santi, Nico, Juan and Gonza."
+msgstr "Ευχαριστίες στους Adrián, Santi, Nico, Juan and Gonza."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2643
+msgid "Giacomo Margarito - Italian translation"
+msgstr "Giacomo Margarito - Ιταλική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2644
+msgid "He Zhenwei - Chinese translation"
+msgstr "He Zhenwei - Κινέζικη μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2645
+msgid "Marc Cueni - French translation"
+msgstr "Marc Cueni - Γραλλική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2646
+msgid "Bunny Forth - Chinese translation contributor"
+msgstr "Bunny Forth - Κινεζίκή μετάφραση contributor"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2647
+msgid "Arno Krumpholz - German translation"
+msgstr "Arno Krumpholz - Γερμανική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2648
+msgid "Vicent Adam - Valencian translation"
+msgstr "Vicent Adam - Valencian translation"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2649
+msgid "Michal Trzebiatowski - Polish translation"
+msgstr "Michal Trzebiatowski - Πωλωνική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2650
+msgid "Jangir Ganeev - Russian translation"
+msgstr "Jangir Ganeev - Ρωσική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2651
+msgid "Renato da Silva - Portuguese translation"
+msgstr "Renato da Silva - Πορτογαλική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2652
+msgid "Asabukuro Dongorosu - Japanese translation"
+msgstr "Asabukuro Dongorosu - Ιαπωνική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2653
+msgid "Abdurrahman Aborazmeh - Arabic translation"
+msgstr "Abdurrahman Aborazmeh - Αραβική μετάφραση"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2654
+msgid "Technical support at forum.drk.com.ar"
+msgstr "Τεχνική υποστήριξη στο forum.drk.com.ar"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2655
+msgid "Contribute"
+msgstr "Συμβάλετε"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2703
+msgid "Window hidden"
+msgstr "Παράθυρο κρυμμένο"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2849
+#, c-format
+msgid ""
+"%s was released and is ready to be downloaded.\n"
+"\n"
+"What's new:\n"
+"%s\n"
+"Would you like to visit download web page?"
+msgstr ""
+"%s εκδόθηκεκαι είναι έτοιμο για κατέβασμα.\n"
+"\n"
+"Τι είναι νέο:\n"
+"%s\n"
+"Θα θέλατε να επισκευθήτε τον ιστοχώρο κατεβάσματος ;"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2853
+msgid "Daphne web updates"
+msgstr "Daphne ενημερώσεις ιστού"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3160
+msgid ""
+"Daphne isn't able to switch Desktop\n"
+"It can be a configuration problem.\n"
+"Please reconfigure or restart Daphne and it will appear on next startup."
+msgstr ""
+"Το Daphne δεν μπροεί να αλλάξει Desktop\n"
+"Μπορεί να είναι πρόβλημα ρυθμίσεων.\n"
+"Παρακαλούμε επαναρυθμίστε ή επανεκκινήστε το Daphne και θα εμφανιστεί στο επόμενο ξεκίνημα."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3181
+msgid "Are you sure you want to kill this process?"
+msgstr "Είστε βέβαιος-α οτι θελετε να σκοτώσετε αυτή τη διεργασία;"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3221
+msgid "System is going down!"
+msgstr "Το σύστημα πάει να κλείσει!"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3247
+#, c-format
+msgid "%s system shutdown."
+msgstr "%s τερματισμός συστήματος."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3250
+#, c-format
+msgid "%s system restart."
+msgstr "%s σύστημα επανεκκίνηση."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3253
+#, c-format
+msgid "%s system log off."
+msgstr "%s σύστημα αποσύνδεση."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3266 C:\DATA\VC\Daphne\DaphneDlg.cpp:3278
+#, c-format
+msgid "Unable to kill scheduled process %s, PID %u."
+msgstr "Αδυναμία σκοτώματος προγραματισμένων διεργασιών %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3271
+#, c-format
+msgid "Politely killed scheduled process %s, PID %u."
+msgstr "Ευγενικά σκοτωμένες προγραμματισμένες διεργασίες %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3283
+#, c-format
+msgid "Killed scheduled process %s, PID %u."
+msgstr "Σκοτωμένες προγραμματισμένες διεργασίες %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3290
+#, c-format
+msgid "Can't find scheduled process %s, PID %u."
+msgstr "Δεν μπορούν να βρεθούν προγραμματισμένες διεργασίες %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3296
+#, c-format
+msgid "%s kill %s [%u]"
+msgstr "%s kill %s [%u]"
+
+# C:\DATA\VC\Daphne\DskPreviewDlg.cpp:40
+msgid " Preview"
+msgstr "Προεπισκόπηση"
+
+# C:\DATA\VC\Daphne\GreenDlg.cpp:40
+msgid "Protect our planet"
+msgstr "Προστατεύστε τον πλάνήτη μας"
+
+# C:\DATA\VC\Daphne\GreenDlg.cpp:43
+msgid ""
+"The system has been up for a long time. If you don't need to keep the computer\n"
+" running overnight really, please consider turning it off.\n"
+"Help fighting the climate change!\n"
+"\n"
+"Click OK for more information about energy saving.\n"
+"\n"
+"(You won't see this windows again)"
+msgstr ""
+"Το σύστημα είναι εν λειτουργία για αρκετή ώρα. Αν δεν θέλετε να κρατάτε τον ΗΥ\n"
+"ανοιχτό άσκοπα , παρακαλούμε σκεφθήτε να τον απενεργοποιήσετε.\n"
+"Βοήθεια στον πόλεμο κατά της Κλιματικής Αλλαγής!\n"
+"\n"
+"Κλίκ ΟΚ για περισσότερες πληροφορίες σχετικά με την εξοικονόμηση ενέργειας.\n"
+"\n"
+"(Δεν πρόκειται να δείτε το παράθυρο αυτό ξανά)"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:188
+msgid " Inspector"
+msgstr "Επιθεωρητής"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:189
+msgid "Drag the magnifying glass over windows and controls to inspect its properties."
+msgstr "Σύρετε το μεγεθυντικό φακό πάνω από τα παράθυρα και τους ελέγχους για να επιθεωρήσουν τις ιδιότητές."
+
+# C:\DATA\VC\Daphne\Inspector.cpp:190
+msgid "Title:"
+msgstr "Τίτλος:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:191
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:115
+msgid "Class:"
+msgstr "Κλάση:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:192
+msgid "Text:"
+msgstr "Κείμενο:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:193
+msgid "Location:"
+msgstr "Τοποθεσία:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:194
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:80
+msgid " Kill all by name"
+msgstr "Σκότωμα όλων κατά όνομα"
+
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:83
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:63
+msgid "Process name:"
+msgstr "Όνομα διεργασίας:"
+
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:94
+msgid " (Polite)"
+msgstr "(Ευγενικός)"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:50
+msgid " Kill at..."
+msgstr "Σκότωμα σε..."
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:53
+msgid "Process to kill:"
+msgstr "Διεργασία προς σκότωμα:"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:54
+msgid "Select date and time to kill the process at:"
+msgstr "Επιλογή ημερομηνίας και ώρας σκοτώματος διεργασίας :"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:55
+msgid "Be polite"
+msgstr "Να είσαι ευγενικός"
+
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:85
+msgid " Kill menu item"
+msgstr "Αντικείμενο μενού σκοτώματος"
+
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:88
+msgid "Menu name:"
+msgstr "Όνομα μενού:"
+
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:89
+msgid "Process list (case sensitive)"
+msgstr "Λίστα διεργασιών (case sensitive)"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:49
+msgid " Installed software list"
+msgstr "Λίστα εγκατεστημένου λογισμικού"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:58
+msgid "Software"
+msgstr "Λογισμικό"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:59
+msgid "Version"
+msgstr "Έκδοση"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:60
+msgid "Publisher"
+msgstr "Εκδότης"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:61
+msgid "Publisher WEB"
+msgstr "Εκδότης Ιστού"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:211
+msgid "Uninstall"
+msgstr "Απεγκατάσταση"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:266
+msgid "Uninstall information is not available"
+msgstr "Πληροφορία απεγκατάστασης μη διαθέσιμη"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:271
+#, c-format
+msgid "Are you sure you want to remove %s from this computer?"
+msgstr "Είστε σίγουρος-η πως θέλετε να αφαιρέσετε %s απο αυτόν τον υπολογιστή;"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:272
+msgid "Warning: this can not be undone"
+msgstr "Προσοχή: αυτό δεν μπορεί να αναιρεθεί"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:299
+msgid "Unable to run uninstaller"
+msgstr "Αδυναμία εκκίνησης του προγράμματος Απεγκατάστασης"
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:49
+msgid " Web updates"
+msgstr "Ιστο ενημερώσεις"
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:50
+msgid "Daphne is about to check the web for updates. This is done without sending any personally identifiable information to the web site."
+msgstr "Το Daphne θα κάνει έλεγχο ενημερώσεων μέσω του ιστού. Αυτό γίνεται χωρίς να αποστέλεται κάποια προσωπική αναγνωριστικού τύπου πληροφορία στην ιστοσελίδα."
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:51
+msgid "Do you want to check for updates at internet?"
+msgstr "Θέλετε να ελέγξετε για ενημερώσεις στο ίντερνετ ;"
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:52
+msgid "Yes"
+msgstr "Ναί"
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:53
+msgid "No"
+msgstr "Όχι"
+
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:60
+msgid " Trap..."
+msgstr "Παγίδα..."
+
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:64
+msgid "Action:"
+msgstr "Δράση:"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:74
+msgid "Install system wide Daphne activation shortcut"
+msgstr "Εγκαταστήστε σύστημα ευρέως Daphne activation shortcut"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:75
+msgid "Shift"
+msgstr "Shift"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:76
+msgid "Alt"
+msgstr "Alt"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:77
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:78
+msgid "Advanced options"
+msgstr "Προχωρημένες επιλογές"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:79
+msgid "Show all hidden applications on exit"
+msgstr "Εμφάνισε όλες τις κρυφές εφαρμογές κατά την έξοδο"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:80
+msgid "Try to hide Java VM from command line"
+msgstr "Προσπάθησε να κρύψεις τη Java VM από τη γραμμή εντολών"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:81
+msgid "Don't check Debug programs privilege on startup"
+msgstr "Να μην γίνεται έλεγχος των προγραμμάτων εντοπισμού σφαλμάτων προνόμιο κατά την εκκίνηση"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:82
+msgid "Store configuration"
+msgstr "Store διαμόρφωση"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:83
+msgid "Using Daphne.INI file"
+msgstr "Χρησιμοποιόντας το αρχείο Daphne.INI"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:84
+msgid "Using Windows registry"
+msgstr "Χρησιμοποιόντας τη Windows registry"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:63
+msgid "Add process names to highlight in the main list:"
+msgstr "Πρόσθεσε τα ονόματα των διεργασιών για τονισμό στη κεντρική λίστα:"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:64
+msgid "Highlight system process with blue"
+msgstr "Τόνισε τις διεργασίες συστήματος με μπλέ"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:65
+#, c-format
+msgid "Hightlight process over 95% CPU in red"
+msgstr "Τόνισε τη διεργασία άνω του 95% της CPU με κόκκινο"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:66
+#, c-format
+msgid "Highlight orange, process with more than 20% of memory used"
+msgstr "Πορτοκαλί τονισμός, διεργασία με περισσότερο του 20% χρησιμοποιημένο απο τη μνήμη"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:83
+# C:\DATA\VC\Daphne\PPTraps.cpp:59
+msgid "Add"
+msgstr "Προσθήκη"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:84
+# C:\DATA\VC\Daphne\PPTraps.cpp:60
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:85
+# C:\DATA\VC\Daphne\PPTraps.cpp:61
+msgid "Remove"
+msgstr "Αφαίρεσε"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:86
+# C:\DATA\VC\Daphne\PPLook.cpp:141
+msgid "Up"
+msgstr "Πάνω"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:87
+# C:\DATA\VC\Daphne\PPLook.cpp:142
+msgid "Down"
+msgstr "Κάτω"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:221
+#, c-format
+msgid "Removing %s"
+msgstr "Αφαιρεί %s"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:222
+msgid ""
+"You are about to remove a kill menu item. This action can't be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+"Πάτε να αφαιρέσετε ένα αντικείμενο του μενού σκοτώματος. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.\n"
+"\n"
+"Είστε σίγουρος-η;"
+
+# C:\DATA\VC\Daphne\PPLogging.cpp:49
+msgid "Log started and ended process"
+msgstr "Καταγραφή ξεκινημένων και τελειωμένων διεργασιών"
+
+# C:\DATA\VC\Daphne\PPLogging.cpp:73
+msgid "Log process activity to..."
+msgstr "Καταγραφή της δραστηριότητας της διεργασίας στο..."
+
+# C:\DATA\VC\Daphne\PPLook.cpp:139
+msgid "Main window and tray icon"
+msgstr "Κεντρικό παράθυρο και tray εικονίδιο"
+
+# C:\DATA\VC\Daphne\PPLook.cpp:140
+msgid "Process list colum order"
+msgstr "Λίστα διεργασιών σε μορφή στήλης"
+
+# C:\DATA\VC\Daphne\PPLook.cpp:143
+msgid "Window transparence"
+msgstr "Παράθυρο διαφάνεια"
+
+# C:\DATA\VC\Daphne\PPLook.cpp:144
+msgid "Animate tray icon with CPU usage."
+msgstr "Εικονίδιο με τη χρήση της CPU"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:50
+msgid "Multidesktop options"
+msgstr "Multidesktop επιλογές"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:51
+msgid "Enable Multidesktop feature (at Daphne's startup)"
+msgstr "Ενεργοποίηση Multidsktop χαρακτηριστικού (κατά την έναρξη του Daphne)"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:52
+msgid "Extra desktops"
+msgstr "Επιπλέον επιφάνειες εργασίας"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:53
+msgid "Integration options"
+msgstr "Ιδιότητες ενσωμάτωσης"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:54
+msgid "Enable Windows Explorer integration"
+msgstr "Ενεργοποίηση ενσωμάτωσης στον Windows Explorer "
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:124
+msgid ""
+"This feature is experimental. It won't damage your computer but,\n"
+"if you notice strange behavior after enabling it. Turn it off\n"
+"and report the situation."
+msgstr ""
+"Αυτό το χαρακτηριστικό είναι σε πειραματικό στάδιο. Δε θα καταστρέψει τον ΗΥ σας αλλά,\n"
+"αν παρατηρήσετε περίεργη συμπεριφορά μετά την ενεργοποίηση. Απενεργοποιήσετε το\n"
+"και αναφέρετε την κατάσταση."
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:124
+msgid "Daphne multidesktop feature"
+msgstr "Daphne multidesktop χαρακτηριστικό"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:130
+msgid "Daphne startup"
+msgstr "Daphne έναρξη"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:131
+msgid "Behavior"
+msgstr "Συμπεριφορά"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:132
+msgid "Proxy server:"
+msgstr "Proxy server:"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:133
+msgid "Use HTTP proxy"
+msgstr "Χρησιμοποίησε HTTP proxy"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:134
+msgid "Start Daphne automatically when starting Windows"
+msgstr "Έναρξη του Daphne αυτόματα όταν τα Windows αρχίζουν"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:135
+msgid "Always hide Daphne on startup"
+msgstr "Πάντα απόκρυψη του Daphne κατά την έναρξη"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:136
+msgid "Check internet for Daphne updates on startup"
+msgstr "Έλεγχος στο διαδίκτυο για ενημερώσεις του Daphne κατά τη διαδικασία της έναρξης"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:137
+msgid "Alternate list item background color"
+msgstr "Άλλαξε το χρώμα φόντου της λίστας"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:138
+msgid "Hide zombie processes"
+msgstr "Κρύψε τις διεργασίες zombie"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:139
+msgid "Fast refresh"
+msgstr "Γρήγορη ανανέωση"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:65
+msgid "Process name"
+msgstr "Όνομα διεργασίας"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:66
+msgid "Action"
+msgstr "Δράση"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:67
+msgid "Window title contains"
+msgstr "Τίτλος παραθύρου περιλαμβάνει"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:132
+#, c-format
+msgid "Are you sure you want to remove the selected trap on %s?"
+msgstr "Είστε σίγουρος-η οτι θέλετε να αφαιρέσετε την επιλεγμένη παγίδα στο %s?"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:133
+#, c-format
+msgid "Removing \"%s\""
+msgstr "Αφαιρεί \"%s\""
+
+# C:\DATA\VC\Daphne\ProcessTreeDlg.cpp:44
+msgid " Process tree"
+msgstr " Δέντρο διεργασιών"
+
+# C:\DATA\VC\Daphne\ProcessTreeDlg.cpp:46
+msgid "This tree is a snapshot and won't be updated until the dialog is closed and opened again."
+msgstr "Αυτό το δέντρο είναι ένα snapshot και δε θα πρέπει να ενημερωθεί έως το πλαίσιο διαλόγου να κλείσει και να ανοίξει ξάνά."
+
+# C:\DATA\VC\Daphne\ProcList.cpp:121
+msgid "Quick search by process name enabled."
+msgstr "Σύντομη αναζήτηση κατά όνομα διεργασίας ενεργοποιήθηκε."
+
+# C:\DATA\VC\Daphne\ProcList.cpp:123
+msgid "Quick search by process name disabled."
+msgstr "Σύντομη αναζήτηση κατά όνομα διεργασίας απενεργοποιήθηκε."
+
+# C:\DATA\VC\Daphne\ProcList.cpp:151
+#, c-format
+msgid "Highlighting %s..."
+msgstr "Υπογραμμίζοντας %s..."
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:104
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:54
+msgid " Properties"
+msgstr "Ιδιότητες"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:106
+msgid "...DRK search"
+msgstr "...DRK αναζήτηση"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:107
+msgid "Environment"
+msgstr "Περιβάλλον"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:108
+msgid "Modules"
+msgstr "Ενότητες"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:110
+msgid "More information"
+msgstr "Περισσότερες πληροφορίες"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:111
+msgid "Windows"
+msgstr "Παράθυρα"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:112
+msgid "Process:"
+msgstr "Διεργασία:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:113
+msgid "CmdLine:"
+msgstr "CmdΓραμμή:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:114
+msgid "Priority:"
+msgstr "Προτεραιότητα:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:116
+msgid "Created:"
+msgstr "Δημιουργήθηκε:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:117
+msgid "Kernel time:"
+msgstr "Ώρα πυρήνα:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:118
+msgid "User time:"
+msgstr "Ώρα χρήστη:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:119
+msgid "Parent:"
+msgstr "Γονέας:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:120
+msgid "Owner:"
+msgstr "Ιδιοκτήτης:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:139
+msgid "ThreadID"
+msgstr "ThreadID"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:140
+msgid "References"
+msgstr "Αναφορές"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:142
+msgid "CPU Time"
+msgstr "CPU Χρόνος"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:182
+msgid "Not available"
+msgstr "Μη διαθέσημο"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:186
+msgid "Service ["
+msgstr "Υπηρεσία ["
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:192
+msgid "paused]"
+msgstr "σε παύση]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:195
+msgid "running]"
+msgstr "τρέχει]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:198
+msgid "stoped]"
+msgstr "σταμάτησε]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:201
+msgid "continue pending]"
+msgstr "συνέχεια αναμονή]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:204
+msgid "start pending]"
+msgstr "έναρξη αναμονή]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:207
+msgid "stop pending]"
+msgstr "διακοπή αναμονή]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:210
+msgid "pause pending]"
+msgstr "παύση αναμονή]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:345
+msgid "Make resizable"
+msgstr "Κάνε το resizable"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:346
+msgid "Quit caption"
+msgstr "Εγκατάλειψη τίτλου"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:347
+msgid "Add caption"
+msgstr "Προσθήκη τίτλου"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:349
+msgid "Minimize"
+msgstr "Ελαχιστοποίηση"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:350
+msgid "Restore"
+msgstr "Επαναφορά"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:351
+msgid "Maximize"
+msgstr "Μεγέθυνση"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:354
+msgid "Send message"
+msgstr "Αποστολή μυνήματος"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:553
+msgid ""
+"Daphne was unable to get environment information.\n"
+"This feature is known to fail\n"
+"on new Windows versions."
+msgstr ""
+"Το Daphne δεν μπόρεσε να πιάσει της πληροφορίες περιβάλλοντος.\n"
+"Αυτή η δυνατότητα είναι γνωστή για αποτυχεία.\n"
+"στις νέες εκδόσεις των Windows."
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:568
+msgid ""
+"Read operation count %I64u\n"
+"Write operation count %I64u\n"
+"Other operation count %I64u\n"
+"Read transfer %I64u KBytes\n"
+"Write operation %I64u KBytes\n"
+"Other operation %I64u KBytes\n"
+msgstr ""
+"Διάβασε λειτουργία μέτρησε %I64u\n"
+"Γράψε λειτουργία μέτρησε %I64u\n"
+"Άλλη λειτουργία μέτρησε %I64u\n"
+"Διάβασε μεταφορά %I64u KBytes\n"
+"Γράψε λειτουργία %I64u KBytes\n"
+"Άλλη λειτουργία %I64u KBytes\n"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:620
+msgid "Suspend"
+msgstr "Αναστολή"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:621
+msgid "Resume"
+msgstr "Ανακεφαλαίωση"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:622
+msgid "Terminate"
+msgstr "Τερματισμός"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:625
+# C:\DATA\VC\Daphne\Thread.cpp:169
+msgid "Time critical"
+msgstr "Κρίσιμος χρόνος"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:626
+# C:\DATA\VC\Daphne\Thread.cpp:161
+msgid "Highest"
+msgstr "Υψηλότερο"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:627
+# C:\DATA\VC\Daphne\Thread.cpp:157
+msgid "Above normal"
+msgstr "Άνω του κανονικού"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:629
+# C:\DATA\VC\Daphne\Thread.cpp:159
+msgid "Below normal"
+msgstr "Κάτω του κανονικού"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:630
+# C:\DATA\VC\Daphne\Thread.cpp:165
+msgid "Lowest"
+msgstr "Χαμηλότερο"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:631
+# C:\DATA\VC\Daphne\Thread.cpp:163
+msgid "IDLE"
+msgstr "IDLE"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:195
+msgid " Run process"
+msgstr "Τρέξιμο διεργασίας"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:196
+msgid "Start process suspended"
+msgstr "Αναστάλθηκε η διαδικασία έναρξης"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:197
+msgid "Run"
+msgstr "Τρέξε"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:199
+msgid "Program:"
+msgstr "Πρόγραμμα:"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:200
+msgid "Arguments:"
+msgstr "Παράμετροι:"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:201
+msgid "Directory:"
+msgstr "Κατάλογος:"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:41
+msgid " Scheduled tasks"
+msgstr "Προγραμματισμένες εργασίες"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:93
+msgid "Remove task"
+msgstr "Αφαίρεση εργασίας"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:120
+msgid "Task removed."
+msgstr "Εργασία αφαιρέθηκε."
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:65
+msgid " Shutdown at..."
+msgstr "Τερματισμός σε..."
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:68
+msgid "Schedule system shutdown at:"
+msgstr "Προγραμματισμένο σβήσιμο συστήματος σε:"
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:70
+msgid "Shutdown"
+msgstr "Τερματισμός"
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:71
+msgid "Restart"
+msgstr "Επανεκκίνηση"
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:72
+msgid "Log off"
+msgstr "Αποσύνδεση..."
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:77
+msgid " Send message..."
+msgstr "Αποστολή μυνήματος..."
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:80
+msgid "Message:"
+msgstr "Μύνημα:"
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:81
+msgid "lParam:"
+msgstr "lParam:"
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:82
+msgid "wParam:"
+msgstr "wParam:"
+
+# C:\DATA\VC\Daphne\Software.cpp:51
+msgid "[Binary data]"
+msgstr "[Δυαδικά δεδομένα]"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:56
+msgid "Version:"
+msgstr "Έκδοση:"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:57
+msgid "Website:"
+msgstr "Ιστοσελίδα:"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:58
+msgid "Publisher:"
+msgstr "Εκδότης:"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:59
+msgid "Raw information view"
+msgstr "Προβολή ακατέργαστης πληροφορίας"
+
+# C:\DATA\VC\Daphne\SplashMDInit.cpp:42
+msgid " Daphne multidesktop"
+msgstr "Daphne multidesktop"
+
+# C:\DATA\VC\Daphne\SplashMDInit.cpp:43
+msgid "Initializing..."
+msgstr "Αρχικοποίηση..."
+
+# C:\DATA\VC\Daphne\Thread.cpp:63
+#, c-format
+msgid "%08Xh - References %u - Priority %u/%u"
+msgstr "%08Xh -Αναφορές %u - Προτεραιότητα %u/%u"
+
+# C:\DATA\VC\Daphne\Trap.cpp:89
+msgid "Notify process created"
+msgstr "Ειδοποήση διεργασία δημιουγήθηκε"
+
+# C:\DATA\VC\Daphne\Trap.cpp:110
+msgid "Set priority to real-time"
+msgstr "Θέσε προτεραιότητα στο real-time"
+
+# C:\DATA\VC\Daphne\Trap.cpp:113
+msgid "Set priority to high"
+msgstr "Θέσε προτεραίοτητα στο υψηλό"
+
+# C:\DATA\VC\Daphne\Trap.cpp:116
+msgid "Set priority to normal"
+msgstr "Θέσε προτεραιότητα στο κακονικό"
+
+# C:\DATA\VC\Daphne\Trap.cpp:119
+msgid "Set priority to low"
+msgstr "Θέσε προτεραιότητα στο χαμηλό"
+
+# C:\DATA\VC\Daphne\Trap.cpp:122
+msgid "Notify process destroyed"
+msgstr "Ειδοποίηση διεργασία καταστράφηκε"
+
+# C:\DATA\VC\Daphne\W32Values.cpp:87
+msgid " Win32 values"
+msgstr "Win32 τιμές"
+
+# C:\DATA\VC\Daphne\W32Values.cpp:90
+msgid "Filter:"
+msgstr "Φίλτρο:"
+
+# C:\DATA\VC\Daphne\WndsPopUp.cpp:72
+msgid " Hidden applications"
+msgstr "Κρυμμένες εφαρμογές"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:19
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:19
+msgid ""
+"Usage: dc [command]\n"
+"\n"
+msgstr ""
+"Χρήση: dc [command]\n"
+"\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:20
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:20
+msgid "pstree: show process list as hierarchy tree (default)\n"
+msgstr "pstree: εμφάνισε τη λίστα διεργασιών ως ιεραρχικό δέντρο (προεπιλογή)\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:21
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:21
+msgid "ps: show process list\n"
+msgstr "ps: εμφάνισε τη λίστα διεργασιών\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:22
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:22
+msgid "kill <pid>: kill process by PID\n"
+msgstr "σκότωσε <pid>: σκότωσε διεργασίες με PID\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:23
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:23
+msgid "killall <name>: kill all process by name\n"
+msgstr "σκότωμαόλων <name>: σκότωσε όλες τις διεργασίες με όνομα\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:24
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:24
+msgid "killmenu <item>: execute a previously configured Daphne's kill menu\n"
+msgstr "σκότωμαμενού <item>: εκτέλεσε ένα προηγουμένο ρυθμισμένο  Daphne's σκοτωμένο μενού\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:25
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:25
+msgid "showchildren <pid>: list processes started by PID, including PID\n"
+msgstr "εμφάνισηπαιδιού <pid>: εμφάνισε σε λίστα τις διεργασίες που αρχίζουν με PID,συμπεριλαμβανομένου PID\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:26
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:26
+msgid "killchildren <pid>: kill processes started by PID, including PID\n"
+msgstr "σκότωμαπαιδιού <pid>: σκότωσε τις διεργασίες που αρχίζουν με PID, συμπεριλαμβανομένου PID\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:27
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:27
+msgid "help: show command line help\n"
+msgstr "βοήθεια: εμφάνιση γραμμής εντολών help\n"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:78
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:78
+msgid "Full path to clipboard"
+msgstr "Πλήρε μονοπάτι στο clipboard"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:79
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:79
+msgid "Name to clipboard"
+msgstr "Όνομα στο clipboard"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:81
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:81
+msgid "File listing to clipboard"
+msgstr "File listing στο clipboard"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:82
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:82
+msgid "Full path file listing to clipboard"
+msgstr "Πλήρες μονοπάτι file listing στο clipboard"
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:86
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:86
+msgid "Open CMD here..."
+msgstr "Άνοιξε το CMD εδώ..."
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:94
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:94
+msgid "Google this folder..."
+msgstr "Google αυτό το φάκελο..."
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:101
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:101
+msgid "Run with arguments..."
+msgstr "Τρέξε με παραμέτρους..."
+
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:103
+# C:\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:103
+msgid "Google this file..."
+msgstr "Google αυτό το αρχείο..."
+

@@ -1,0 +1,1952 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-05 16:54-0300\n"
+"PO-Revision-Date: 2014-08-01 16:24+0800\n"
+"Last-Translator: 風逸蘭 <stchen0214@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:53
+msgid " Affinity"
+msgstr " 相關性"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:66
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3064
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:48
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:115
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:376
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:48
+msgid "Close"
+msgstr "關閉"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:41
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:53
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:51
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:63
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:68
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:78
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:49
+msgid "OK"
+msgstr "確定"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:56
+msgid "Select all"
+msgstr "全選"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:57
+msgid "Select none"
+msgstr "全不選"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:58
+msgid "Create or modify trap"
+msgstr "建立或修改陷阱"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:78
+msgid "Invalid username or password"
+msgstr "無效的使用者名稱或密碼"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:78
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:270
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:303
+msgid "ERROR"
+msgstr "錯誤"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:86
+msgid " Authenticate user"
+msgstr " 授權使用者"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:56
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:42
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:85
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:52
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:64
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:200
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:69
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:79
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:89
+msgid "Cancel"
+msgstr "取消"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:89
+msgid "Username:"
+msgstr "使用者名稱："
+
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:90
+msgid "Password:"
+msgstr "密碼："
+
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:54
+msgid " Close all windows by title"
+msgstr " 依標題關閉所有視窗"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:57
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:67
+msgid "Window title contains:"
+msgstr "視窗標題包含："
+
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:58
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:87
+msgid "case-sensitive"
+msgstr "區分大小寫"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:65
+msgid " CPU Usage"
+msgstr " CPU 使用量"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:68
+msgid "System information"
+msgstr "系統資訊"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:69
+msgid "Used physical memory [MB]"
+msgstr "已用實體記憶體 [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:70
+msgid "Total physical memory [MB]"
+msgstr "總計實體記憶體 [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:71
+msgid "System cache [MB]"
+msgstr "系統快取 [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:72
+msgid "Kernel memory [MB]"
+msgstr "核心記憶體 [MB]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:73
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:424
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3753
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:119
+msgid "Threads"
+msgstr "執行緒"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:74
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:416
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:808
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3745
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3783
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:199
+msgid "Process"
+msgstr "處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:75
+msgid "Handles"
+msgstr "代碼"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:76
+msgid "Page size"
+msgstr "分頁大小"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:142
+#, c-format
+msgid "Showing last %d:%02d minutes"
+msgstr "顯示最近 %d：%02d 分"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:79
+msgid " Daphne - Crash"
+msgstr " Daphne - 當機"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:80
+msgid "SEND"
+msgstr "傳送"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:81
+msgid "Quit"
+msgstr "結束"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:82
+msgid ""
+"An unhandled exception has crashed Daphne. Please, press SEND to report this "
+"problem by mail."
+msgstr ""
+"一個未處理的異常導致 Daphne 當機。請按下「傳送」按鈕將該問題透過電子郵件進行"
+"報告。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:83
+msgid "Error information"
+msgstr "錯誤資訊"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:84
+msgid "* You will see the mail before sending."
+msgstr "* 您可以在傳送電子郵件前檢閱其內容。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1052
+msgid "Unable to initialize Sockets API."
+msgstr "無法初始化 Sockets API。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1122
+msgid "Another instance of Daphne is already running."
+msgstr "已有另一個 Daphne 實體正在執行。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1122
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1132
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1264
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1273
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3178
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3617
+msgid "Daphne"
+msgstr "Daphne"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1132
+msgid ""
+"You are running Daphne for 32 bits under a 64-bits Windows platform.\n"
+"Most features won't work. Please download and install Daphne for 64 bits."
+msgstr ""
+"您正在執行的是 32 位元版本的 Daphne，但是作業系統是 64 位元的 Windows。\n"
+"大多數的功能將無法正常工作。請下載並安裝 64 位元版本的 Daphne。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:201
+#, c-format
+msgid "%s"
+msgstr "%s"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:329
+msgid "Unable to register global shortcut. Multidesktop may not work."
+msgstr "無法註冊全局快速鍵。多重桌面可能無法工作。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:329
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3596
+#: E:\Users\leandro\DATA\VC\Daphne\Utility.cpp:179
+msgid "Error"
+msgstr "錯誤"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:334
+msgid "Full path and arguments"
+msgstr "完整路徑和參數"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:335
+msgid "Always on top"
+msgstr "總在最上層"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:336
+msgid "Daphne >"
+msgstr "Daphne >"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:337
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2251
+msgid "Settings..."
+msgstr "設定..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:339
+msgid "Find (Process)"
+msgstr "尋找 (處理程序)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:340
+msgid "Find (Window)"
+msgstr "尋找 (視窗)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:341
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:946
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:117
+msgid "Kill"
+msgstr "結束"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:342
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:365
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:120
+msgid "Hide application"
+msgstr "隱藏應用程式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:343
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:123
+msgid "Set on top"
+msgstr "設定為最上層"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:344
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:126
+msgid "Unset on top"
+msgstr "取消設定為最上層"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:345
+msgid "Set alpha 100%"
+msgstr "設定不透明度 100%"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:346
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:129
+msgid "Set alpha 75%"
+msgstr "設定不透明度 75%"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:347
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:132
+msgid "Set alpha 50%"
+msgstr "設定不透明度 50%"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:348
+msgid "Unset alpha"
+msgstr "取消設定不透明度"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:349
+msgid "Enable"
+msgstr "啟用"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:350
+msgid "Disable"
+msgstr "停用"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:351
+msgid "Change size"
+msgstr "變更大小"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:352
+msgid "Trap size and position"
+msgstr "陷阱大小和位置"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:391
+msgid "&About Daphne..."
+msgstr "關於 Daphne(&A)..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:415
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1012
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3744
+msgid "PID"
+msgstr "PID"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:417
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1013
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3746
+msgid "Path"
+msgstr "路徑"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:418
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3747
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:152
+msgid "Priority"
+msgstr "優先權"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:419
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3748
+msgid "Class"
+msgstr "類別"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:420
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3749
+msgid "Memory"
+msgstr "記憶體"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:421
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3750
+msgid "PeakMemoryUsage"
+msgstr "峰值記憶體使用量"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:422
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3751
+msgid "Swap"
+msgstr "分頁檔"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:423
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3752
+msgid "PeakSwapUsage"
+msgstr "峰值分頁檔使用量"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:425
+#, c-format
+msgid "%CPU"
+msgstr "% CPU"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:426
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3754
+msgid "Owner"
+msgstr "所有者"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:427
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3755
+msgid "I/O reads"
+msgstr "I/O 讀取"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:428
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3756
+msgid "I/O writes"
+msgstr "I/O 寫入"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:556
+#, c-format
+msgid "* %s ============= Daphne starting... =============\n"
+msgstr "* %s ============= Daphne 正在啟動... =============\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:631
+msgid ""
+"Daphne needs 'Debug programs' privilges in order to show full process list. "
+"Do you want to check DRK web site for a check list of the procedure? (If you "
+"click Cancel you won't see this warning again)"
+msgstr ""
+"Daphne 需要 '除錯程式' 權限才能顯示完整的處理程序清單。您是否願意檢閱 DRK 網"
+"站以取得操作步驟？ (如果您點選「取消」，以後將不再顯示該警告)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:631
+msgid "Your account lacks debug privileges"
+msgstr "您的帳戶並無除錯權限"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:668
+#, c-format
+msgid "* %s ============= Daphne ready =============\n"
+msgstr "* %s ============= Daphne 就緒 =============\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:806
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3783
+msgid "Service"
+msgstr "服務"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:836
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:960
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3762
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:181
+msgid "High"
+msgstr "高"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:839
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:961
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3765
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:184
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:655
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:167
+msgid "Normal"
+msgstr "中"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:842
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:962
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3768
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:187
+msgid "Low"
+msgstr "低"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:845
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:959
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3771
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:190
+msgid "Real time"
+msgstr "即時"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:848
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3774
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:172
+msgid "N/A"
+msgstr "不適用"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:947
+msgid "Kill politely"
+msgstr "溫和地結束"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:948
+msgid "Kill at..."
+msgstr "排程結束時間..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:949
+msgid "Kill politely at..."
+msgstr "排程溫和地結束時間..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:952
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:362
+msgid "Set focus"
+msgstr "設定焦點"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:953
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:367
+msgid "Set always on top"
+msgstr "設定總在最上層"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:954
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:368
+msgid "Unset always on top"
+msgstr "取消設定總在最上層"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:955
+msgid "Create trap"
+msgstr "建立陷阱"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:956
+msgid "Set affinity..."
+msgstr "設定相關性..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:977
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:683
+msgid "Set priority"
+msgstr "設定優先權"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:982
+msgid "Start service"
+msgstr "啟動服務"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:983
+msgid "Continue service"
+msgstr "繼續服務"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:984
+msgid "Pause service"
+msgstr "暫停服務"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:985
+msgid "Stop service"
+msgstr "停止服務"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1010
+msgid "Copy name"
+msgstr "複製名稱"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1014
+msgid "Path and arguments"
+msgstr "路徑和參數"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1015
+msgid "MD5 hash"
+msgstr "MD5 雜湊值"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1016
+msgid "SHA1 hash"
+msgstr "SHA1 雜湊值"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1017
+msgid "Copy..."
+msgstr "複製..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1018
+msgid "Open containing folder..."
+msgstr "開啟該處理程序所在的資料夾..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1020
+msgid "Look up into DRK DB..."
+msgstr "在 DRK 資料庫中尋找..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1021
+msgid "Submit to DRK DB..."
+msgstr "提交到 DRK 資料庫..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1023
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:217
+msgid "Properties"
+msgstr "內容"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1133
+msgid "Daphne was unable to get enough privileges for a system shutdown."
+msgstr "Daphne 無法取得足夠的權限進行關機。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1133
+msgid "Can't schedule shutdown"
+msgstr "無法進行排程關機"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1263
+#, c-format
+msgid "%u processes were politely killed."
+msgstr "%u 處理程序已被溫和地結束。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1263
+#, c-format
+msgid "%u processes were killed."
+msgstr "%u 處理程序已被結束。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1272
+#, c-format
+msgid "%u windows were closed."
+msgstr "%u 視窗已關閉。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1670
+#, c-format
+msgid "Process %s [%u] destroyed."
+msgstr "處理程序 %s [%u] 已銷毀。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1718
+#, c-format
+msgid "New process %s created."
+msgstr "新的處理程序 %s 已建立。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1899
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:363
+msgid "Hide"
+msgstr "隱藏"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1901
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:364
+msgid "Show"
+msgstr "顯示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1986
+#, c-format
+msgid "Uptime: %u days, %2u hours, %2u minutes, %2u seconds"
+msgstr "執行時間：%u 日，%2u 時，%2u 分，%2u 秒"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1987
+#, c-format
+msgid "CPU usage %3u%%"
+msgstr "CPU 使用量 %3u%%"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1990
+#, c-format
+msgid "Memory usage %3u%%"
+msgstr "記憶體使用量 %3u%%"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1991
+#, c-format
+msgid "Free memory %u MB"
+msgstr "可用記憶體 %u MB"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1992
+#, c-format
+msgid "Running processes: %4u"
+msgstr "正在執行的處理程序：%4u"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1993
+#, c-format
+msgid "Login: %s\\%s"
+msgstr "登入：%s\\%s"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1994
+#, c-format
+msgid "Installed CPUs: %2u"
+msgstr "已安裝的 CPU 數量：%2u"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2019
+#, c-format
+msgid "%s - %u%% CPU - %u hidden application"
+msgstr "%s - %u%% CPU - %u 隱藏應用程式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2021
+#, c-format
+msgid "%s - %u%% CPU - %u hidden applications"
+msgstr "%s - %u%% CPU - %u 隱藏應用程式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2255
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:129
+msgid "Main"
+msgstr "主功能"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2261
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:138
+msgid "Look and feel"
+msgstr "外觀"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2267
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:82
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:88
+msgid "Kill menu"
+msgstr "結束選單"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2273
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:58
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:62
+msgid "Traps"
+msgstr "陷阱"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2279
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:62
+msgid "Highlights"
+msgstr "高亮度顯示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2284
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:57
+msgid "More..."
+msgstr "更多..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2289
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:48
+msgid "Logging"
+msgstr "記錄"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2294
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:73
+msgid "Advanced"
+msgstr "進階"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2376
+msgid "Kill all by name"
+msgstr "依名稱結束所有處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2377
+msgid "Kill all by name (Polite)"
+msgstr "依名稱結束所有處理程序 (溫和地)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2378
+msgid "Run process..."
+msgstr "執行處理程序..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2379
+msgid "Run process as ..."
+msgstr "處理程序執行身份..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2380
+msgid "Close windows by name"
+msgstr "依名稱關閉視窗"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2381
+msgid "Schedule popup message"
+msgstr "排程彈出消息"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2382
+msgid "Schedule system shutdown"
+msgstr "排程系統關機"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2384
+msgid "Show CPU usage ..."
+msgstr "顯示 CPU 使用量..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2385
+msgid "Show process tree..."
+msgstr "顯示樹狀處理程序..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2386
+msgid "Show installed software..."
+msgstr "顯示已安裝的軟體..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2388
+msgid "Control inspector..."
+msgstr "控制項檢視器..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2389
+msgid "Hidden applications..."
+msgstr "已隱藏的應用程式..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2390
+msgid "Scheduled tasks..."
+msgstr "已排程的工作..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2392
+msgid "Copy process list to clipboard"
+msgstr "複製處理程序清單到剪貼簿"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2393
+msgid "Windows 7 God Mode..."
+msgstr "Windows 7 上帝模式..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2394
+msgid "Windows 7 Problem steps recorder..."
+msgstr "Windows 7 問題步驟收錄程式..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2414
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:366
+msgid "Show application"
+msgstr "顯示應用程式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2441
+msgid "About Daphne"
+msgstr "關於 Daphne"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2444
+msgid "Support..."
+msgstr "支援..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2445
+msgid "FAQ..."
+msgstr "FAQ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2446
+msgid "Daphne statistics..."
+msgstr "Daphne 統計資料..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2447
+msgid "Search drk.com.ar..."
+msgstr "搜尋 drk.com.ar..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2448
+msgid "Help"
+msgstr "說明"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2451
+msgid "Exit"
+msgstr "結束"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2507
+msgid "Connecting primary desktop..."
+msgstr "正在連線到主桌面..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2516
+#, c-format
+msgid "Looking up desktop %u..."
+msgstr "正在尋找桌面 %u..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2522
+#, c-format
+msgid "Creating desktop %u..."
+msgstr "正在建立桌面 %u..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2761
+msgid "You have to use the WIDTHxHEIGHT format. For example 640x480."
+msgstr "您必須使用寬度x高度格式。例如 640x480。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2761
+msgid "Invalid size format"
+msgstr "無效的大小格式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2856
+msgid "Amount of physical memory left before swapping occurs."
+msgstr "交換之前剩餘的實體記憶體數量。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2859
+msgid "Memory used so far in percent."
+msgstr "目前記憶體使用率。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2862
+msgid "CPU time requested in percent."
+msgstr "需求的 CPU 時間百分比。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2865
+msgid "Time the system has been up and running."
+msgstr "系統啟動並持續執行的時間。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2868
+msgid ""
+"Drag this target over a window to execute the action selected in the combo "
+"box."
+msgstr "將目標拖動到視窗上以執行在組合框中選擇的動作。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2871
+msgid "Selects the action for the drag and drop target tool."
+msgstr "選擇拖曳目標工具的動作。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2874
+msgid "Displays full path and command line arguments if possible."
+msgstr "顯示完整的路徑和命令行參數 (假如可能的話)。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2877
+msgid "Keeps Daphne main window always on top."
+msgstr "將 Daphne 主視窗維持總在最上層。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2880
+msgid "Opens Daphne main menu."
+msgstr "開啟 Daphne 主選單。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2883
+msgid "Running process list."
+msgstr "正在執行的處理程序清單。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2886
+msgid "Open configuration screen."
+msgstr "開啟組態畫面。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3063
+msgid " About Daphne"
+msgstr " 關於 Daphne"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3065
+msgid "License"
+msgstr "授權"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3066
+msgid "Contributed"
+msgstr "貢獻者"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3067
+msgid "Technical support at www.drk.com.ar"
+msgstr "www.drk.com.ar 上的技術支援"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3068
+msgid "Contribute"
+msgstr "貢獻"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3119
+msgid "Window hidden"
+msgstr "隱藏的視窗"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3273
+#, c-format
+msgid ""
+"%s was released and is ready to be downloaded.\n"
+"\n"
+"What's new:\n"
+"%s\n"
+"Would you like to visit download web page?"
+msgstr ""
+"%s 已發佈且可於官網下載。\n"
+"\n"
+"更新內容：\n"
+"%s\n"
+"您是否要訪問官網下載頁面？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3277
+msgid "Daphne web updates"
+msgstr "Daphne 網站更新"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3596
+msgid ""
+"Daphne isn't able to switch Desktop\n"
+"It can be a configuration problem.\n"
+"Please reconfigure or restart Daphne and it will appear on next startup."
+msgstr ""
+"Daphne 無法切換桌面\n"
+"可能存在組態問題。\n"
+"請重新組態或重新啟動 Daphne 以顯示組態視窗。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3617
+msgid "Are you sure you want to kill this process?"
+msgstr "您確定您想要結束此處理程序嗎？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3643
+msgid "System is going down!"
+msgstr "系統正在進行關機！"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3843
+msgid "Scheduled message"
+msgstr "已排程的消息"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3930
+#, c-format
+msgid "%s display %s"
+msgstr "%s 顯示 %s"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3956
+#, c-format
+msgid "%s system shutdown."
+msgstr "%s 系統關機。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3959
+#, c-format
+msgid "%s system restart."
+msgstr "%s 系統重新啟動。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3962
+#, c-format
+msgid "%s system log off."
+msgstr "%s 系統登出。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3975
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3987
+#, c-format
+msgid "Unable to kill scheduled process %s, PID %u."
+msgstr "無法結束排程的處理程序 %s，PID %u。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3980
+#, c-format
+msgid "Politely killed scheduled process %s, PID %u."
+msgstr "已溫和地結束排程的處理程序 %s，PID %u。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3992
+#, c-format
+msgid "Killed scheduled process %s, PID %u."
+msgstr "已結束排程的處理程序 %s，PID %u。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3999
+#, c-format
+msgid "Can't find scheduled process %s, PID %u."
+msgstr "找不到排程的處理程序 %s，PID %u。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:4005
+#, c-format
+msgid "%s kill %s [%u]"
+msgstr "%s 結束 %s [%u]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:40
+msgid "Protect our planet"
+msgstr "保護我們的星球"
+
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:43
+msgid ""
+"The system has been up for a long time. If you don't need to keep the "
+"computer\n"
+" running overnight really, please consider turning it off.\n"
+"Help fighting the climate change!\n"
+"\n"
+"Click OK for more information about energy saving.\n"
+"\n"
+"(You won't see this windows again)"
+msgstr ""
+"系統已經執行很長的時間。假如您不需要電腦\n"
+"日夜不停的執行，請考慮關機。\n"
+"為全球氣候變化盡一份心力！\n"
+"\n"
+"點選「確定」以取得更多關於節能減排的資訊。\n"
+"\n"
+"(之後不會再顯示本視窗)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:192
+msgid " Inspector"
+msgstr " 檢視器"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:193
+msgid ""
+"Drag the magnifying glass over windows and controls to inspect its "
+"properties."
+msgstr "將放大鏡拖動到視窗或控制項上以檢視其內容。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:194
+msgid "Title:"
+msgstr "標題："
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:195
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:125
+msgid "Class:"
+msgstr "類別："
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:196
+msgid "Text:"
+msgstr "文字："
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:197
+msgid "Location:"
+msgstr "位置："
+
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:198
+msgid "Size:"
+msgstr "大小："
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:83
+msgid " Kill all by name"
+msgstr " 依名稱結束所有處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:65
+msgid "Process name:"
+msgstr "處理程序名稱："
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:97
+msgid " (Polite)"
+msgstr " (溫和地)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:52
+msgid " Kill at..."
+msgstr " 排程結束時間..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:55
+msgid "Process to kill:"
+msgstr "欲結束處理程序："
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:56
+msgid "Select date and time to kill the process at:"
+msgstr "選擇結束處理程序的日期和時間："
+
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:57
+msgid "Be polite"
+msgstr "溫和些"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:85
+msgid " Kill menu item"
+msgstr " 結束選單項目"
+
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:88
+msgid "Menu name:"
+msgstr "選單名稱："
+
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:89
+msgid "Process list (case sensitive)"
+msgstr "處理程序清單 (區分大小寫)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:53
+msgid " Installed software list"
+msgstr " 已安裝的軟體清單"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:62
+msgid "Software"
+msgstr "軟體"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:63
+msgid "Version"
+msgstr "版本"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:64
+msgid "Publisher"
+msgstr "發行者"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:65
+msgid "Publisher WEB"
+msgstr "發行者網站"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:215
+msgid "Uninstall"
+msgstr "解除安裝"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:270
+msgid "Uninstall information is not available"
+msgstr "解除安裝資訊不可用"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:275
+#, c-format
+msgid "Are you sure you want to remove %s from this computer?"
+msgstr "您確定想要將 %s 從本電腦中移除嗎？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:276
+msgid "Warning: this can not be undone"
+msgstr "警告：此操作無法被復原"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:303
+msgid "Unable to run uninstaller"
+msgstr "無法執行解除安裝程式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:333
+msgid "Export installed software list to..."
+msgstr "匯出已安裝的軟體清單到..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:49
+msgid " Web updates"
+msgstr " 網站更新"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:50
+msgid ""
+"Daphne is about to check the web for updates. This is done without sending "
+"any personally identifiable information to the web site."
+msgstr ""
+"Daphne 準備連線到官網檢查有無更新。該動作不會傳送有關您的任何個人資訊到官網。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:51
+msgid "Do you want to check for updates at internet?"
+msgstr "您是否要透過網際網路檢查有無更新？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:52
+msgid "Yes"
+msgstr "是"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:53
+msgid "No"
+msgstr "否"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:50
+msgid " Message at..."
+msgstr " 排程消息時間..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:53
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:80
+msgid "Message:"
+msgstr "消息："
+
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:54
+msgid "Select date and time to display message at:"
+msgstr "選擇顯示消息的日期和時間："
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:62
+msgid " Trap..."
+msgstr " 陷阱..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:66
+msgid "Action:"
+msgstr "動作："
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:68
+msgid "Generic 64 bits argument:"
+msgstr "通用 64 位元參數："
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:71
+msgid "Use a 16 digit hexadecimal number here."
+msgstr "在此處使用 16 位的十六進制數。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:74
+msgid "Install system wide Daphne activation shortcut"
+msgstr "安裝全系統 Daphne 啟動快速鍵"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:75
+msgid "Shift"
+msgstr "Shift"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:76
+msgid "Alt"
+msgstr "Alt"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:77
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:78
+msgid "Advanced options"
+msgstr "進階選項"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:79
+msgid "Show all hidden applications on exit"
+msgstr "結束時顯示所有已隱藏的應用程式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:80
+msgid "Try to hide Java VM from command line"
+msgstr "嘗試隱藏命令行的 Java 虛擬機器"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:81
+msgid "Don't check Debug programs privilege on startup"
+msgstr "程式啟動時不檢查除錯程式的權限"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:82
+msgid "Store configuration"
+msgstr "儲存組態"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:83
+msgid "Using Daphne.INI file"
+msgstr "使用 Daphne.INI 檔案"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:84
+msgid "Using Windows registry"
+msgstr "使用系統登錄檔"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:63
+msgid "Add process names to highlight in the main list:"
+msgstr "加入要在主清單中高亮度顯示的處理程序名稱："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:64
+msgid "Highlight system process with blue"
+msgstr "使用藍色高亮度顯示系統處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:65
+#, c-format
+msgid "Hightlight process over 95% CPU in red"
+msgstr "使用紅色高亮度顯示超過 95% CPU 佔用率的處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:66
+msgid "Highlight orange, process with more than 20% of memory used"
+msgstr "使用橙色高亮度顯示超過 20% 記憶體使用量的處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:83
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:59
+msgid "Add"
+msgstr "加入"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:60
+msgid "Edit"
+msgstr "編輯"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:85
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:61
+msgid "Remove"
+msgstr "移除"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:141
+msgid "Up"
+msgstr "上移"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:142
+msgid "Down"
+msgstr "下移"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:221
+#, c-format
+msgid "Removing %s"
+msgstr "正在移除 %s"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:222
+msgid ""
+"You are about to remove a kill menu item. This action can't be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+"你正準備移除一個結束選單項目。該動作無法被復原。\n"
+"\n"
+"您確定嗎？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:49
+msgid "Logging options"
+msgstr "記錄選項"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:50
+msgid "Log started and ended process"
+msgstr "記錄開始和結束處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:74
+msgid "Log process activity to..."
+msgstr "將處理程序活動狀況記錄到..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:139
+msgid "Main window and tray icon"
+msgstr "主視窗和通知區域圖示"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:140
+msgid "Process list colum order"
+msgstr "處理程序清單欄位順序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:143
+msgid "Window transparence"
+msgstr "視窗透明度"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:144
+msgid "Animate tray icon with CPU usage."
+msgstr "通知區域圖示動畫顯示 CPU 使用量"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:58
+msgid "Multidesktop options"
+msgstr "多重桌面選項"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:59
+msgid "Enable Multidesktop feature (at Daphne's startup)"
+msgstr "啟用多重桌面功能 (當 Daphne 啟動時)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:60
+msgid "Extra desktops"
+msgstr "額外桌面"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:61
+msgid "Integration options"
+msgstr "整合選項"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:62
+msgid "Enable Windows Explorer integration"
+msgstr "啟用 Windows 檔案總管整合"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:63
+msgid "Run slots"
+msgstr "執行函式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:66
+msgid "Run these commands with Ctrl-Shift-F1 to F4"
+msgstr "使用 Ctrl-Shift-F1 - F4 執行這些命令"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:67
+msgid "Run this command with Ctrl-Shift-F1"
+msgstr "使用 Ctrl-Shift-F1 執行此命令"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:68
+msgid "Run this command with Ctrl-Shift-F2"
+msgstr "使用 Ctrl-Shift-F2 執行此命令"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:69
+msgid "Run this command with Ctrl-Shift-F3"
+msgstr "使用 Ctrl-Shift-F3 執行此命令"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:70
+msgid "Run this command with Ctrl-Shift-F4"
+msgstr "使用 Ctrl-Shift-F4 執行此命令"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:187
+msgid ""
+"This feature is experimental. It won't damage your computer but,\n"
+"if you notice strange behavior after enabling it. Turn it off\n"
+"and report the situation."
+msgstr ""
+"該功能尚在實驗階段，並不會損壞您的電腦，\n"
+"但是如果您在啟用後察覺到怪異的行為，請\n"
+"將其關閉並向開發者回報狀況。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:187
+msgid "Daphne multidesktop feature"
+msgstr "Daphne 多重桌面功能"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:130
+msgid "Daphne startup"
+msgstr "Daphne 啟動"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:131
+msgid "Behavior"
+msgstr "行為"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:132
+msgid "Proxy server:"
+msgstr "代理伺服器："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:133
+msgid "Use HTTP proxy"
+msgstr "使用 HTTP 代理"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:134
+msgid "Start Daphne automatically when starting Windows"
+msgstr "Daphne 隨系統開機自動啟動"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:135
+msgid "Always hide Daphne on startup"
+msgstr "啟動時總是隱藏 Daphne"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:136
+msgid "Check internet for Daphne updates on startup"
+msgstr "Daphne 啟動時透過網際網路檢查有無更新"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:137
+msgid "Alternate list item background color"
+msgstr "清單項目背景色彩交替變化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:138
+msgid "Hide zombie processes"
+msgstr "隱藏殭屍處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:139
+msgid "Fast refresh"
+msgstr "快速重新整理"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:65
+msgid "Process name"
+msgstr "處理程序名稱"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:66
+msgid "Action"
+msgstr "動作"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:67
+msgid "Window title contains"
+msgstr "視窗標題包含"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:121
+msgid "Can't edit this trap"
+msgstr "無法編輯此陷阱"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:121
+msgid "Sorry"
+msgstr "抱歉"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:135
+#, c-format
+msgid "Are you sure you want to remove the selected trap on %s?"
+msgstr "您確定想要移除 %s 上選擇的陷阱嗎？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:136
+#, c-format
+msgid "Removing \"%s\""
+msgstr "正在移除 \"%s\""
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:47
+msgid " Process tree"
+msgstr " 樹狀處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:49
+msgid ""
+"This tree is a snapshot and won't be updated until the dialog is closed and "
+"opened again."
+msgstr "該樹狀檢視為快照，只有當對話框重新被開啟時才會更新。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:121
+msgid "Quick search by process name enabled."
+msgstr "依處理程序名稱快速搜尋已啟用。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:123
+msgid "Quick search by process name disabled."
+msgstr "依處理程序名稱快速搜尋已停用。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:151
+#, c-format
+msgid "Highlighting %s..."
+msgstr "正在高亮度顯示 %s..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:114
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:54
+msgid " Properties"
+msgstr " 內容"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:116
+msgid "...DRK search"
+msgstr "...DRK 搜尋"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:117
+msgid "Environment"
+msgstr "環境"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:118
+msgid "Modules"
+msgstr "模組"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:120
+msgid "More information"
+msgstr "更多資訊"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:121
+msgid "Windows"
+msgstr "視窗"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:122
+msgid "Process:"
+msgstr "處理程序："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:123
+msgid "CmdLine:"
+msgstr "命令行："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:124
+msgid "Priority:"
+msgstr "優先權："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:126
+msgid "Created:"
+msgstr "建立時間："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:127
+msgid "Kernel time:"
+msgstr "核心時間："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:128
+msgid "User time:"
+msgstr "使用者時間："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:129
+msgid "Parent:"
+msgstr "父級："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:130
+msgid "Owner:"
+msgstr "所有者："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:131
+msgid "Min/max working set size:"
+msgstr "最小/最大工作集大小："
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:150
+msgid "ThreadID"
+msgstr "執行緒 ID"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:151
+msgid "References"
+msgstr "參照"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:153
+msgid "CPU Time"
+msgstr "CPU 時間"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:193
+msgid "Not available"
+msgstr "不可用"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:197
+msgid "Service ["
+msgstr "服務 ["
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:203
+msgid "paused]"
+msgstr "已暫停]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:206
+msgid "running]"
+msgstr "正在執行]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:209
+msgid "stoped]"
+msgstr "已停止]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:212
+msgid "continue pending]"
+msgstr "繼續擱置]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:215
+msgid "start pending]"
+msgstr "開始擱置]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:218
+msgid "stop pending]"
+msgstr "停止擱置]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:221
+msgid "pause pending]"
+msgstr "暫停擱置]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:369
+msgid "Make resizable"
+msgstr "使其可以調整大小"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:370
+msgid "Quit caption"
+msgstr "結束標題"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:371
+msgid "Add caption"
+msgstr "加入標題"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:373
+msgid "Minimize"
+msgstr "最小化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:374
+msgid "Restore"
+msgstr "還原"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:375
+msgid "Maximize"
+msgstr "最大化"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:378
+msgid "Send message"
+msgstr "傳送消息"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:578
+msgid ""
+"Daphne was unable to get environment information.\n"
+"This feature is known to fail\n"
+"on some Windows versions."
+msgstr ""
+"Daphne 無法取得環境資訊。\n"
+"無法在某些 Windows 版本上\n"
+"使用該功能。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:594
+msgid ""
+"Read operation count %I64u\n"
+"Write operation count %I64u\n"
+"Other operation count %I64u\n"
+"Read transfer %I64u KBytes\n"
+"Write operation %I64u KBytes\n"
+"Other operation %I64u KBytes\n"
+msgstr ""
+"讀取操作計數 %I64u\n"
+"寫入操作計數 %I64u\n"
+"其它操作計數 %I64u\n"
+"讀取傳輸 %I64u KBytes\n"
+"寫入操作 %I64u KBytes\n"
+"其它操作 %I64u KBytes\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:647
+msgid "Suspend"
+msgstr "擱置"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:648
+msgid "Resume"
+msgstr "繼續"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:649
+msgid "Terminate"
+msgstr "終止"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:652
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:169
+msgid "Time critical"
+msgstr "即時"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:653
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:161
+msgid "Highest"
+msgstr "最高"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:654
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:157
+msgid "Above normal"
+msgstr "標準以上"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:656
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:159
+msgid "Below normal"
+msgstr "標準以下"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:657
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:165
+msgid "Lowest"
+msgstr "最低"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:658
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:163
+msgid "IDLE"
+msgstr "閒置"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:197
+msgid " Run process"
+msgstr " 執行處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:198
+msgid "Start process suspended"
+msgstr "以擱置狀態啟動處理程序"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:199
+msgid "Run"
+msgstr "執行"
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:201
+msgid "Program:"
+msgstr "程式："
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:202
+msgid "Arguments:"
+msgstr "參數："
+
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:203
+msgid "Directory:"
+msgstr "目錄："
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:41
+msgid " Scheduled tasks"
+msgstr " 已排程的工作"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:93
+msgid "Remove task"
+msgstr "移除工作"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:120
+msgid "Task removed."
+msgstr "工作已移除。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:67
+msgid " Shutdown at..."
+msgstr " 排程關機時間..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:70
+msgid "Schedule system shutdown at:"
+msgstr "排程系統關機時間："
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:72
+msgid "Shutdown"
+msgstr "關機"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:73
+msgid "Restart"
+msgstr "重新啟動"
+
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:74
+msgid "Log off"
+msgstr "登出"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:77
+msgid " Send message..."
+msgstr " 傳送消息..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:81
+msgid "lParam:"
+msgstr "lParam："
+
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:82
+msgid "wParam:"
+msgstr "wParam："
+
+#: E:\Users\leandro\DATA\VC\Daphne\Software.cpp:51
+msgid "[Binary data]"
+msgstr "[二進位資料]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:56
+msgid "Version:"
+msgstr "版本："
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:57
+msgid "Website:"
+msgstr "網站："
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:58
+msgid "Publisher:"
+msgstr "發行者："
+
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:59
+msgid "Raw information view"
+msgstr "原生資訊檢視"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SplashMDInit.cpp:42
+msgid " Daphne multidesktop"
+msgstr " Daphne 多重桌面"
+
+#: E:\Users\leandro\DATA\VC\Daphne\SplashMDInit.cpp:43
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:63
+#, c-format
+msgid "%08Xh - References %u - Priority %u/%u"
+msgstr "%08Xh - 參照 %u - 優先權 %u/%u"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:114
+msgid "Notify process created"
+msgstr "通知處理程序被建立"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:135
+msgid "Set priority to real-time"
+msgstr "優先權設定為即時"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:138
+msgid "Set priority to high"
+msgstr "優先權設定為高"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:141
+msgid "Set priority to normal"
+msgstr "優先權設定為標準"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:144
+msgid "Set priority to low"
+msgstr "優先權設定為低"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:147
+msgid "Notify process destroyed"
+msgstr "通知處理程序被銷毀"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:150
+msgid "Set process affinity mask"
+msgstr "設定處理程序相關性遮罩"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:153
+msgid "Keep windows position and size"
+msgstr "維持視窗位置和大小"
+
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:87
+msgid " Win32 values"
+msgstr " Win32 數值"
+
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:90
+msgid "Filter:"
+msgstr "過濾器："
+
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:47
+msgid " Set window size"
+msgstr " 設定視窗大小："
+
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:50
+msgid "New window size:"
+msgstr "新增視窗大小："
+
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:51
+msgid "Load predefined size:"
+msgstr "載入預定義大小："
+
+#: E:\Users\leandro\DATA\VC\Daphne\WndsPopUp.cpp:72
+msgid " Hidden applications"
+msgstr " 已隱藏的應用程式"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:18
+msgid ""
+"Usage: dc [command]\n"
+"\n"
+msgstr ""
+"用法：dc [command]\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:19
+msgid ""
+"pstree\n"
+" show process list as hierarchy tree (default)\n"
+"\n"
+msgstr ""
+"pstree\n"
+" 以樹狀結構顯示處理程序清單 (預設)\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:20
+msgid ""
+"ps\n"
+" show process list\n"
+"\n"
+msgstr ""
+"ps\n"
+" 顯示處理程序清單\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:21
+msgid ""
+"kill <pid>\n"
+" kill process by PID\n"
+"\n"
+msgstr ""
+"kill <pid>\n"
+" 依 PID 結束處理程序\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:22
+msgid ""
+"killall <name>\n"
+" kill all process by name\n"
+"\n"
+msgstr ""
+"killall <name>\n"
+" 依名稱結束所有處理程序\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:23
+msgid ""
+"killmenu <item>\n"
+" execute a previously configured Daphne's kill menu\n"
+"\n"
+msgstr ""
+"killmenu <item>\n"
+" 執行一個已組態的 Daphne 結束選單\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:24
+msgid ""
+"showchildren <pid>\n"
+" list processes started by PID, including PID\n"
+"\n"
+msgstr ""
+"showchildren <pid>\n"
+" 列舉由該 PID 所啟動的處理程序，包含該 PID\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:25
+msgid ""
+"killchildren <pid>\n"
+" kill processes started by PID, including PID\n"
+"\n"
+msgstr ""
+"killchildren <pid>\n"
+" 結束由該 PID 所啟動的處理程序，包含該 PID\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:26
+msgid ""
+"hashshow <hash> <filename>\n"
+" compute and show MD5 or SHA1 hash for this file\n"
+"\n"
+msgstr ""
+"hashshow <hash> <filename>\n"
+" 計算並顯示此檔案的 MD5 或 SHA1 雜湊值\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:27
+msgid ""
+"hashcreatefile <hash> <filename>\n"
+" create a file with computed MD5 or SHA1 hash for this file\n"
+"\n"
+msgstr ""
+"hashcreatefile <hash> <filename>\n"
+" 使用此檔案計算出的 MD5 或 SHA1 雜湊值建立一個檔案\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:28
+msgid ""
+"hashvalidatefile <hash> <filename>\n"
+" compute MD5 or SHA1 hash for this file and compare with hashfile\n"
+"\n"
+msgstr ""
+"hashvalidatefile <hash> <filename>\n"
+" 計算此檔案的 MD5 或 SHA1 雜湊值並與雜湊檔案比較\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:29
+msgid ""
+"help\n"
+" show command line help\n"
+"\n"
+msgstr ""
+"help\n"
+" 顯示命令行說明\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShell.cpp:180
+msgid "Can't open restart manager session."
+msgstr "無法打開重新啟動管理員工作階段。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShell.cpp:188
+msgid "This file is not in use."
+msgstr "此檔案未被使用。"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:83
+msgid "Full path to clipboard"
+msgstr "完整路徑到剪貼簿"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:84
+msgid "Name to clipboard"
+msgstr "名稱到剪貼簿"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:86
+msgid "Open CMD here..."
+msgstr "在此處開啟命令提示字元..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:95
+msgid "File listing to clipboard"
+msgstr "檔案列舉到剪貼簿"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:96
+msgid "Full path file listing to clipboard"
+msgstr "完整路徑檔案列舉到剪貼簿"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:97
+msgid "Google this folder..."
+msgstr "使用 Google 搜尋此資料夾..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:98
+msgid "Who is using this folder?"
+msgstr "誰正在使用此資料夾？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:105
+msgid "Run with arguments..."
+msgstr "以參數執行..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:107
+msgid "Google this file..."
+msgstr "使用 Google 搜尋此檔案..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:108
+msgid "Who is using this file?"
+msgstr "誰正在使用此檔案？"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:109
+msgid "Compute MD5"
+msgstr "計算 MD5"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:110
+msgid "Compute SHA1"
+msgstr "計算 SHA1"

@@ -1,0 +1,1446 @@
+# DAPHNE Internationalization
+# Copyright (C) 2008 by Leandro H. Fernández
+# This file is distributed under the same license as the Daphne package.
+# drkbugs@gmail.com 2008
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DAPHNE 132\n"
+"Report-Msgid-Bugs-To: drkbugs@gmail.com\n"
+"POT-Creation-Date: 2005-09-07 20:35-0300\n"
+"PO-Revision-Date: 2008-11-15 22:27-0200\n"
+"Last-Translator: Leandro <drkbugs@gmail.com>\n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Hebrew\n"
+
+# c:\DATA\VC\Daphne\AuthUserDlg.cpp:76
+msgid "Invalid username or password"
+msgstr ""
+
+# c:\DATA\VC\Daphne\AuthUserDlg.cpp:76
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:219 c:\DATA\VC\Daphne\lssoftDlg.cpp:234
+msgid "ERROR"
+msgstr "שגיאה"
+
+# c:\DATA\VC\Daphne\AuthUserDlg.cpp:84
+msgid " Authenticate user"
+msgstr ""
+
+# c:\DATA\VC\Daphne\AuthUserDlg.cpp:85
+# c:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:52
+# c:\DATA\VC\Daphne\GreenDlg.cpp:41
+# c:\DATA\VC\Daphne\KillAllDlg.cpp:81
+# c:\DATA\VC\Daphne\KillAtDlg.cpp:51
+# c:\DATA\VC\Daphne\KMIEditDlg.cpp:86
+# c:\DATA\VC\Daphne\NewTrapDlg.cpp:61
+# c:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:66
+# c:\DATA\VC\Daphne\SendMsgDlg.cpp:78
+# c:\DATA\VC\Daphne\W32Values.cpp:88
+msgid "OK"
+msgstr "אישור"
+
+# c:\DATA\VC\Daphne\AuthUserDlg.cpp:86
+# c:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:53
+# c:\DATA\VC\Daphne\GreenDlg.cpp:42
+# c:\DATA\VC\Daphne\KillAllDlg.cpp:82
+# c:\DATA\VC\Daphne\KillAtDlg.cpp:52
+# c:\DATA\VC\Daphne\KMIEditDlg.cpp:87
+# c:\DATA\VC\Daphne\NewTrapDlg.cpp:62
+# c:\DATA\VC\Daphne\RunProcDlg.cpp:195
+# c:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:67
+# c:\DATA\VC\Daphne\SendMsgDlg.cpp:79
+# c:\DATA\VC\Daphne\W32Values.cpp:89
+msgid "Cancel"
+msgstr "ביטול"
+
+# c:\DATA\VC\Daphne\AuthUserDlg.cpp:87
+msgid "Username:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\AuthUserDlg.cpp:88
+msgid "Password:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:51
+msgid " Close all windows by title"
+msgstr ""
+
+# c:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:54
+# c:\DATA\VC\Daphne\NewTrapDlg.cpp:65
+msgid "Window title contains:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:55
+# c:\DATA\VC\Daphne\KillAllDlg.cpp:84
+msgid "case-sensitive"
+msgstr ""
+
+# c:\DATA\VC\Daphne\CrashDlg.cpp:79
+msgid " Daphne - Crash"
+msgstr ""
+
+# c:\DATA\VC\Daphne\CrashDlg.cpp:80
+msgid "SEND"
+msgstr "לשלוח"
+
+# c:\DATA\VC\Daphne\CrashDlg.cpp:81
+msgid "Quit"
+msgstr "לעזוב"
+
+# c:\DATA\VC\Daphne\CrashDlg.cpp:82
+msgid "An unhandled exception has crashed Daphne. Please, press SEND to report this problem by mail."
+msgstr ""
+
+# c:\DATA\VC\Daphne\CrashDlg.cpp:83
+msgid "Error information"
+msgstr ""
+
+# c:\DATA\VC\Daphne\CrashDlg.cpp:84
+msgid "* You will see the mail before sending."
+msgstr ""
+
+# c:\DATA\VC\Daphne\Daphne.cpp:1050
+msgid "Unable to initialize Sockets API."
+msgstr ""
+
+# c:\DATA\VC\Daphne\Daphne.cpp:1105
+msgid "Another instance of Daphne is already running."
+msgstr ""
+
+# c:\DATA\VC\Daphne\Daphne.cpp:1105
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1072 c:\DATA\VC\Daphne\DaphneDlg.cpp:1081
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2509 c:\DATA\VC\Daphne\DaphneDlg.cpp:2925
+msgid "Daphne"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:274
+msgid "Unable to register global shortcut. Multidesktop may not work."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:274 c:\DATA\VC\Daphne\DaphneDlg.cpp:2904
+# c:\DATA\VC\Daphne\Utility.cpp:161
+msgid "Error"
+msgstr "שגיאה"
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:279
+msgid "Full path and arguments"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:280
+msgid "Always on top"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:281
+msgid "Daphne >"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:282 c:\DATA\VC\Daphne\DaphneDlg.cpp:1761
+msgid "Settings..."
+msgstr "...הגדרות"
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:284
+msgid "Find"
+msgstr " למצוא"
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:285 c:\DATA\VC\Daphne\DaphneDlg.cpp:802
+# c:\DATA\VC\Daphne\Trap.cpp:89
+msgid "Kill"
+msgstr "להרוג"
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:286
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:336
+# c:\DATA\VC\Daphne\Trap.cpp:92
+msgid "Hide application"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:287
+# c:\DATA\VC\Daphne\Trap.cpp:95
+msgid "Set on top"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:288
+# c:\DATA\VC\Daphne\Trap.cpp:98
+msgid "Unset on top"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:289
+msgid "Set alpha 100%"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:290
+# c:\DATA\VC\Daphne\Trap.cpp:101
+msgid "Set alpha 75%"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:291
+# c:\DATA\VC\Daphne\Trap.cpp:104
+msgid "Set alpha 50%"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:292
+msgid "Unset alpha"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:293
+msgid "Enable"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:294
+msgid "Disable"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:335
+msgid "&About Daphne..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:359 c:\DATA\VC\Daphne\DaphneDlg.cpp:868
+msgid "PID"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:360 c:\DATA\VC\Daphne\DaphneDlg.cpp:679
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:180
+msgid "Process"
+msgstr " תהליך"
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:361 c:\DATA\VC\Daphne\DaphneDlg.cpp:869
+msgid "Path"
+msgstr " שביל"
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:362
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:134
+msgid "Priority"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:363
+msgid "Class"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:364
+msgid "Memory"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:365
+msgid "PeakMemoryUsage"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:366
+msgid "Swap"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:367
+msgid "PeakSwapUsage"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:368
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:106
+msgid "Threads"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:369
+#, c-format
+msgid "%CPU"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:522
+msgid "Daphne needs 'Debug programs' privilges in order to show full process list. Do you want to check DRK web site for a check list of the procedure? (If you click Cancel you won't see this warning again)"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:522
+msgid "Your account lacks debug privileges"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:677
+msgid "Service"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:707 c:\DATA\VC\Daphne\DaphneDlg.cpp:815
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:162
+msgid "High"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:710 c:\DATA\VC\Daphne\DaphneDlg.cpp:816
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:165
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:592
+# c:\DATA\VC\Daphne\Thread.cpp:167
+msgid "Normal"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:713 c:\DATA\VC\Daphne\DaphneDlg.cpp:817
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:168
+msgid "Low"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:716 c:\DATA\VC\Daphne\DaphneDlg.cpp:814
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:171
+msgid "Real time"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:719
+# c:\DATA\VC\Daphne\Thread.cpp:172
+msgid "N/A"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:803
+msgid "Kill politely"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:804
+msgid "Kill at..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:805
+msgid "Kill politely at..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:808
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:333
+msgid "Set focus"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:809
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:338
+msgid "Set allways on top"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:810
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:339
+msgid "Unset allways on top"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:811
+msgid "Create trap"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:833
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:620
+msgid "Set priority"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:838
+msgid "Start service"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:839
+msgid "Continue service"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:840
+msgid "Pause service"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:841
+msgid "Stop service"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:866
+msgid "Copy name"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:870
+msgid "Path and arguments"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:871
+msgid "Copy..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:873
+msgid "Look up into DRK DB..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:874
+msgid "Submit to DRK DB..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:876
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:166
+msgid "Properties"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:971
+msgid "Daphne was unable to get enough privileges for a system shutdown."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:971
+msgid "Can't schedule shutdown"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1071
+#, c-format
+msgid "%u processes were politely killed."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1071
+#, c-format
+msgid "%u processes were killed."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1080
+#, c-format
+msgid "%u windows were closed."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1343
+#, c-format
+msgid "New process %s created."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1437
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:334
+msgid "Hide"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1439
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:335
+msgid "Show"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1441
+msgid "About Daphne"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1442
+msgid "Search the web..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1444
+msgid "Exit"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1524
+#, c-format
+msgid "Uptime: %u days, %2u hours, %2u minutes, %2u seconds"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1530
+#, c-format
+msgid "CPU usage %3u%%"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1534
+#, c-format
+msgid "Memory usage %3u%%"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1536
+#, c-format
+msgid "Free memory %u MB"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1551
+#, c-format
+msgid "%s - %u%% CPU - %u hidden application"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1553
+#, c-format
+msgid "%s - %u%% CPU - %u hidden applications"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1764
+# c:\DATA\VC\Daphne\PPStartup.cpp:129
+msgid "Main"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1769
+# c:\DATA\VC\Daphne\PPLook.cpp:135
+msgid "Look and feel"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1774
+# c:\DATA\VC\Daphne\PPKill.cpp:82 c:\DATA\VC\Daphne\PPKill.cpp:88
+msgid "Kill menu"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1779
+# c:\DATA\VC\Daphne\PPTraps.cpp:58 c:\DATA\VC\Daphne\PPTraps.cpp:62
+msgid "Traps"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1784
+# c:\DATA\VC\Daphne\PPHighlight.cpp:62
+msgid "Highlights"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1788
+# c:\DATA\VC\Daphne\PPMultidesktop.cpp:46
+msgid "Multidesktop"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1792
+# c:\DATA\VC\Daphne\PPAdv.cpp:73
+msgid "Advanced"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1865
+msgid "Kill all by name"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1866
+msgid "Kill all by name (Polite)"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1867
+msgid "Run process..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1868
+msgid "Run process as ..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1869
+msgid "Close windows by name"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1870
+msgid "Schedule system shutdown"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1872
+msgid "Show process tree..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1873
+msgid "Show installed software..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1875
+msgid "Control inspector..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1876
+msgid "Hidden applications..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1877
+msgid "Scheduled tasks..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1895
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:337
+msgid "Show application"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1968
+msgid "Connecting primary desktop..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1977
+#, c-format
+msgid "Looking up desktop %u..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:1983
+#, c-format
+msgid "Creating desktop %u..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2226
+msgid "Amount of physical memory left before swapping occurs."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2229
+msgid "Memory used so far in percent."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2232
+msgid "CPU time requested in percent."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2235
+msgid "Time the system has been up and running."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2238
+msgid "Drag this target over a window to execute the action selected in the combo box."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2241
+msgid "Selects the action for the drag and drop target tool."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2244
+msgid "Displays full path and command line arguments if possible."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2247
+msgid "Keeps Daphne main window always on top."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2250
+msgid "Opens Daphne main menu."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2253
+msgid "Running process list."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2256
+msgid "Open configuration screen."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2397
+msgid " About Daphne"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2398
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:48
+# c:\DATA\VC\Daphne\ProcessTreeDlg.cpp:45
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:102
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:347
+# c:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:55
+msgid "Close"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2399
+msgid "License"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2400
+msgid "Contributed"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2401
+msgid "Thanks to Adrián, Santiago, Nico and Juan."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2402
+msgid "Giacomo Margarito - Italian translation"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2403
+msgid "He Zhenwei - Chinese translation"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2404
+msgid "Marc Cueni - French translation"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2405
+msgid "Bunny Forth - Chinese translation contributor"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2406
+msgid "Arno Krumpholz - German translation"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2407
+msgid "Vicent Adam - Valencian translation"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2408
+msgid "Michal Trzebiatowski - Polish translation"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2409
+msgid "Technical support at forum.drk.com.ar"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2457
+msgid "Window hidden"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2597
+msgid "There is a new version of Daphne ready to download. Would you like to visit download web page?"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2597
+msgid "Daphne web updates"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2904
+msgid ""
+"Daphne isn't able to switch Desktop\n"
+"It can be a configuration problem.\n"
+"Please reconfigure or restart Daphne and it will appear on next startup."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2925
+msgid "Are you sure you want to kill this process?"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2965
+msgid "System is going down!"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2991
+#, c-format
+msgid "%s system shutdown."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2994
+#, c-format
+msgid "%s system restart."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:2997
+#, c-format
+msgid "%s system log off."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:3010 c:\DATA\VC\Daphne\DaphneDlg.cpp:3022
+#, c-format
+msgid "Unable to kill scheduled process %s, PID %u."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:3015
+#, c-format
+msgid "Politely killed scheduled process %s, PID %u."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:3027
+#, c-format
+msgid "Killed scheduled process %s, PID %u."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:3034
+#, c-format
+msgid "Can't find scheduled process %s, PID %u."
+msgstr ""
+
+# c:\DATA\VC\Daphne\DaphneDlg.cpp:3040
+#, c-format
+msgid "%s kill %s [%u]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\DskPreviewDlg.cpp:40
+msgid " Preview"
+msgstr ""
+
+# c:\DATA\VC\Daphne\GreenDlg.cpp:40
+msgid "Protect our planet"
+msgstr ""
+
+# c:\DATA\VC\Daphne\GreenDlg.cpp:43
+msgid ""
+"The system has been up for a long time. If you don't need to keep the computer\n"
+" running overnight really, please consider turning it off.\n"
+"Help fighting the climate change!\n"
+"\n"
+"Click YES for more information about energy saving.\n"
+"\n"
+"(You won't see this windows again)"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Inspector.cpp:188
+msgid " Inspector"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Inspector.cpp:189
+msgid "Drag the magnifying glass over windows and controls to inspect its properties."
+msgstr ""
+
+# c:\DATA\VC\Daphne\Inspector.cpp:190
+msgid "Title:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Inspector.cpp:191
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:112
+msgid "Class:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Inspector.cpp:192
+msgid "Text:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Inspector.cpp:193
+msgid "Location:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Inspector.cpp:194
+msgid "Size:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KillAllDlg.cpp:80
+msgid " Kill all by name"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KillAllDlg.cpp:83
+# c:\DATA\VC\Daphne\NewTrapDlg.cpp:63
+msgid "Process name:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KillAllDlg.cpp:94
+msgid " (Polite)"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KillAtDlg.cpp:50
+msgid " Kill at..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\KillAtDlg.cpp:53
+msgid "Process to kill:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KillAtDlg.cpp:54
+msgid "Select date and time to kill the process at:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KillAtDlg.cpp:55
+msgid "Be polite"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KMIEditDlg.cpp:85
+msgid " Kill menu item"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KMIEditDlg.cpp:88
+msgid "Menu name:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\KMIEditDlg.cpp:89
+msgid "Process list (case sensitive)"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:47
+msgid " Installed software list"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:56
+msgid "Software"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:57
+msgid "Version"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:58
+msgid "Publisher"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:59
+msgid "Publisher WEB"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:164
+msgid "Uninstall"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:219
+msgid "Uninstall information is not available"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:224
+#, c-format
+msgid "Are you sure you want to remove %s from this computer?"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:225
+msgid "Warning: this can not be undone"
+msgstr ""
+
+# c:\DATA\VC\Daphne\lssoftDlg.cpp:234
+msgid "Unable to run uninstaller"
+msgstr ""
+
+# c:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:49
+msgid " Web updates"
+msgstr ""
+
+# c:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:50
+msgid "Daphne is about to check the web for updates. This is done without sending any personally identifiable information to the web site."
+msgstr ""
+
+# c:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:51
+msgid "Do you want to check for updates at internet?"
+msgstr ""
+
+# c:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:52
+msgid "Yes"
+msgstr ""
+
+# c:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:53
+msgid "No"
+msgstr ""
+
+# c:\DATA\VC\Daphne\NewTrapDlg.cpp:60
+msgid " Trap..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\NewTrapDlg.cpp:64
+msgid "Action:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:74
+msgid "Install system wide Daphne activation shortcut"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:75
+msgid "Shift"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:76
+msgid "Alt"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:77
+msgid "Ctrl"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:78
+msgid "Advanced options"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:79
+msgid "Show all hidden applications on exit"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:80
+msgid "Try to hide Java VM from command line"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:81
+msgid "Don't check Debug programs privilege on startup"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:82
+msgid "Store configuration"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:83
+msgid "Using Daphne.INI file"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPAdv.cpp:84
+msgid "Using Windows registry"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPHighlight.cpp:63
+msgid "Add process names to highlight in the main list:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPHighlight.cpp:64
+msgid "Highlight system process with blue"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPHighlight.cpp:65
+#, c-format
+msgid "Hightlight process over 95% CPU in red"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPHighlight.cpp:66
+#, c-format
+msgid "Highlight orange, process with more than 20% of memory used"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPKill.cpp:83
+# c:\DATA\VC\Daphne\PPTraps.cpp:59
+msgid "Add"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPKill.cpp:84
+# c:\DATA\VC\Daphne\PPTraps.cpp:60
+msgid "Edit"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPKill.cpp:85
+# c:\DATA\VC\Daphne\PPTraps.cpp:61
+msgid "Remove"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPKill.cpp:86
+# c:\DATA\VC\Daphne\PPLook.cpp:138
+msgid "Up"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPKill.cpp:87
+# c:\DATA\VC\Daphne\PPLook.cpp:139
+msgid "Down"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPKill.cpp:221
+#, c-format
+msgid "Removing %s"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPKill.cpp:222
+msgid ""
+"You are about to remove a kill menu item. This action can't be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPLook.cpp:136
+msgid "Main window"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPLook.cpp:137
+msgid "Process list colum order"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPLook.cpp:140
+msgid "transparence"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPMultidesktop.cpp:47
+msgid "Multidesktop options"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPMultidesktop.cpp:48
+msgid "Enable Multidesktop feature (at Daphne's startup)"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPMultidesktop.cpp:49
+msgid "Extra desktops"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPMultidesktop.cpp:91
+msgid ""
+"This feature is experimental. It won't damage your computer but,\n"
+"if you notice strange behavior after enabling it. Turn it off\n"
+"and report the situation."
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPMultidesktop.cpp:91
+msgid "Daphne multidesktop feature"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:130
+msgid "Daphne startup"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:131
+msgid "Behavior"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:132
+msgid "Proxy server:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:133
+msgid "Use HTTP proxy"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:134
+msgid "Start Daphne automatically when starting Windows"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:135
+msgid "Always hide Daphne on startup"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:136
+msgid "Check internet for Daphne updates on startup"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:137
+msgid "Alternate list item background color"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:138
+msgid "Hide zombie processes"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPStartup.cpp:139
+msgid "Fast refresh"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPTraps.cpp:65
+msgid "Process name"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPTraps.cpp:66
+msgid "Action"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPTraps.cpp:67
+msgid "Window title contains"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPTraps.cpp:132
+#, c-format
+msgid "Are you sure you want to remove the selected trap on %s?"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PPTraps.cpp:133
+#, c-format
+msgid "Removing \"%s\""
+msgstr ""
+
+# c:\DATA\VC\Daphne\ProcessTreeDlg.cpp:44
+msgid " Process tree"
+msgstr ""
+
+# c:\DATA\VC\Daphne\ProcessTreeDlg.cpp:46
+msgid "This tree is a snapshot and won't be updated until the dialog is closed and opened again."
+msgstr ""
+
+# c:\DATA\VC\Daphne\ProcList.cpp:118
+msgid "Quick search by process name enabled."
+msgstr ""
+
+# c:\DATA\VC\Daphne\ProcList.cpp:120
+msgid "Quick search by process name disabled."
+msgstr ""
+
+# c:\DATA\VC\Daphne\ProcList.cpp:148
+#, c-format
+msgid "Highlighting %s..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:101
+# c:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:54
+msgid " Properties"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:103
+msgid "...DRK search"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:104
+msgid "Environment"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:105
+msgid "Modules"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:107
+msgid "More information"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:108
+msgid "Windows"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:109
+msgid "Process:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:110
+msgid "CmdLine:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:111
+msgid "Priority:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:113
+msgid "Created:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:114
+msgid "Kernel time:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:115
+msgid "User time:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:116
+msgid "Parent:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:132
+msgid "ThreadID"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:133
+msgid "References"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:135
+msgid "CPU Time"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:174
+msgid "Not available"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:178
+msgid "Service ["
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:184
+msgid "paused]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:187
+msgid "running]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:190
+msgid "stoped]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:193
+msgid "continue pending]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:196
+msgid "start pending]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:199
+msgid "stop pending]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:202
+msgid "pause pending]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:340
+msgid "Make resizable"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:341
+msgid "Quit caption"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:342
+msgid "Add caption"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:344
+msgid "Minimize"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:345
+msgid "Restore"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:346
+msgid "Maximize"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:349
+msgid "Send message"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:543
+msgid ""
+"Daphne was unable to get environment information.\n"
+"This feature is known to fail\n"
+"on new Windows versions."
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:584
+msgid "Suspend"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:585
+msgid "Resume"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:586
+msgid "Terminate"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:589
+# c:\DATA\VC\Daphne\Thread.cpp:169
+msgid "Time critical"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:590
+# c:\DATA\VC\Daphne\Thread.cpp:161
+msgid "Highest"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:591
+# c:\DATA\VC\Daphne\Thread.cpp:157
+msgid "Above normal"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:593
+# c:\DATA\VC\Daphne\Thread.cpp:159
+msgid "Below normal"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:594
+# c:\DATA\VC\Daphne\Thread.cpp:165
+msgid "Lowest"
+msgstr ""
+
+# c:\DATA\VC\Daphne\PropertiesDlg.cpp:595
+# c:\DATA\VC\Daphne\Thread.cpp:163
+msgid "IDLE"
+msgstr ""
+
+# c:\DATA\VC\Daphne\RunProcDlg.cpp:192
+msgid " Run process"
+msgstr ""
+
+# c:\DATA\VC\Daphne\RunProcDlg.cpp:193
+msgid "Start process suspended"
+msgstr ""
+
+# c:\DATA\VC\Daphne\RunProcDlg.cpp:194
+msgid "Run"
+msgstr ""
+
+# c:\DATA\VC\Daphne\RunProcDlg.cpp:196
+msgid "Program:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\RunProcDlg.cpp:197
+msgid "Arguments:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\RunProcDlg.cpp:198
+msgid "Directory:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:41
+msgid " Scheduled tasks"
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:93
+msgid "Remove task"
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:120
+msgid "Task removed."
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:65
+msgid " Shutdown at..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:68
+msgid "Schedule system shutdown at:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:70
+msgid "Shutdown"
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:71
+msgid "Restart"
+msgstr ""
+
+# c:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:72
+msgid "Log off"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SendMsgDlg.cpp:77
+msgid " Send message..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\SendMsgDlg.cpp:80
+msgid "Message:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SendMsgDlg.cpp:81
+msgid "lParam:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SendMsgDlg.cpp:82
+msgid "wParam:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Software.cpp:51
+msgid "[Binary data]"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:56
+msgid "Version:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:57
+msgid "Website:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:58
+msgid "Publisher:"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:59
+msgid "Raw information view"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SplashMDInit.cpp:42
+msgid " Daphne multidesktop"
+msgstr ""
+
+# c:\DATA\VC\Daphne\SplashMDInit.cpp:43
+msgid "Initializing..."
+msgstr ""
+
+# c:\DATA\VC\Daphne\Thread.cpp:63
+#, c-format
+msgid "%08Xh - References %u - Priority %u/%u"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Trap.cpp:86
+msgid "Notify process created"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Trap.cpp:107
+msgid "Set priority to real-time"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Trap.cpp:110
+msgid "Set priority to high"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Trap.cpp:113
+msgid "Set priority to normal"
+msgstr ""
+
+# c:\DATA\VC\Daphne\Trap.cpp:116
+msgid "Set priority to low"
+msgstr ""
+
+# c:\DATA\VC\Daphne\W32Values.cpp:87
+msgid " Win32 values"
+msgstr ""
+
+# c:\DATA\VC\Daphne\W32Values.cpp:90
+msgid "Filter:"
+msgstr "מסנן:"
+
+# c:\DATA\VC\Daphne\WndsPopUp.cpp:72
+msgid " Hidden applications"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:19
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:19
+msgid ""
+"Usage: dc [command]\n"
+"\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:20
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:20
+msgid "pstree: show process list as hierarchy tree (default)\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:21
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:21
+msgid "ps: show process list\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:22
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:22
+msgid "kill <pid>: kill process by PID\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:23
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:23
+msgid "killall <name>: kill all process by name\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:24
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:24
+msgid "killmenu <item>: execute a previously configured Daphne's kill menu\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:25
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:25
+msgid "showchildren <pid>: list processes started by PID, including PID\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:26
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:26
+msgid "killchildren <pid>: kill processes started by PID, including PID\n"
+msgstr ""
+
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:27
+# c:\DATA\VC\Daphne\dc\ActHelp.cpp:27
+msgid "help: show command line help\n"
+msgstr ""
+

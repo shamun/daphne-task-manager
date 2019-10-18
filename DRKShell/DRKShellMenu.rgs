@@ -1,0 +1,27 @@
+HKCR
+{
+	DRKShell.DRKShellMenu.1 = s 'DRKShellMenu Class'
+	{
+		CLSID = s '{E18C8C1B-FD35-455E-BB21-4BA26B1E751D}'
+	}
+	DRKShell.DRKShellMenu = s 'DRKShellMenu Class'
+	{
+		CLSID = s '{E18C8C1B-FD35-455E-BB21-4BA26B1E751D}'
+		CurVer = s 'DRKShell.DRKShellMenu.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {E18C8C1B-FD35-455E-BB21-4BA26B1E751D} = s 'DRKShellMenu Class'
+		{
+			ProgID = s 'DRKShell.DRKShellMenu.1'
+			VersionIndependentProgID = s 'DRKShell.DRKShellMenu'
+			ForceRemove 'Programmable'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Both'
+			}
+			val AppID = s '%APPID%'
+			'TypeLib' = s '{AE58AD11-DB9B-47C5-AA49-92FCC9CDE3C0}'
+		}
+	}
+}

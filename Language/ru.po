@@ -1,0 +1,2474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daphne v1.39\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-15 18:27+0800\n"
+"PO-Revision-Date: 2016-02-15 21:09+0800\n"
+"Last-Translator: Leandro <drkbugs@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:53
+msgid " Affinity"
+msgstr "Сходство"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2397
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:48
+# C:\DATA\VC\Daphne\ProcessTreeDlg.cpp:45
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:102
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:347
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:66
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3064
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:48
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:115
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:376
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:48
+msgid "Close"
+msgstr "Закрыть"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:85
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:52
+# C:\DATA\VC\Daphne\GreenDlg.cpp:41
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:81
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:51
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:86
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:61
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:66
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:78
+# C:\DATA\VC\Daphne\W32Values.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:41
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:53
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:51
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:63
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:68
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:78
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:49
+msgid "OK"
+msgstr "ОК"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:56
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:57
+msgid "Select none"
+msgstr "Ничего не выбирать"
+
+#: E:\Users\leandro\DATA\VC\Daphne\AffinityDlg.cpp:58
+msgid "Create or modify trap"
+msgstr "Создать/изменить ловушку"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:76
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:78
+msgid "Invalid username or password"
+msgstr "Неправильное имя пользователя или пароль"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:76
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:219 C:\DATA\VC\Daphne\lssoftDlg.cpp:234
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:78
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:270
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:303
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:86
+msgid " Authenticate user"
+msgstr "Пользователь"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:86
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:53
+# C:\DATA\VC\Daphne\GreenDlg.cpp:42
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:82
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:52
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:87
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:62
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:195
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:67
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:79
+# C:\DATA\VC\Daphne\W32Values.cpp:89
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:56
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:42
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:85
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:52
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:64
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:200
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:69
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:79
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:89
+msgid "Cancel"
+msgstr "Отмена"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:89
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+# C:\DATA\VC\Daphne\AuthUserDlg.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\AuthUserDlg.cpp:90
+msgid "Password:"
+msgstr "Пароль:"
+
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:51
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:54
+msgid " Close all windows by title"
+msgstr "Закрыть все окна по заголовку"
+
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:54
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:65
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:57
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:67
+msgid "Window title contains:"
+msgstr "Заголовок окна содержит:"
+
+# C:\DATA\VC\Daphne\CloseAllWndByTitle.cpp:55
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\CloseAllWndByTitle.cpp:58
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:87
+msgid "case-sensitive"
+msgstr "Учитывать регистр"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:65
+msgid " CPU Usage"
+msgstr "Использование процессора"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:68
+msgid "System information"
+msgstr "Информация о системе"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:69
+msgid "Used physical memory [MB]"
+msgstr "Использованная физическая память [МБ]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:70
+msgid "Total physical memory [MB]"
+msgstr "Всего физической памяти [МБ]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:71
+msgid "System cache [MB]"
+msgstr "Системный кэш [MБ]"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:72
+msgid "Kernel memory [MB]"
+msgstr "Память ядра [MБ]"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:367
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:106
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:73
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:424
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3753
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:119
+msgid "Threads"
+msgstr "Потоки"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:359 C:\DATA\VC\Daphne\DaphneDlg.cpp:678
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:180
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:74
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:416
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:808
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3745
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3783
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:199
+msgid "Process"
+msgstr "Процесс"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:75
+msgid "Handles"
+msgstr "Маркеры"
+
+#: E:\Users\leandro\DATA\VC\Daphne\CPUUsageDlg.cpp:142
+#, c-format
+msgid "Showing last %d:%02d minutes"
+msgstr "Показать последние %d:%02d минут"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:79
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:79
+msgid " Daphne - Crash"
+msgstr "Daphne - Сбой"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:80
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:80
+msgid "SEND"
+msgstr "ОТПРАВИТЬ"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:81
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:81
+msgid "Quit"
+msgstr "Выход"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:82
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:82
+msgid ""
+"An unhandled exception has crashed Daphne. Please, press SEND to report this "
+"problem by mail."
+msgstr ""
+"Непредвиденное исключение привело к сбою Daphne. Пожалуйста, нажмите "
+"ОТПРАВИТЬ, чтобы передать отчёт о проблеме по электронной почте."
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:83
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:83
+msgid "Error information"
+msgstr "Сведения об ошибке"
+
+# C:\DATA\VC\Daphne\CrashDlg.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\CrashDlg.cpp:84
+msgid "* You will see the mail before sending."
+msgstr "* Вы увидите своё сообщение перед отправкой."
+
+# C:\DATA\VC\Daphne\Daphne.cpp:1050
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1052
+msgid "Unable to initialize Sockets API."
+msgstr "Невозможно инициализировать Sockets API."
+
+# C:\DATA\VC\Daphne\Daphne.cpp:1105
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1122
+msgid "Another instance of Daphne is already running."
+msgstr "Другой экзепляр Daphne уже запущен."
+
+# C:\DATA\VC\Daphne\Daphne.cpp:1105
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1071 C:\DATA\VC\Daphne\DaphneDlg.cpp:1080
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2508 C:\DATA\VC\Daphne\DaphneDlg.cpp:2924
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1122
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1132
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1264
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1273
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3178
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3617
+msgid "Daphne"
+msgstr "Daphne"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Daphne.cpp:1132
+msgid ""
+"You are running Daphne for 32 bits under a 64-bits Windows platform.\n"
+"Most features won't work. Please download and install Daphne for 64 bits."
+msgstr ""
+"Вы работаете с Daphne для 32 бит на 64-битной Windows платформе .\n"
+"Большинство функций не будет работать. Пожалуйста, скачайте и установите "
+"Daphne для 64 бит."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:201
+#, c-format
+msgid "%s"
+msgstr "%s"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:273
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:329
+msgid "Unable to register global shortcut. Multidesktop may not work."
+msgstr ""
+"Невозможно зарегистрировать глобальное сочетание клавиш. Функция "
+"\"Multidesktop\" может не работать."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:273 C:\DATA\VC\Daphne\DaphneDlg.cpp:2903
+# C:\DATA\VC\Daphne\Utility.cpp:161
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:329
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3596
+#: E:\Users\leandro\DATA\VC\Daphne\Utility.cpp:179
+msgid "Error"
+msgstr "Ошибка"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:278
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:334
+msgid "Full path and arguments"
+msgstr "Полный путь и аргументы"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:279
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:335
+msgid "Always on top"
+msgstr "Всегда наверху"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:280
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:336
+msgid "Daphne >"
+msgstr "Daphne >"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:281 C:\DATA\VC\Daphne\DaphneDlg.cpp:1760
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:337
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2251
+msgid "Settings..."
+msgstr "Настройки..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:339
+msgid "Find (Process)"
+msgstr "Найти (процесс)"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:340
+msgid "Find (Window)"
+msgstr "Найти (Окно)"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:284 C:\DATA\VC\Daphne\DaphneDlg.cpp:801
+# C:\DATA\VC\Daphne\Trap.cpp:89
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:341
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:946
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:117
+msgid "Kill"
+msgstr "Завершить"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:285
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:336
+# C:\DATA\VC\Daphne\Trap.cpp:92
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:342
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:365
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:120
+msgid "Hide application"
+msgstr "Скрыть приложение"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:286
+# C:\DATA\VC\Daphne\Trap.cpp:95
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:343
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:123
+msgid "Set on top"
+msgstr "Установить 'поверх всех окон'"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:287
+# C:\DATA\VC\Daphne\Trap.cpp:98
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:344
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:126
+msgid "Unset on top"
+msgstr "Сбросить 'поверх всех окон'"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:288
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:345
+msgid "Set alpha 100%"
+msgstr "Сделать прозрачным на 0%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:289
+# C:\DATA\VC\Daphne\Trap.cpp:101
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:346
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:129
+msgid "Set alpha 75%"
+msgstr "Сделать прозрачным на 25%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:290
+# C:\DATA\VC\Daphne\Trap.cpp:104
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:347
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:132
+msgid "Set alpha 50%"
+msgstr "Сделать прозрачным на 50%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:291
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:348
+msgid "Unset alpha"
+msgstr "Выключить прозрачность"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:292
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:349
+msgid "Enable"
+msgstr "Задействовать"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:293
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:350
+msgid "Disable"
+msgstr "Отключить"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:351
+msgid "Change size"
+msgstr "Изменить размер"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:352
+msgid "Trap size and position"
+msgstr "Размер и положение ловушки"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:334
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:391
+msgid "&About Daphne..."
+msgstr "О программе &Daphne..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:358 C:\DATA\VC\Daphne\DaphneDlg.cpp:867
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:415
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1012
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3744
+msgid "PID"
+msgstr "PID"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:360 C:\DATA\VC\Daphne\DaphneDlg.cpp:868
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:417
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1013
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3746
+msgid "Path"
+msgstr "Путь"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:361
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:134
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:418
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3747
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:152
+msgid "Priority"
+msgstr "Приоритет"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:362
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:419
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3748
+msgid "Class"
+msgstr "Класс"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:363
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:420
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3749
+msgid "Memory"
+msgstr "Память"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:364
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:421
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3750
+msgid "PeakMemoryUsage"
+msgstr "Максимальное Потребление Памяти"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:365
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:422
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3751
+msgid "Swap"
+msgstr "Файл подкачки"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:366
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:423
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3752
+msgid "PeakSwapUsage"
+msgstr "Максимальное использование файла подкачки"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:368
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:425
+#, c-format
+msgid "%CPU"
+msgstr "%CPU"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:426
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3754
+msgid "Owner"
+msgstr "Владелец"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:427
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3755
+msgid "I/O reads"
+msgstr "Считывание ввода/вывода"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:428
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3756
+msgid "I/O writes"
+msgstr "Запись ввода/вывода"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:556
+#, c-format
+msgid "* %s ============= Daphne starting... =============\n"
+msgstr "* %s ============= Запуск Daphne... =============\n"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:521
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:631
+msgid ""
+"Daphne needs 'Debug programs' privilges in order to show full process list. "
+"Do you want to check DRK web site for a check list of the procedure? (If you "
+"click Cancel you won't see this warning again)"
+msgstr ""
+"Daphne необходимы привилегии 'Debug programs' для того, чтобы отображать "
+"полный список процессов. Do you want to check DRK web site for a check list "
+"of the procedure? (If you click Cancel you won't see this warning again)"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:521
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:631
+msgid "Your account lacks debug privileges"
+msgstr "Ваша учётная запись не имеет привилегий отладки"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:668
+#, c-format
+msgid "* %s ============= Daphne ready =============\n"
+msgstr "* %s ============= Daphne готова к работе =============\n"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:676
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:806
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3783
+msgid "Service"
+msgstr "Служба"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:706 C:\DATA\VC\Daphne\DaphneDlg.cpp:814
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:162
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:836
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:960
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3762
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:181
+msgid "High"
+msgstr "Высокий"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:709 C:\DATA\VC\Daphne\DaphneDlg.cpp:815
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:165
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:592
+# C:\DATA\VC\Daphne\Thread.cpp:167
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:839
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:961
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3765
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:184
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:655
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:167
+msgid "Normal"
+msgstr "Средний"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:712 C:\DATA\VC\Daphne\DaphneDlg.cpp:816
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:168
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:842
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:962
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3768
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:187
+msgid "Low"
+msgstr "Низкий"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:715 C:\DATA\VC\Daphne\DaphneDlg.cpp:813
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:171
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:845
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:959
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3771
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:190
+msgid "Real time"
+msgstr "Реального времени"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:718
+# C:\DATA\VC\Daphne\Thread.cpp:172
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:848
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3774
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:172
+msgid "N/A"
+msgstr "Н/Д"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:802
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:947
+msgid "Kill politely"
+msgstr "Завершить аккуратно"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:803
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:948
+msgid "Kill at..."
+msgstr "Завершить в назначенное время..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:804
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:949
+msgid "Kill politely at..."
+msgstr "Завершить аккуратно в назначенное время..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:807
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:333
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:952
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:362
+msgid "Set focus"
+msgstr "Установить фокус"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:808
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:338
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:953
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:367
+msgid "Set always on top"
+msgstr "Установить 'всегда наверху'"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:809
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:339
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:954
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:368
+msgid "Unset always on top"
+msgstr "Отключить 'всегда наверху'"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:810
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:955
+msgid "Create trap"
+msgstr "Создать ловушку"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:956
+msgid "Set affinity..."
+msgstr ".установить сходство..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:832
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:620
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:977
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:683
+msgid "Set priority"
+msgstr "Установить приоритет"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:837
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:982
+msgid "Start service"
+msgstr "Запустить службу"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:838
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:983
+msgid "Continue service"
+msgstr "Продолжить выполнение службы"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:839
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:984
+msgid "Pause service"
+msgstr "Приостановить службу"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:840
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:985
+msgid "Stop service"
+msgstr "Остановить службу"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:865
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1010
+msgid "Copy name"
+msgstr "Копировать имя"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:869
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1014
+msgid "Path and arguments"
+msgstr "Путь и аргументы"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1015
+msgid "MD5 hash"
+msgstr "Хэш MD5"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1016
+msgid "SHA1 hash"
+msgstr "Хэш SHA1 "
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:870
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1017
+msgid "Copy..."
+msgstr "Копировать..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1018
+msgid "Open containing folder..."
+msgstr "Открыть содержащую папку..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:872
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1020
+msgid "Look up into DRK DB..."
+msgstr "Искать в БД DRK..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:873
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1021
+msgid "Submit to DRK DB..."
+msgstr "Добавить в БД DRK..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:875
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:166
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1023
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:217
+msgid "Properties"
+msgstr "Свойства"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:970
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1133
+msgid "Daphne was unable to get enough privileges for a system shutdown."
+msgstr "Daphne не удалось получить привилегии для завершения работы системы."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:970
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1133
+msgid "Can't schedule shutdown"
+msgstr "Невозможно запланировать завершение работы"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1070
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1263
+#, c-format
+msgid "%u processes were politely killed."
+msgstr "Аккуратно завершено процессов: %u"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1070
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1263
+#, c-format
+msgid "%u processes were killed."
+msgstr "Завершено процессов: %u"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1079
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1272
+#, c-format
+msgid "%u windows were closed."
+msgstr "Закрыто окно: %u."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1670
+#, c-format
+msgid "Process %s [%u] destroyed."
+msgstr "Процесс %s [%u] уничтожен."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1342
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1718
+#, c-format
+msgid "New process %s created."
+msgstr "Новый процесс %s успешно создан."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1436
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:334
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1899
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:363
+msgid "Hide"
+msgstr "Скрыть"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1438
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:335
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1901
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:364
+msgid "Show"
+msgstr "Показать"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1523
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1986
+#, c-format
+msgid "Uptime: %u days, %2u hours, %2u minutes, %2u seconds"
+msgstr "Система работает: %u дн., %2u час., %2u мин., %2u сек."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1529
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1987
+#, c-format
+msgid "CPU usage %3u%%"
+msgstr "Загрузка ЦП: %3u%%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1533
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1990
+#, c-format
+msgid "Memory usage %3u%%"
+msgstr "Потребление памяти: %3u%%"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1535
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1991
+#, c-format
+msgid "Free memory %u MB"
+msgstr "Свободная память: %u МБ"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1992
+#, c-format
+msgid "Running processes: %4u"
+msgstr "Запущенные процессы: %4u"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1993
+#, c-format
+msgid "Login: %s\\%s"
+msgstr "Логин: %s\\%s"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:1994
+#, c-format
+msgid "Installed CPUs: %2u"
+msgstr "Установленные процессоры: %2u"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1550
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2019
+#, c-format
+msgid "%s - %u%% CPU - %u hidden application"
+msgstr "%s - %u%% CPU - %u скрытое приложение"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1552
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2021
+#, c-format
+msgid "%s - %u%% CPU - %u hidden applications"
+msgstr "%s - %u%% CPU - %u скрытые приложения"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1763
+# C:\DATA\VC\Daphne\PPStartup.cpp:129
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2255
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:129
+msgid "Main"
+msgstr "Основные"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1768
+# C:\DATA\VC\Daphne\PPLook.cpp:135
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2261
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:138
+msgid "Look and feel"
+msgstr "Внешний вид"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1773
+# C:\DATA\VC\Daphne\PPKill.cpp:82 C:\DATA\VC\Daphne\PPKill.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2267
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:82
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:88
+msgid "Kill menu"
+msgstr "Меню 'Завершить'"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1778
+# C:\DATA\VC\Daphne\PPTraps.cpp:58 C:\DATA\VC\Daphne\PPTraps.cpp:62
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2273
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:58
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:62
+msgid "Traps"
+msgstr "Ловушки"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1783
+# C:\DATA\VC\Daphne\PPHighlight.cpp:62
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2279
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:62
+msgid "Highlights"
+msgstr "Подсветка"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2284
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:57
+msgid "More..."
+msgstr "Больше..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2289
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:48
+msgid "Logging"
+msgstr "Ведение протокола"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1791
+# C:\DATA\VC\Daphne\PPAdv.cpp:73
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2294
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:73
+msgid "Advanced"
+msgstr "Дополнительные"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1864
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2376
+msgid "Kill all by name"
+msgstr "Завершить все процессы по имени"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1865
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2377
+msgid "Kill all by name (Polite)"
+msgstr "Завершить все процессы по имени (аккуратно)"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1866
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2378
+msgid "Run process..."
+msgstr "Запустить процесс..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1867
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2379
+msgid "Run process as ..."
+msgstr "Запустить процесс от имени..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1868
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2380
+msgid "Close windows by name"
+msgstr "Закрыть окна по заголовку"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2381
+msgid "Schedule popup message"
+msgstr "Запланировать всплывающее сообщение"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1869
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2382
+msgid "Schedule system shutdown"
+msgstr "Запланировать завершение работы системы"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2384
+msgid "Show CPU usage ..."
+msgstr "Показать использование процессора ..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1871
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2385
+msgid "Show process tree..."
+msgstr "Отобразить дерево процессов..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1872
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2386
+msgid "Show installed software..."
+msgstr "Отобразить список установленного ПО"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1874
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2388
+msgid "Control inspector..."
+msgstr "Инспектор элементов управления..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1875
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2389
+msgid "Hidden applications..."
+msgstr "Скрытые приложения..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1876
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2390
+msgid "Scheduled tasks..."
+msgstr "Расписание задач..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2392
+msgid "Copy process list to clipboard"
+msgstr "Скопировать список процессов в буфер"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2393
+msgid "Windows 7 God Mode..."
+msgstr "Режим бога Windows 7 ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2394
+msgid "Windows 7 Problem steps recorder..."
+msgstr "Windows 7 Рекордер проблемных шагов..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1894
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:337
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2414
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:366
+msgid "Show application"
+msgstr "Показать приложение"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1440
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2441
+msgid "About Daphne"
+msgstr "О программе Daphne"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2444
+msgid "Support..."
+msgstr "Поддержка..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2445
+msgid "FAQ..."
+msgstr "Вопросы-Ответы..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2446
+msgid "Daphne statistics..."
+msgstr "Статистика Daphne ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2447
+msgid "Search drk.com.ar..."
+msgstr "Поиск drk.com.ar..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2448
+msgid "Help"
+msgstr "Помощь"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1443
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2451
+msgid "Exit"
+msgstr "Выход"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1967
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2507
+msgid "Connecting primary desktop..."
+msgstr "Подключение к главному рабочему столу..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1976
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2516
+#, c-format
+msgid "Looking up desktop %u..."
+msgstr "Просмотр рабочего стола #%u..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1982
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2522
+#, c-format
+msgid "Creating desktop %u..."
+msgstr "Создаётся рабочий стол %u..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2761
+msgid "You have to use the WIDTHxHEIGHT format. For example 640x480."
+msgstr "Вы должны использовать формат ШИРИНАxВЫСОТА. Например 640x480."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2761
+msgid "Invalid size format"
+msgstr "Неверный размер формата "
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2225
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2856
+msgid "Amount of physical memory left before swapping occurs."
+msgstr ""
+"Количество свободной физической памяти на момент начала использования файла "
+"подкачки"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2228
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2859
+msgid "Memory used so far in percent."
+msgstr "Использованная память в процентах."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2231
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2862
+msgid "CPU time requested in percent."
+msgstr "Затраты времени ЦП в процентах"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2234
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2865
+msgid "Time the system has been up and running."
+msgstr "Продолжительность работы системы"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2237
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2868
+msgid ""
+"Drag this target over a window to execute the action selected in the combo "
+"box."
+msgstr ""
+"Перетащите этот целеуказатель на окно, над которым хотите произвести "
+"действие, выбранное в списке"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2240
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2871
+msgid "Selects the action for the drag and drop target tool."
+msgstr "Выберите действие для целеуказателя"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2243
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2874
+msgid "Displays full path and command line arguments if possible."
+msgstr "Отображать полный путь и аргументы командной строки, если возможно"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2246
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2877
+msgid "Keeps Daphne main window always on top."
+msgstr "Всегда отображать главное окно Daphne поверх других окон."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2249
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2880
+msgid "Opens Daphne main menu."
+msgstr "Показать главное меню Daphne."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2252
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2883
+msgid "Running process list."
+msgstr "Список запущенных процессов."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2255
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:2886
+msgid "Open configuration screen."
+msgstr "Открыть диалог настроек."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2396
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3063
+msgid " About Daphne"
+msgstr "О программе Daphne"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2398
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3065
+msgid "License"
+msgstr "Лицензия"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2399
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3066
+msgid "Contributed"
+msgstr "Внесли свою лепту"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3067
+msgid "Technical support at www.drk.com.ar"
+msgstr "Техническая поддержка www.drk.com.ar"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3068
+msgid "Contribute"
+msgstr "Внести вклад"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2456
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3119
+msgid "Window hidden"
+msgstr "Окно скрыто"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3273
+#, c-format
+msgid ""
+"%s was released and is ready to be downloaded.\n"
+"\n"
+"What's new:\n"
+"%s\n"
+"Would you like to visit download web page?"
+msgstr ""
+"%s было выпущено и готово к загрузке.\n"
+"\n"
+"Что нового:\n"
+"%s\n"
+"Хотите посетить страницу загрузки?"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2596
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3277
+msgid "Daphne web updates"
+msgstr "Обновления Daphne"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2903
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3596
+msgid ""
+"Daphne isn't able to switch Desktop\n"
+"It can be a configuration problem.\n"
+"Please reconfigure or restart Daphne and it will appear on next startup."
+msgstr ""
+"Daphne не удалось переключить рабочий стол\n"
+"Возможно, проблема в настройках.\n"
+"Пожалуйста, измените настройки или перезапустите Daphne и он отобразится при "
+"следующем запуске."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2924
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3617
+msgid "Are you sure you want to kill this process?"
+msgstr "Вы уверены, что хотите завершить данный процесс?"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2964
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3643
+msgid "System is going down!"
+msgstr "Завершение работы системы!"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3843
+msgid "Scheduled message"
+msgstr "Запланированное сообщение"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3930
+#, c-format
+msgid "%s display %s"
+msgstr "%s дисплей %s"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2990
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3956
+#, c-format
+msgid "%s system shutdown."
+msgstr "%s = Завершение работы системы"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2993
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3959
+#, c-format
+msgid "%s system restart."
+msgstr "%s = Перезагрузка"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2996
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3962
+#, c-format
+msgid "%s system log off."
+msgstr "%s = Завершение сеанса"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3009 C:\DATA\VC\Daphne\DaphneDlg.cpp:3021
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3975
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3987
+#, c-format
+msgid "Unable to kill scheduled process %s, PID %u."
+msgstr "Невозможно завершить запланированный процесс %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3014
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3980
+#, c-format
+msgid "Politely killed scheduled process %s, PID %u."
+msgstr "Аккуратно завершён запланированный процесс %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3026
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3992
+#, c-format
+msgid "Killed scheduled process %s, PID %u."
+msgstr "Завершён запланированный процесс %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3033
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:3999
+#, c-format
+msgid "Can't find scheduled process %s, PID %u."
+msgstr "Невозможно найти запланированный процесс %s, PID %u."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:3039
+#: E:\Users\leandro\DATA\VC\Daphne\DaphneDlg.cpp:4005
+#, c-format
+msgid "%s kill %s [%u]"
+msgstr "%s = Завершить %s [%u]"
+
+# C:\DATA\VC\Daphne\GreenDlg.cpp:40
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:40
+msgid "Protect our planet"
+msgstr "Защитим нашу планету"
+
+#: E:\Users\leandro\DATA\VC\Daphne\GreenDlg.cpp:43
+msgid ""
+"The system has been up for a long time. If you don't need to keep the "
+"computer\n"
+" running overnight really, please consider turning it off.\n"
+"Help fighting the climate change!\n"
+"\n"
+"Click OK for more information about energy saving.\n"
+"\n"
+"(You won't see this windows again)"
+msgstr ""
+"Система работала в течение длительного времени. Если вам не нужно держать "
+"компьютер\n"
+"включенным всю ночь, рекомендуем его выключить.\n"
+"Помогите бороться с изменением климата!\n"
+"\n"
+"Нажмите OK для получения дополнительной информации об энергосбережении."
+
+# C:\DATA\VC\Daphne\Inspector.cpp:188
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:192
+msgid " Inspector"
+msgstr "Инспектор"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:189
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:193
+msgid ""
+"Drag the magnifying glass over windows and controls to inspect its "
+"properties."
+msgstr ""
+"Перемещайте лупу над окнами и элементами управления, чтобы увидеть их "
+"свойства."
+
+# C:\DATA\VC\Daphne\Inspector.cpp:190
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:194
+msgid "Title:"
+msgstr "Заголовок:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:191
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:112
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:195
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:125
+msgid "Class:"
+msgstr "Класс:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:192
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:196
+msgid "Text:"
+msgstr "Текст:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:193
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:197
+msgid "Location:"
+msgstr "Координаты:"
+
+# C:\DATA\VC\Daphne\Inspector.cpp:194
+#: E:\Users\leandro\DATA\VC\Daphne\Inspector.cpp:198
+msgid "Size:"
+msgstr "Размеры:"
+
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:80
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:83
+msgid " Kill all by name"
+msgstr "Завершить все процессы по имени"
+
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:83
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:63
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:65
+msgid "Process name:"
+msgstr "Имя процесса:"
+
+# C:\DATA\VC\Daphne\KillAllDlg.cpp:94
+#: E:\Users\leandro\DATA\VC\Daphne\KillAllDlg.cpp:97
+msgid " (Polite)"
+msgstr "(Аккуратно)"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:50
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:52
+msgid " Kill at..."
+msgstr "Завершить в назначенное время..."
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:53
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:55
+msgid "Process to kill:"
+msgstr "Имя процесса:"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:56
+msgid "Select date and time to kill the process at:"
+msgstr "Выберите дату и время завершения процесса:"
+
+# C:\DATA\VC\Daphne\KillAtDlg.cpp:55
+#: E:\Users\leandro\DATA\VC\Daphne\KillAtDlg.cpp:57
+msgid "Be polite"
+msgstr "Аккуратно"
+
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:85
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:85
+msgid " Kill menu item"
+msgstr "Пункт меню 'Завершить'"
+
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:88
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:88
+msgid "Menu name:"
+msgstr "Название пункта:"
+
+# C:\DATA\VC\Daphne\KMIEditDlg.cpp:89
+#: E:\Users\leandro\DATA\VC\Daphne\KMIEditDlg.cpp:89
+msgid "Process list (case sensitive)"
+msgstr "Список процессов (чувствителен к регистру)"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:47
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:53
+msgid " Installed software list"
+msgstr "Список установленного ПО"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:56
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:62
+msgid "Software"
+msgstr "ПО"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:57
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:63
+msgid "Version"
+msgstr "Версия"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:58
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:64
+msgid "Publisher"
+msgstr "Издатель"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:59
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:65
+msgid "Publisher WEB"
+msgstr "Сайт издателя"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:164
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:215
+msgid "Uninstall"
+msgstr "Деинсталлировать"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:219
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:270
+msgid "Uninstall information is not available"
+msgstr "Информация о деинсталляции недоступна"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:224
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:275
+#, c-format
+msgid "Are you sure you want to remove %s from this computer?"
+msgstr "Вы уверены, что хоите удалить %s с этого компьютера?"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:225
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:276
+msgid "Warning: this can not be undone"
+msgstr "Внимания: это действие невозможно будет отменить"
+
+# C:\DATA\VC\Daphne\lssoftDlg.cpp:234
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:303
+msgid "Unable to run uninstaller"
+msgstr "Невозможно запустить деинсталлятор"
+
+#: E:\Users\leandro\DATA\VC\Daphne\lssoftDlg.cpp:333
+msgid "Export installed software list to..."
+msgstr "Экспортировать список установленных ПО в..."
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:49
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:49
+msgid " Web updates"
+msgstr "Проверка обновлений"
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:50
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:50
+msgid ""
+"Daphne is about to check the web for updates. This is done without sending "
+"any personally identifiable information to the web site."
+msgstr ""
+"Daphne собирается проверить веб-сайт на наличие обновлений. Никакие "
+"персональные данные передаваться не будут."
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:51
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:51
+msgid "Do you want to check for updates at internet?"
+msgstr "Желаете проверить наличие обновлений в интеренте?"
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:52
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:52
+msgid "Yes"
+msgstr "Да"
+
+# C:\DATA\VC\Daphne\MBWebAgreeDlg.cpp:53
+#: E:\Users\leandro\DATA\VC\Daphne\MBWebAgreeDlg.cpp:53
+msgid "No"
+msgstr "Нет"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:50
+msgid " Message at..."
+msgstr "Сообщение в..."
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:80
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:53
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:80
+msgid "Message:"
+msgstr "Сообщение:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\MessageAtDlg.cpp:54
+msgid "Select date and time to display message at:"
+msgstr "Выберите дату и время, чтобы отобразить сообщение в:"
+
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:60
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:62
+msgid " Trap..."
+msgstr "Ловушка..."
+
+# C:\DATA\VC\Daphne\NewTrapDlg.cpp:64
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:66
+msgid "Action:"
+msgstr "Действие:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:68
+msgid "Generic 64 bits argument:"
+msgstr "Универсальный 64-битный аргумент:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\NewTrapDlg.cpp:71
+msgid "Use a 16 digit hexadecimal number here."
+msgstr "Используйте здесь 16-значное шестнадцатеричное число ."
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:74
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:74
+msgid "Install system wide Daphne activation shortcut"
+msgstr "Глобальное сочетание клавиш для активации Daphne"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:75
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:75
+msgid "Shift"
+msgstr "Shift"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:76
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:76
+msgid "Alt"
+msgstr "Alt"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:77
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:77
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:78
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:78
+msgid "Advanced options"
+msgstr "Дополнительные настройки"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:79
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:79
+msgid "Show all hidden applications on exit"
+msgstr "При выходе восстановить все скрытые приложения"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:80
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:80
+msgid "Try to hide Java VM from command line"
+msgstr "Пытаться скрыть Java VM из командной строки"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:81
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:81
+msgid "Don't check Debug programs privilege on startup"
+msgstr "Не проверять наличие привилегий отладки при запуске"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:82
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:82
+msgid "Store configuration"
+msgstr "Хранить настройки"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:83
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:83
+msgid "Using Daphne.INI file"
+msgstr "в файле Daphne.INI"
+
+# C:\DATA\VC\Daphne\PPAdv.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\PPAdv.cpp:84
+msgid "Using Windows registry"
+msgstr "в реестре Windows"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:63
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:63
+msgid "Add process names to highlight in the main list:"
+msgstr "Добавьте имена процессов, которые будут подсвечиваться:"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:64
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:64
+msgid "Highlight system process with blue"
+msgstr "Синим: системные процессы"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:65
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:65
+#, c-format
+msgid "Hightlight process over 95% CPU in red"
+msgstr "Hightlight process over 95% CPU in red"
+
+# C:\DATA\VC\Daphne\PPHighlight.cpp:66
+#: E:\Users\leandro\DATA\VC\Daphne\PPHighlight.cpp:66
+#, c-format
+msgid "Highlight orange, process with more than 20% of memory used"
+msgstr "Highlight orange, process with more than 20% of memory used"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:83
+# C:\DATA\VC\Daphne\PPTraps.cpp:59
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:83
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:59
+msgid "Add"
+msgstr "Добавить"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:84
+# C:\DATA\VC\Daphne\PPTraps.cpp:60
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:84
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:60
+msgid "Edit"
+msgstr "Правка"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:85
+# C:\DATA\VC\Daphne\PPTraps.cpp:61
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:85
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:61
+msgid "Remove"
+msgstr "Удалить"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:86
+# C:\DATA\VC\Daphne\PPLook.cpp:138
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:141
+msgid "Up"
+msgstr "Вверх"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:87
+# C:\DATA\VC\Daphne\PPLook.cpp:139
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:142
+msgid "Down"
+msgstr "Вниз"
+
+# C:\DATA\VC\Daphne\PPKill.cpp:221
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:221
+#, c-format
+msgid "Removing %s"
+msgstr "Удаление \"%s\""
+
+# C:\DATA\VC\Daphne\PPKill.cpp:222
+#: E:\Users\leandro\DATA\VC\Daphne\PPKill.cpp:222
+msgid ""
+"You are about to remove a kill menu item. This action can't be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+"Вы собираетесь удалить пункт меню 'Завершить'.\n"
+"Это действие невозможно будет отменить.\n"
+"\n"
+"Вы уверены?"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:49
+msgid "Logging options"
+msgstr "Свойства ведения протокола"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:50
+msgid "Log started and ended process"
+msgstr "Процесс начала и конца авторизации"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLogging.cpp:74
+msgid "Log process activity to..."
+msgstr "Активность процесса авторизации в..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:139
+msgid "Main window and tray icon"
+msgstr "Главное окно и иконка ловушки"
+
+# C:\DATA\VC\Daphne\PPLook.cpp:137
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:140
+msgid "Process list colum order"
+msgstr "Порядок колонок в списке процессов"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:143
+msgid "Window transparence"
+msgstr "Прозрачность окна"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPLook.cpp:144
+msgid "Animate tray icon with CPU usage."
+msgstr "Анимация иконки ловушки с использованием процессора"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:47
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:58
+msgid "Multidesktop options"
+msgstr "Настройки функции 'МультиДесктоп'"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:48
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:59
+msgid "Enable Multidesktop feature (at Daphne's startup)"
+msgstr "Задействовать 'МультиДесктоп' (при старте Daphne)"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:49
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:60
+msgid "Extra desktops"
+msgstr "Дополнительные рабочие столы"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:61
+msgid "Integration options"
+msgstr "Функции интерграции"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:62
+msgid "Enable Windows Explorer integration"
+msgstr "Включить интеграцию проводника Windows"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:63
+msgid "Run slots"
+msgstr "Запустить слоты"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:66
+msgid "Run these commands with Ctrl-Shift-F1 to F4"
+msgstr "Выполните эти команды с Ctrl-Shift-F1 to F4"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:67
+msgid "Run this command with Ctrl-Shift-F1"
+msgstr "Выполните эту команду с Ctrl-Shift-F1"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:68
+msgid "Run this command with Ctrl-Shift-F2"
+msgstr "Выполните эту команду с Ctrl-Shift-F2"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:69
+msgid "Run this command with Ctrl-Shift-F3"
+msgstr "Выполните эту команду с Ctrl-Shift-F3"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:70
+msgid "Run this command with Ctrl-Shift-F4"
+msgstr "Выполните эту команду с Ctrl-Shift-F4"
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:91
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:187
+msgid ""
+"This feature is experimental. It won't damage your computer but,\n"
+"if you notice strange behavior after enabling it. Turn it off\n"
+"and report the situation."
+msgstr ""
+"Это экспериментальная функция. Она не нанесёт ущерба Вашему компьютеру, но\n"
+"если после включения Вы заметите странное поведение, отключите её\n"
+"и пришлите авторам отчёт."
+
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:91
+#: E:\Users\leandro\DATA\VC\Daphne\PPMultidesktop.cpp:187
+msgid "Daphne multidesktop feature"
+msgstr "Функция 'МультиДесктоп'"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:130
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:130
+msgid "Daphne startup"
+msgstr "Запуск Daphne"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:131
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:131
+msgid "Behavior"
+msgstr "Поведение"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:132
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:132
+msgid "Proxy server:"
+msgstr "Прокси-сервер:"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:133
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:133
+msgid "Use HTTP proxy"
+msgstr "Использовать HTTP-прокси"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:134
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:134
+msgid "Start Daphne automatically when starting Windows"
+msgstr "Запускать Daphne при старте Windows"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:135
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:135
+msgid "Always hide Daphne on startup"
+msgstr "Всегда скрывать Daphne после запуска"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:136
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:136
+msgid "Check internet for Daphne updates on startup"
+msgstr "Проверять наличие новых версий при запуске"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:137
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:137
+msgid "Alternate list item background color"
+msgstr "Чередовать цвета строк в списке"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:138
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:138
+msgid "Hide zombie processes"
+msgstr "Скрывать процессы-зомби"
+
+# C:\DATA\VC\Daphne\PPStartup.cpp:139
+#: E:\Users\leandro\DATA\VC\Daphne\PPStartup.cpp:139
+msgid "Fast refresh"
+msgstr "Быстрое обновление списка"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:65
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:65
+msgid "Process name"
+msgstr "Имя процесса"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:66
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:66
+msgid "Action"
+msgstr "Действие"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:67
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:67
+msgid "Window title contains"
+msgstr "Заголовок окна содержит"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:121
+msgid "Can't edit this trap"
+msgstr "Невозможно редактировать эту ловушку"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:121
+msgid "Sorry"
+msgstr "Извините"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:132
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:135
+#, c-format
+msgid "Are you sure you want to remove the selected trap on %s?"
+msgstr "Действительно желаете удалить выбранную ловушку на %s?"
+
+# C:\DATA\VC\Daphne\PPTraps.cpp:133
+#: E:\Users\leandro\DATA\VC\Daphne\PPTraps.cpp:136
+#, c-format
+msgid "Removing \"%s\""
+msgstr "Удаление \"%s\""
+
+# C:\DATA\VC\Daphne\ProcessTreeDlg.cpp:44
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:47
+msgid " Process tree"
+msgstr "Дерево процессов"
+
+# C:\DATA\VC\Daphne\ProcessTreeDlg.cpp:46
+#: E:\Users\leandro\DATA\VC\Daphne\ProcessTreeDlg.cpp:49
+msgid ""
+"This tree is a snapshot and won't be updated until the dialog is closed and "
+"opened again."
+msgstr "Дерево не обновится, пока этот диалог не будет закрыт и открыт заново."
+
+# C:\DATA\VC\Daphne\ProcList.cpp:118
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:121
+msgid "Quick search by process name enabled."
+msgstr "Быстрый поиск по имени процесса ВКЛючен"
+
+# C:\DATA\VC\Daphne\ProcList.cpp:120
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:123
+msgid "Quick search by process name disabled."
+msgstr "Быстрый помк по имени процесса ОТКЛючен"
+
+# C:\DATA\VC\Daphne\ProcList.cpp:148
+#: E:\Users\leandro\DATA\VC\Daphne\ProcList.cpp:151
+#, c-format
+msgid "Highlighting %s..."
+msgstr "Просматриваю %s..."
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:101
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:54
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:114
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:54
+msgid " Properties"
+msgstr "Свойства"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:103
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:116
+msgid "...DRK search"
+msgstr "Поиск в DRK..."
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:104
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:117
+msgid "Environment"
+msgstr "Переменные среды"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:105
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:118
+msgid "Modules"
+msgstr "Модули"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:107
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:120
+msgid "More information"
+msgstr "Дополнительная информация"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:108
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:121
+msgid "Windows"
+msgstr "Окна"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:109
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:122
+msgid "Process:"
+msgstr "Процесс:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:110
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:123
+msgid "CmdLine:"
+msgstr "КомСтр:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:111
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:124
+msgid "Priority:"
+msgstr "Приоритет:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:113
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:126
+msgid "Created:"
+msgstr "Создан:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:114
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:127
+msgid "Kernel time:"
+msgstr "Время ядра:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:115
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:128
+msgid "User time:"
+msgstr "Вр. польз.:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:116
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:129
+msgid "Parent:"
+msgstr "Род-ль:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:130
+msgid "Owner:"
+msgstr "Владелец:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:131
+msgid "Min/max working set size:"
+msgstr "Мин/макс размер рабочего набора:"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:132
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:150
+msgid "ThreadID"
+msgstr "ThreadID"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:133
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:151
+msgid "References"
+msgstr "Ссылки"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:135
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:153
+msgid "CPU Time"
+msgstr "Время ЦП"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:174
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:193
+msgid "Not available"
+msgstr "Недоступно"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:178
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:197
+msgid "Service ["
+msgstr "Служба ["
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:184
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:203
+msgid "paused]"
+msgstr "приостановлена]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:187
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:206
+msgid "running]"
+msgstr "работает]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:190
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:209
+msgid "stoped]"
+msgstr "не запущена]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:193
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:212
+msgid "continue pending]"
+msgstr "возобновляется]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:196
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:215
+msgid "start pending]"
+msgstr "запускается]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:199
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:218
+msgid "stop pending]"
+msgstr "останавливается]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:202
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:221
+msgid "pause pending]"
+msgstr "приостановка]"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:340
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:369
+msgid "Make resizable"
+msgstr "Позволить изменять размер"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:341
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:370
+msgid "Quit caption"
+msgstr "Убрать заголовок окна"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:342
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:371
+msgid "Add caption"
+msgstr "Добавить заголовок окну"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:344
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:373
+msgid "Minimize"
+msgstr "Свернуть"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:345
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:374
+msgid "Restore"
+msgstr "Восстановить"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:346
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:375
+msgid "Maximize"
+msgstr "Развернуть"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:349
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:378
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:578
+msgid ""
+"Daphne was unable to get environment information.\n"
+"This feature is known to fail\n"
+"on some Windows versions."
+msgstr ""
+"Daphne не удалось получить информацию о среде.\n"
+"Эта функция не работает\n"
+"на некоторых версиях Windows."
+
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:594
+msgid ""
+"Read operation count %I64u\n"
+"Write operation count %I64u\n"
+"Other operation count %I64u\n"
+"Read transfer %I64u KBytes\n"
+"Write operation %I64u KBytes\n"
+"Other operation %I64u KBytes\n"
+msgstr ""
+"Читать подсчет числа операций %I64u\n"
+"Записать подсчет числа операций %I64u\n"
+"Другой подсчет числа операций %I64u\n"
+"Читать подсчет операций %I64u Кбайт\n"
+"Записать операцию %I64u Кбайт\n"
+"Другая операция %I64u Кбайт\n"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:584
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:647
+msgid "Suspend"
+msgstr "Приостановить"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:585
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:648
+msgid "Resume"
+msgstr "Возобновить"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:586
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:649
+msgid "Terminate"
+msgstr "Завершить"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:589
+# C:\DATA\VC\Daphne\Thread.cpp:169
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:652
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:169
+msgid "Time critical"
+msgstr "Реального времени"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:590
+# C:\DATA\VC\Daphne\Thread.cpp:161
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:653
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:161
+msgid "Highest"
+msgstr "Высокий"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:591
+# C:\DATA\VC\Daphne\Thread.cpp:157
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:654
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:157
+msgid "Above normal"
+msgstr "Выше среднего"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:593
+# C:\DATA\VC\Daphne\Thread.cpp:159
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:656
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:159
+msgid "Below normal"
+msgstr "Ниже среднего"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:594
+# C:\DATA\VC\Daphne\Thread.cpp:165
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:657
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:165
+msgid "Lowest"
+msgstr "Самый низкий"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:595
+# C:\DATA\VC\Daphne\Thread.cpp:163
+#: E:\Users\leandro\DATA\VC\Daphne\PropertiesDlg.cpp:658
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:163
+msgid "IDLE"
+msgstr "БЕЗДЕЙСТВИЕ"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:192
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:197
+msgid " Run process"
+msgstr "Запустить процесс"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:193
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:198
+msgid "Start process suspended"
+msgstr "Запустить приостановленным"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:194
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:199
+msgid "Run"
+msgstr "Запуск"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:196
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:201
+msgid "Program:"
+msgstr "Программа:"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:197
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:202
+msgid "Arguments:"
+msgstr "Аргументы:"
+
+# C:\DATA\VC\Daphne\RunProcDlg.cpp:198
+#: E:\Users\leandro\DATA\VC\Daphne\RunProcDlg.cpp:203
+msgid "Directory:"
+msgstr "Директория:"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:41
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:41
+msgid " Scheduled tasks"
+msgstr "Расписание задач"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:93
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:93
+msgid "Remove task"
+msgstr "Удалить задание"
+
+# C:\DATA\VC\Daphne\ScheduledTasksDlg.cpp:120
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduledTasksDlg.cpp:120
+msgid "Task removed."
+msgstr "Задание удалено."
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:65
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:67
+msgid " Shutdown at..."
+msgstr "Запланировать завершение работы..."
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:68
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:70
+msgid "Schedule system shutdown at:"
+msgstr "Запланировать завершение работы системы на:"
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:70
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:72
+msgid "Shutdown"
+msgstr "Завершение работы"
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:71
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:73
+msgid "Restart"
+msgstr "Перезагрузка"
+
+# C:\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:72
+#: E:\Users\leandro\DATA\VC\Daphne\ScheduleShutdownDlg.cpp:74
+msgid "Log off"
+msgstr "Завершение сеанса"
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:77
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:77
+msgid " Send message..."
+msgstr "Отправить сообщение..."
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:81
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:81
+msgid "lParam:"
+msgstr "lParam:"
+
+# C:\DATA\VC\Daphne\SendMsgDlg.cpp:82
+#: E:\Users\leandro\DATA\VC\Daphne\SendMsgDlg.cpp:82
+msgid "wParam:"
+msgstr "wParam:"
+
+# C:\DATA\VC\Daphne\Software.cpp:51
+#: E:\Users\leandro\DATA\VC\Daphne\Software.cpp:51
+msgid "[Binary data]"
+msgstr "[Двоичные данные]"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:56
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:56
+msgid "Version:"
+msgstr "Версия:"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:57
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:57
+msgid "Website:"
+msgstr "Сайт:"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:58
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:58
+msgid "Publisher:"
+msgstr "Издатель:"
+
+# C:\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:59
+#: E:\Users\leandro\DATA\VC\Daphne\SoftwarePropertiesDlg.cpp:59
+msgid "Raw information view"
+msgstr "Исходные сведения"
+
+# C:\DATA\VC\Daphne\SplashMDInit.cpp:42
+#: E:\Users\leandro\DATA\VC\Daphne\SplashMDInit.cpp:42
+msgid " Daphne multidesktop"
+msgstr "'МультиДесктоп' Daphne"
+
+# C:\DATA\VC\Daphne\SplashMDInit.cpp:43
+#: E:\Users\leandro\DATA\VC\Daphne\SplashMDInit.cpp:43
+msgid "Initializing..."
+msgstr "Инициализация..."
+
+# C:\DATA\VC\Daphne\Thread.cpp:63
+#: E:\Users\leandro\DATA\VC\Daphne\Thread.cpp:63
+#, c-format
+msgid "%08Xh - References %u - Priority %u/%u"
+msgstr "%08Xh - Ссылки %u - Приоритет %u/%u"
+
+# C:\DATA\VC\Daphne\Trap.cpp:86
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:114
+msgid "Notify process created"
+msgstr "Уведомить о создании процесса"
+
+# C:\DATA\VC\Daphne\Trap.cpp:107
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:135
+msgid "Set priority to real-time"
+msgstr "Установить приоритет реального времени"
+
+# C:\DATA\VC\Daphne\Trap.cpp:110
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:138
+msgid "Set priority to high"
+msgstr "Установить высокий приоритет"
+
+# C:\DATA\VC\Daphne\Trap.cpp:113
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:141
+msgid "Set priority to normal"
+msgstr "Установить нормальный приоритет"
+
+# C:\DATA\VC\Daphne\Trap.cpp:116
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:144
+msgid "Set priority to low"
+msgstr "Установить низкий приоритет"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:147
+msgid "Notify process destroyed"
+msgstr "Уведомить об уничтожении процесса "
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:150
+msgid "Set process affinity mask"
+msgstr "Установить процесс маски сходства"
+
+#: E:\Users\leandro\DATA\VC\Daphne\Trap.cpp:153
+msgid "Keep windows position and size"
+msgstr "Оставить положение и размер окна как есть"
+
+# C:\DATA\VC\Daphne\W32Values.cpp:87
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:87
+msgid " Win32 values"
+msgstr "Win32-значения"
+
+# C:\DATA\VC\Daphne\W32Values.cpp:90
+#: E:\Users\leandro\DATA\VC\Daphne\W32Values.cpp:90
+msgid "Filter:"
+msgstr "Фильтр:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:47
+msgid " Set window size"
+msgstr "Установить размер окна"
+
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:50
+msgid "New window size:"
+msgstr "Размер нового окна:"
+
+#: E:\Users\leandro\DATA\VC\Daphne\WindowSize.cpp:51
+msgid "Load predefined size:"
+msgstr "Загрузить предопределенный размер:"
+
+# C:\DATA\VC\Daphne\WndsPopUp.cpp:72
+#: E:\Users\leandro\DATA\VC\Daphne\WndsPopUp.cpp:72
+msgid " Hidden applications"
+msgstr "Скрытые приложения"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:19
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:19
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:18
+msgid ""
+"Usage: dc [command]\n"
+"\n"
+msgstr ""
+"Используйте: dc [команда]\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:19
+msgid ""
+"pstree\n"
+" show process list as hierarchy tree (default)\n"
+"\n"
+msgstr ""
+"pstree\n"
+"Показать список процессов как иерархическое дерево (по умолчанию)\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:20
+msgid ""
+"ps\n"
+" show process list\n"
+"\n"
+msgstr ""
+"ps\n"
+"Показать список процессов\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:21
+msgid ""
+"kill <pid>\n"
+" kill process by PID\n"
+"\n"
+msgstr ""
+"kill <pid>\n"
+"удалить процесс с помощью PID\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:22
+msgid ""
+"killall <name>\n"
+" kill all process by name\n"
+"\n"
+msgstr ""
+"killall <name>\n"
+"удалить весь процесс по имени\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:23
+msgid ""
+"killmenu <item>\n"
+" execute a previously configured Daphne's kill menu\n"
+"\n"
+msgstr ""
+"killmenu <item>\n"
+"выполнить предварительно сконфигурированное меню удаления Daphne\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:24
+msgid ""
+"showchildren <pid>\n"
+" list processes started by PID, including PID\n"
+"\n"
+msgstr ""
+"showchildren <pid>\n"
+"Список процессов, запущенных с PID, в том числе PID\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:25
+msgid ""
+"killchildren <pid>\n"
+" kill processes started by PID, including PID\n"
+"\n"
+msgstr ""
+"killchildren <pid>\n"
+"удалить процессы, запущенные с помощью PID, в том числе PID\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:26
+msgid ""
+"hashshow <hash> <filename>\n"
+" compute and show MD5 or SHA1 hash for this file\n"
+"\n"
+msgstr ""
+"hashshow <hash> <filename>\n"
+"вычислить и показать хеш  MD5 или SHA1 для этого файла\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:27
+msgid ""
+"hashcreatefile <hash> <filename>\n"
+" create a file with computed MD5 or SHA1 hash for this file\n"
+"\n"
+msgstr ""
+"hashcreatefile <hash> <filename>\n"
+"создать файл с вычисленным хэшэм MD5 или SHA1 для этого файла\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:28
+msgid ""
+"hashvalidatefile <hash> <filename>\n"
+" compute MD5 or SHA1 hash for this file and compare with hashfile\n"
+"\n"
+msgstr ""
+"hashvalidatefile <hash> <filename>\n"
+"вычислить MD5 или SHA1 хеш для этого файла и сравнить с файлом хеша\n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\dc\ActHelp.cpp:29
+msgid ""
+"help\n"
+" show command line help\n"
+"\n"
+msgstr ""
+"help\n"
+"показать справки командной строки \n"
+"\n"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShell.cpp:180
+msgid "Can't open restart manager session."
+msgstr "Невозможно открыть Диспетчер перезапуска ."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShell.cpp:188
+msgid "This file is not in use."
+msgstr "Этот файл не используется."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:83
+msgid "Full path to clipboard"
+msgstr "Полный путь в буфер"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:84
+msgid "Name to clipboard"
+msgstr "Имя в буфер"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:86
+msgid "Open CMD here..."
+msgstr "Открыть CMD здесь ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:95
+msgid "File listing to clipboard"
+msgstr "Список файлов в буфер"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:96
+msgid "Full path file listing to clipboard"
+msgstr "Полный путь списка файлов в буфер обмена"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:97
+msgid "Google this folder..."
+msgstr "Искать эту папку в Google ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:98
+msgid "Who is using this folder?"
+msgstr "Кто использует эту папку?"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:105
+msgid "Run with arguments..."
+msgstr "Запуск с аргументами ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:107
+msgid "Google this file..."
+msgstr "Искать этот файл в Google ..."
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:108
+msgid "Who is using this file?"
+msgstr "Кто использует этот файл?"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:109
+msgid "Compute MD5"
+msgstr "Вычислить MD5"
+
+#: E:\Users\leandro\DATA\VC\Daphne\DRKShell\DRKShellMenu.cpp:110
+msgid "Compute SHA1"
+msgstr "Вычислить SHA1"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:283
+#~ msgid "Find"
+#~ msgstr "Найти в списке процессов"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1441
+#~ msgid "Search the web..."
+#~ msgstr "Поиск в интернете..."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:1787
+# C:\DATA\VC\Daphne\PPMultidesktop.cpp:46
+#~ msgid "Multidesktop"
+#~ msgstr "МультиДесктоп"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2400
+#~ msgid "Thanks to Adrián, Santiago, Nico and Juan."
+#~ msgstr "Благодарности: Adrián, Santiago, Nico и Juan."
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2401
+#~ msgid "Giacomo Margarito - Italian translation"
+#~ msgstr "Giacomo Margarito - итальянская локал-я"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2402
+#~ msgid "He Zhenwei - Chinese translation"
+#~ msgstr "He Zhenwei - китайская локализация"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2403
+#~ msgid "Marc Cueni - French translation"
+#~ msgstr "Marc Cueni - французская локализация"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2404
+#~ msgid "Bunny Forth - Chinese translation contributor"
+#~ msgstr "Bunny Forth - помощь с китайским"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2405
+#~ msgid "Arno Krumpholz - German translation"
+#~ msgstr "Arno Krumpholz - немецкая локализация"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2406
+#~ msgid "Vicent Adam - Valencian translation"
+#~ msgstr "Vicent Adam - валенсийская локализация"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2407
+#~ msgid "Michal Trzebiatowski - Polish translation"
+#~ msgstr "Michal Trzebiatowski - польская локализация"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2408
+#~ msgid "Technical support at forum.drk.com.ar"
+#~ msgstr "Техническая поддержка на forum.drk.com.ar"
+
+# C:\DATA\VC\Daphne\DaphneDlg.cpp:2596
+#~ msgid ""
+#~ "There is a new version of Daphne ready to download. Would you like to "
+#~ "visit download web page?"
+#~ msgstr "Доступна новая версия Daphne. Желаете посетить страницу загрузки?"
+
+# C:\DATA\VC\Daphne\DskPreviewDlg.cpp:40
+#~ msgid " Preview"
+#~ msgstr "Предварительный просмотр"
+
+# C:\DATA\VC\Daphne\GreenDlg.cpp:43
+#~ msgid ""
+#~ "The system has been up for a long time. If you don't need to keep the "
+#~ "computer\n"
+#~ " running overnight really, please consider turning it off.\n"
+#~ "Help fighting the climate change!\n"
+#~ "\n"
+#~ "Click YES for more information about energy saving.\n"
+#~ "\n"
+#~ "(You won't see this windows again)"
+#~ msgstr ""
+#~ "Ваша система работает уже очень долго. Если нет необходимости, чтобы\n"
+#~ "компьютер работал всю ночь, пожалуйста, выключите его.\n"
+#~ "Внесите вклад в борьбу с изменением климата!\n"
+#~ "\n"
+#~ "Нажмите ДА, чтобы получить дополнительную информацию о сбережении "
+#~ "энергии.\n"
+#~ "\n"
+#~ "(Это сообщение не появится вновь)"
+
+# C:\DATA\VC\Daphne\PPLook.cpp:136
+#~ msgid "Main window"
+#~ msgstr "Главное окно"
+
+# C:\DATA\VC\Daphne\PPLook.cpp:140
+#~ msgid "transparence"
+#~ msgstr "Прозрачность"
+
+# C:\DATA\VC\Daphne\PropertiesDlg.cpp:543
+#~ msgid ""
+#~ "Daphne was unable to get environment information.\n"
+#~ "This feature is known to fail\n"
+#~ "on new Windows versions."
+#~ msgstr ""
+#~ "Daphne не удалось получить данные среды окружения.\n"
+#~ "Известно, что эта функция может не работать\n"
+#~ "в новых версиях Windows."
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:20
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:20
+#~ msgid "pstree: show process list as hierarchy tree (default)\n"
+#~ msgstr ""
+#~ "pstree: отобразить список процессов в виде иерархического дерева (по "
+#~ "умолчанию)\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:21
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:21
+#~ msgid "ps: show process list\n"
+#~ msgstr "ps: отобразить список процессов\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:22
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:22
+#~ msgid "kill <pid>: kill process by PID\n"
+#~ msgstr "kill <pid>: завершить процесс с идентификатором <pid>\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:23
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:23
+#~ msgid "killall <name>: kill all process by name\n"
+#~ msgstr "killall <имя>: завершить все процессы с именем <имя>\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:24
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:24
+#~ msgid ""
+#~ "killmenu <item>: execute a previously configured Daphne's kill menu\n"
+#~ msgstr ""
+#~ "killmenu <пункт меню>: выполнить предварительно созданнй <пункт меню> из "
+#~ "меню 'Завершить'\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:25
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:25
+#~ msgid "showchildren <pid>: list processes started by PID, including PID\n"
+#~ msgstr ""
+#~ "showchildren <pid>: отобразить процесс <pid> и список дочерних процессов\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:26
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:26
+#~ msgid "killchildren <pid>: kill processes started by PID, including PID\n"
+#~ msgstr ""
+#~ "killchildren <pid>: завершить процесс <pid> и все дочерние процессы\n"
+
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:27
+# C:\DATA\VC\Daphne\dc\ActHelp.cpp:27
+#~ msgid "help: show command line help\n"
+#~ msgstr "help: показать справку по работе с командной строкой\n"
